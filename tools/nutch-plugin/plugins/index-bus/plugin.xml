@@ -1,0 +1,33 @@
+<plugin id="index-bus" name="Bus Indexing Filter" version="1.0.0" provider-name="govithub">
+
+    <runtime>
+        <library name="BusIndexingFilterPlugin.jar">
+            <export name="*" />
+        </library>
+    </runtime>
+
+    <requires>
+        <import plugin="nutch-extensionpoints" />
+    </requires>
+
+    <extension id="ro.gov.ithub.infotranspub.nutch.DBIndexer"
+               name="Bus Indexer"
+               point="org.apache.nutch.indexer.IndexWriter">
+        <implementation id="index-bus" class="ro.gov.ithub.infotranspub.nutch.DBIndexer" />
+    </extension>
+
+    <!--
+        <extension id="ro.gov.ithub.infotranspub.nutch.BusIndexingFilter"
+                   name="Bus Indexing Filter"
+                   point="org.apache.nutch.indexer.IndexingFilter">
+            <implementation id="index-bus" class="ro.gov.ithub.infotranspub.nutch.BusIndexingFilter" />
+        </extension>
+
+        <extension id="ro.gov.ithub.infotranspub.nutch.BusParser"
+                   name="Bus Parser"
+                   point="org.apache.nutch.parse.Parser">
+            <implementation id="ro.gov.ithub.infotranspub.nutch.BusParser" class="ro.gov.ithub.infotranspub.nutch.BusParser" />
+        <parameter name="contentType" value="text/html|application/xhtml+xml"/>
+        </extension>
+    -->
+</plugin>

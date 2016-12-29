@@ -4,6 +4,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import ro.gov.ithub.base.BaseEntity;
+import ro.gov.ithub.entity.util.GpsCoordinate;
 import ro.gov.ithub.entity.util.StopLocationType;
 import ro.gov.ithub.entity.util.WheelchairAccessible;
 
@@ -35,11 +36,8 @@ public class Stop implements BaseEntity {
     @Column
     private String stopDesc;
 
-    @Column(nullable = false)
-    private Double stopLat;
-
-    @Column(nullable = false)
-    private Double stopLong;
+    @Embedded
+    private GpsCoordinate gpsCoordinates;
 
     @Column
     private Integer zoneId;

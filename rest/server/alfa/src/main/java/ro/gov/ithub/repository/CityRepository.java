@@ -1,10 +1,8 @@
-package ro.gov.ithub.city;
+package ro.gov.ithub.repository;
 
 import ro.gov.ithub.base.BaseRepository;
+import ro.gov.ithub.entity.City;
 
-/**
- * Created by Mihnea on 11/23/16.
- */
 public interface CityRepository extends BaseRepository<City, Integer> {
 
     City findCityByCityShortName(String shortName);

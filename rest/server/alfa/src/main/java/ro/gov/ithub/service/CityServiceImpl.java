@@ -1,8 +1,10 @@
-package ro.gov.ithub.city;
+package ro.gov.ithub.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import ro.gov.ithub.base.BaseServiceImpl;
+import ro.gov.ithub.entity.City;
+import ro.gov.ithub.repository.CityRepository;
 
 @Service
 public class CityServiceImpl extends BaseServiceImpl<City, Integer> implements CityService {

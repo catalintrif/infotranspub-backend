@@ -1,4 +1,4 @@
-package ro.gov.ithub.agency;
+package ro.gov.ithub.service;
 
 import ro.gov.ithub.base.BaseService;
 import ro.gov.ithub.entity.Agency;

@@ -1,10 +1,9 @@
-package ro.gov.ithub.city;
+package ro.gov.ithub.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import ro.gov.ithub.base.BaseEntity;
-import ro.gov.ithub.entity.Agency;
 
 import javax.persistence.*;
 import java.util.Set;

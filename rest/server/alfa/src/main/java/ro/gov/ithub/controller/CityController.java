@@ -1,4 +1,4 @@
-package ro.gov.ithub.city;
+package ro.gov.ithub.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -6,12 +6,12 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import ro.gov.ithub.base.BaseController;
+import ro.gov.ithub.entity.City;
+import ro.gov.ithub.service.CityService;
 
 import java.util.Collection;
 
-import static org.springframework.web.bind.annotation.RequestMethod.DELETE;
-import static org.springframework.web.bind.annotation.RequestMethod.GET;
-import static org.springframework.web.bind.annotation.RequestMethod.POST;
+import static org.springframework.web.bind.annotation.RequestMethod.*;
 
 @RestController
 public class CityController extends BaseController<City> {

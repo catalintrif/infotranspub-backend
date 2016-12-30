@@ -1,18 +1,32 @@
-# nutch-plugin
-Plugin pentru crawler-ul Apache Nutch (http://nutch.apache.org) care scrie intr-o tabela URL-urile nou gasite sau modificate,
-pornind de la lista de seed-uri.
+#nutch-plugin
+Plugin pentru crawler-ul Apache Nutch (http://nutch.apache.org), care scrie intr-o tabela toate URL-urile nou gasite
+sau modificate. Crawler-ul porneste de la o lista initiala (redusa) de URL-uri, definita in fisierul urls/seed.txt.
 
-Instalare
-* Download distributie binara Nutch 1.12 http://www.apache.org/dyn/closer.lua/nutch/1.12/apache-nutch-1.12-bin.tar.gz
+##Instalare
+* Download distributie binara Nutch 1.12 (http://www.apache.org/dyn/closer.lua/nutch/1.12/apache-nutch-1.12-bin.tar.gz)
 * Dezarhivare (de preferat in directorul home):
+```
 tar -xvf apache-nutch-1.12-bin.tar.gz
-* Setare JAVA_HOME (exemplu OSX)
+```
+* Setare JAVA_HOME (exemplu OSX):
+```
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home
-* Verificare / modificare locatie instalare Nutch (proprietatea nutch.home) in pom.xml pentru a copia corect resursele dupa build
-* Build proiect (include copiere configurari Nutch si plugin-ul)
+```
+* Verificare / modificare locatie instalare Nutch (proprietatea nutch.home) in pom.xml pentru a copia corect resursele
+dupa build:
+```
+    <nutch.home>${env.HOME}/apache-nutch-1.12</nutch.home>
+```
+* Build proiect (include copiere configurari Nutch si plugin-ul):
+```
 mvn install
-* Copiere driver JDBC in directorul plugin-ului
+```
+* Copiere driver JDBC in directorul plugin-ului:
+```
 cd ~/apache-nutch-1.12
 cp ~/.m2/repository/org/postgresql/postgresql/9.4.1212/postgresql-9.4.1212.jar plugins/indexer-db/postgresql.jar
-* Lansare crawler
+```
+* Lansare crawler:
+```
 ./run.sh
+```

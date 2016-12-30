@@ -1,5 +1,4 @@
-#http://localhost:8080/plugins.html
-http://www.publitrans2000.ro
 file:///Users/catalin.trif/IdeaProjects/infotranspub-backend/tools/nutch-plugin/src/test/resources/index.html
+http://www.publitrans2000.ro
 http://www.meditur.ro/index.php?option=com_content&view=article&id=111&Itemid=740
 http://ratb.ro/v_trasee.php

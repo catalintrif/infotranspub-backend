@@ -6,7 +6,7 @@
 <configuration>
     <property>
         <name>http.agent.name</name>
-        <value>My Nutch Spider</value>
+        <value>GovITHub Crawler</value>
     </property>
 
     <property>
@@ -17,7 +17,7 @@
 
     <property>
         <name>plugin.includes</name>
-        <value>index-bus|nutch-extensionpoints|protocol-http|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+        <value>indexer-db|nutch-extensionpoints|protocol-(http|file)|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
         <description> indexer-dummy|
             Regular expression naming plugin directory names to
             include.  Any plugin not matching this expression is excluded.

@@ -1,0 +1,2234 @@
+{
+  "type": "night",
+  "lineId": "N116",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4358",
+        "name": "PIATA UNIRII 5",
+        "location": "BD. I.C.BRATIANU",
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "saturday": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "729",
+        "name": "UNIVERSITATE",
+        "location": "BD. REGINA ELISABETA",
+        "gpsCoordinates": {
+          "latitude": 44.435286,
+          "longitude": 26.100726
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "saturday": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2933",
+        "name": "GRADINA CISMIGIU",
+        "location": "BD. REGINA ELISABETA",
+        "gpsCoordinates": {
+          "latitude": 44.434734,
+          "longitude": 26.09376
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ],
+          "weekdays": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ],
+          "saturday": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "731",
+        "name": "PIATA MIHAIL KOGALNICEANU",
+        "location": "PTA. M.KOGALNICEANU",
+        "gpsCoordinates": {
+          "latitude": 44.434605,
+          "longitude": 26.086921
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "0:58",
+            "3:24",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:18",
+            "0:58",
+            "3:24",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "saturday": [
+            "0:18",
+            "0:58",
+            "3:24",
+            "4:08",
+            "4:48",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2575",
+        "name": "FACULTATEA DE DREPT",
+        "location": "BD. M.KOGALNICEANU",
+        "gpsCoordinates": {
+          "latitude": 44.434477,
+          "longitude": 26.080658
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:00",
+            "3:26",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:00",
+            "3:26",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:00",
+            "3:26",
+            "4:10",
+            "4:50",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1377",
+        "name": "SPITALUL UNIVERSITAR",
+        "location": "BD. EROILOR",
+        "gpsCoordinates": {
+          "latitude": 44.43531,
+          "longitude": 26.073878
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:02",
+            "3:28",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:02",
+            "3:28",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "saturday": [
+            "0:22",
+            "1:02",
+            "3:28",
+            "4:12",
+            "4:52",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1253",
+        "name": "CAROL DAVILA",
+        "location": "BD. EROILOR",
+        "gpsCoordinates": {
+          "latitude": 44.43215,
+          "longitude": 26.06992
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:04",
+            "3:31",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:04",
+            "3:31",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:04",
+            "3:31",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "735",
+        "name": "SOSEAUA PANDURILOR",
+        "location": "STR. DR. BAGDASAR",
+        "gpsCoordinates": {
+          "latitude": 44.429553,
+          "longitude": 26.06396
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:06",
+            "3:33",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:06",
+            "3:33",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "saturday": [
+            "0:26",
+            "1:06",
+            "3:33",
+            "4:16",
+            "4:56",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "2671",
+        "name": "DRUMUL SARII",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.428497,
+          "longitude": 26.060516
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "1:09",
+            "3:35",
+            "4:19",
+            "4:59",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:29",
+            "1:09",
+            "3:35",
+            "4:19",
+            "4:59",
+            "23:49"
+          ],
+          "saturday": [
+            "0:29",
+            "1:09",
+            "3:35",
+            "4:19",
+            "4:59",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "736",
+        "name": "LT. NICOLAE GAINA",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.426524,
+          "longitude": 26.058416
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:11",
+            "3:38",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:11",
+            "3:38",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "saturday": [
+            "0:31",
+            "1:11",
+            "3:38",
+            "4:21",
+            "5:01",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "737",
+        "name": "ORIZONT",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.425288,
+          "longitude": 26.051206
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:13",
+            "3:40",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:13",
+            "3:40",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "saturday": [
+            "0:33",
+            "1:13",
+            "3:40",
+            "4:23",
+            "5:03",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "738",
+        "name": "FAVORIT",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.424327,
+          "longitude": 26.045196
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:15",
+            "3:42",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:15",
+            "3:42",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "saturday": [
+            "0:35",
+            "1:15",
+            "3:42",
+            "4:25",
+            "5:05",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "739",
+        "name": "DRUMUL TABEREI 34",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.423199,
+          "longitude": 26.041219
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:17",
+            "3:45",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:17",
+            "3:45",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "saturday": [
+            "0:37",
+            "1:17",
+            "3:45",
+            "4:27",
+            "5:07",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "740",
+        "name": "PIATA DRUMUL TABEREI",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.422416,
+          "longitude": 26.033721
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:19",
+            "3:47",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:19",
+            "3:47",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "saturday": [
+            "0:39",
+            "1:19",
+            "3:47",
+            "4:29",
+            "5:09",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "741",
+        "name": "POIANA MUNTELUI",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.422749,
+          "longitude": 26.02946
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:49",
+            "4:31",
+            "5:11"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:49",
+            "4:31",
+            "5:11"
+          ],
+          "saturday": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:49",
+            "4:31",
+            "5:11"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "742",
+        "name": "ROMANCIERILOR",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.423415,
+          "longitude": 26.024533
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:43",
+            "1:23",
+            "3:51",
+            "4:33",
+            "5:13"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:43",
+            "1:23",
+            "3:51",
+            "4:33",
+            "5:13"
+          ],
+          "saturday": [
+            "0:03",
+            "0:43",
+            "1:23",
+            "3:51",
+            "4:33",
+            "5:13"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "157",
+        "name": "PIATA VALEA IALOMITEI",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.420509,
+          "longitude": 26.019912
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:54",
+            "4:35",
+            "5:15"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:54",
+            "4:35",
+            "5:15"
+          ],
+          "saturday": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:54",
+            "4:35",
+            "5:15"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "1800",
+        "name": "POSTA",
+        "location": "STR. VALEA ARGESULUI",
+        "gpsCoordinates": {
+          "latitude": 44.417039,
+          "longitude": 26.020356
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:56",
+            "4:38",
+            "5:18"
+          ],
+          "weekdays": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:56",
+            "4:38",
+            "5:18"
+          ],
+          "saturday": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:56",
+            "4:38",
+            "5:18"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4245",
+        "name": "VALEA ARGESULUI",
+        "location": "STR. VALEA ARGESULUI",
+        "gpsCoordinates": {
+          "latitude": 44.4157761,
+          "longitude": 26.0155395
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:58",
+            "4:40",
+            "5:20"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:58",
+            "4:40",
+            "5:20"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:58",
+            "4:40",
+            "5:20"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "1352",
+        "name": "VALEA IALOMITEI",
+        "location": "STR. VALEA OLTULUI",
+        "gpsCoordinates": {
+          "latitude": 44.421445,
+          "longitude": 26.012807
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "0:52",
+            "1:32",
+            "4:01",
+            "4:42",
+            "5:22"
+          ],
+          "weekdays": [
+            "0:12",
+            "0:52",
+            "1:32",
+            "4:01",
+            "4:42",
+            "5:22"
+          ],
+          "saturday": [
+            "0:12",
+            "0:52",
+            "1:32",
+            "4:01",
+            "4:42",
+            "5:22"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "906",
+        "name": "VALEA OLTULUI",
+        "location": "BD. TIMISOARA",
+        "gpsCoordinates": {
+          "latitude": 44.424678,
+          "longitude": 26.010401
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "0:54",
+            "1:34",
+            "4:03",
+            "4:44",
+            "5:24"
+          ],
+          "weekdays": [
+            "0:14",
+            "0:54",
+            "1:34",
+            "4:03",
+            "4:44",
+            "5:24"
+          ],
+          "saturday": [
+            "0:14",
+            "0:54",
+            "1:34",
+            "4:03",
+            "4:44",
+            "5:24"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "907",
+        "name": "TEXTILA MILITARI",
+        "location": "BD. TIMISOARA",
+        "gpsCoordinates": {
+          "latitude": 44.424217,
+          "longitude": 26.004338
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:16",
+            "0:56",
+            "1:36",
+            "4:05",
+            "4:46",
+            "5:26"
+          ],
+          "weekdays": [
+            "0:16",
+            "0:56",
+            "1:36",
+            "4:05",
+            "4:46",
+            "5:26"
+          ],
+          "saturday": [
+            "0:16",
+            "0:56",
+            "1:36",
+            "4:05",
+            "4:46",
+            "5:26"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "4337",
+        "name": "VALEA CASCADELOR",
+        "location": "STR. VALEA CASCADELOR",
+        "gpsCoordinates": {
+          "latitude": 44.4248642,
+          "longitude": 25.9993136
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "0:58",
+            "1:38",
+            "4:08",
+            "4:48",
+            "5:28"
+          ],
+          "weekdays": [
+            "0:18",
+            "0:58",
+            "1:38",
+            "4:08",
+            "4:48",
+            "5:28"
+          ],
+          "saturday": [
+            "0:18",
+            "0:58",
+            "1:38",
+            "4:08",
+            "4:48",
+            "5:28"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "2579",
+        "name": "C.F.R. COTROCENI",
+        "location": "STR. VALEA CASCADELOR",
+        "gpsCoordinates": {
+          "latitude": 44.428343,
+          "longitude": 26.001762
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:00",
+            "1:40",
+            "4:10",
+            "4:50",
+            "5:30"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:00",
+            "1:40",
+            "4:10",
+            "4:50",
+            "5:30"
+          ],
+          "saturday": [
+            "0:20",
+            "1:00",
+            "1:40",
+            "4:10",
+            "4:50",
+            "5:30"
+          ]
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "3801",
+        "name": "DEPOUL MILITARI",
+        "location": "BD. PRECIZIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:02",
+            "1:42",
+            "4:12",
+            "4:52",
+            "5:32"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:02",
+            "1:42",
+            "4:12",
+            "4:52",
+            "5:32"
+          ],
+          "saturday": [
+            "0:22",
+            "1:02",
+            "1:42",
+            "4:12",
+            "4:52",
+            "5:32"
+          ]
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "2624",
+        "name": "GRUP SCOLAR AUTO",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.435723,
+          "longitude": 25.972492
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:05",
+            "1:45",
+            "4:15",
+            "4:55",
+            "5:35"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:05",
+            "1:45",
+            "4:15",
+            "4:55",
+            "5:35"
+          ],
+          "saturday": [
+            "0:25",
+            "1:05",
+            "1:45",
+            "4:15",
+            "4:55",
+            "5:35"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "2624",
+        "name": "GRUP SCOLAR AUTO",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.435723,
+          "longitude": 25.972492
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:10",
+            "3:00",
+            "3:40",
+            "4:20",
+            "22:30",
+            "23:10",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:10",
+            "3:00",
+            "3:40",
+            "4:20",
+            "22:30",
+            "23:10",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:10",
+            "3:00",
+            "3:40",
+            "4:20",
+            "22:30",
+            "23:10",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2625",
+        "name": "VICTORIA",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434912,
+          "longitude": 25.981894
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:13",
+            "3:03",
+            "3:43",
+            "4:23",
+            "22:33",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:13",
+            "3:03",
+            "3:43",
+            "4:23",
+            "22:33",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:33",
+            "1:13",
+            "3:03",
+            "3:43",
+            "4:23",
+            "22:33",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2774",
+        "name": "METRO MILITARI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434319,
+          "longitude": 25.98924
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:15",
+            "3:05",
+            "3:45",
+            "4:25",
+            "22:35",
+            "23:15",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:15",
+            "3:05",
+            "3:45",
+            "4:25",
+            "22:35",
+            "23:15",
+            "23:55"
+          ],
+          "saturday": [
+            "0:35",
+            "1:15",
+            "3:05",
+            "3:45",
+            "4:25",
+            "22:35",
+            "23:15",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2626",
+        "name": "NUFARUL",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.433861,
+          "longitude": 25.995328
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "1:16",
+            "3:06",
+            "3:46",
+            "4:26",
+            "22:36",
+            "23:16",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:36",
+            "1:16",
+            "3:06",
+            "3:46",
+            "4:26",
+            "22:36",
+            "23:16",
+            "23:56"
+          ],
+          "saturday": [
+            "0:36",
+            "1:16",
+            "3:06",
+            "3:46",
+            "4:26",
+            "22:36",
+            "23:16",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2627",
+        "name": "MASTER",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.433742,
+          "longitude": 26.000056
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:18",
+            "3:08",
+            "3:48",
+            "4:28",
+            "22:38",
+            "23:18",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:18",
+            "3:08",
+            "3:48",
+            "4:28",
+            "22:38",
+            "23:18",
+            "23:58"
+          ],
+          "saturday": [
+            "0:38",
+            "1:18",
+            "3:08",
+            "3:48",
+            "4:28",
+            "22:38",
+            "23:18",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "3536",
+        "name": "IMPRIMERIA NATIONALA",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.433735,
+          "longitude": 26.002859
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:10",
+            "3:50",
+            "4:30",
+            "22:40",
+            "23:20"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:10",
+            "3:50",
+            "4:30",
+            "22:40",
+            "23:20"
+          ],
+          "saturday": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:10",
+            "3:50",
+            "4:30",
+            "22:40",
+            "23:20"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1341",
+        "name": "BD. PRECIZIEI",
+        "location": "STR. VALEA CASCADELOR",
+        "gpsCoordinates": {
+          "latitude": 44.432943,
+          "longitude": 26.005463
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:11",
+            "3:51",
+            "4:31",
+            "22:41",
+            "23:21"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:11",
+            "3:51",
+            "4:31",
+            "22:41",
+            "23:21"
+          ],
+          "saturday": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:11",
+            "3:51",
+            "4:31",
+            "22:41",
+            "23:21"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1342",
+        "name": "C.F.R. COTROCENI",
+        "location": "STR. VALEA CASCADELOR",
+        "gpsCoordinates": {
+          "latitude": 44.428984,
+          "longitude": 26.00207
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:43",
+            "1:23",
+            "3:13",
+            "3:53",
+            "4:33",
+            "22:43",
+            "23:23"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:43",
+            "1:23",
+            "3:13",
+            "3:53",
+            "4:33",
+            "22:43",
+            "23:23"
+          ],
+          "saturday": [
+            "0:03",
+            "0:43",
+            "1:23",
+            "3:13",
+            "3:53",
+            "4:33",
+            "22:43",
+            "23:23"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4326",
+        "name": "VALEA CASCADELOR",
+        "location": "BD. TIMISOARA",
+        "gpsCoordinates": {
+          "latitude": 44.4248642,
+          "longitude": 25.9993136
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:15",
+            "3:55",
+            "4:35",
+            "22:45",
+            "23:25"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:15",
+            "3:55",
+            "4:35",
+            "22:45",
+            "23:25"
+          ],
+          "saturday": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:15",
+            "3:55",
+            "4:35",
+            "22:45",
+            "23:25"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "918",
+        "name": "TEXTILA MILITARI",
+        "location": "BD. TIMISOARA",
+        "gpsCoordinates": {
+          "latitude": 44.42408,
+          "longitude": 26.005636
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:07",
+            "0:47",
+            "1:27",
+            "3:17",
+            "3:57",
+            "4:37",
+            "22:47",
+            "23:27"
+          ],
+          "weekdays": [
+            "0:07",
+            "0:47",
+            "1:27",
+            "3:17",
+            "3:57",
+            "4:37",
+            "22:47",
+            "23:27"
+          ],
+          "saturday": [
+            "0:07",
+            "0:47",
+            "1:27",
+            "3:17",
+            "3:57",
+            "4:37",
+            "22:47",
+            "23:27"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "919",
+        "name": "VALEA OLTULUI",
+        "location": "STR. VALEA OLTULUI",
+        "gpsCoordinates": {
+          "latitude": 44.423961,
+          "longitude": 26.01202
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:18",
+            "3:58",
+            "4:38",
+            "22:48",
+            "23:28"
+          ],
+          "weekdays": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:18",
+            "3:58",
+            "4:38",
+            "22:48",
+            "23:28"
+          ],
+          "saturday": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:18",
+            "3:58",
+            "4:38",
+            "22:48",
+            "23:28"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3524",
+        "name": "VALEA IALOMITEI",
+        "location": "STR. VALEA OLTULUI",
+        "gpsCoordinates": {
+          "latitude": 44.418107,
+          "longitude": 25.985606
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:20",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:20",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:20",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2043",
+        "name": "VALEA ARGESULUI",
+        "location": "STR. VALEA ARGESULUI",
+        "gpsCoordinates": {
+          "latitude": 44.415664,
+          "longitude": 26.01561
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "0:52",
+            "1:32",
+            "3:22",
+            "4:02",
+            "4:42",
+            "22:52",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:12",
+            "0:52",
+            "1:32",
+            "3:22",
+            "4:02",
+            "4:42",
+            "22:52",
+            "23:32"
+          ],
+          "saturday": [
+            "0:12",
+            "0:52",
+            "1:32",
+            "3:22",
+            "4:02",
+            "4:42",
+            "22:52",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "376",
+        "name": "DRUMUL TABEREI 85",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.418168,
+          "longitude": 26.020586
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "0:53",
+            "1:33",
+            "3:23",
+            "4:03",
+            "4:43",
+            "22:53",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:13",
+            "0:53",
+            "1:33",
+            "3:23",
+            "4:03",
+            "4:43",
+            "22:53",
+            "23:33"
+          ],
+          "saturday": [
+            "0:13",
+            "0:53",
+            "1:33",
+            "3:23",
+            "4:03",
+            "4:43",
+            "22:53",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "746",
+        "name": "PIATA VALEA IALOMITEI",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.421521,
+          "longitude": 26.0211
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "0:55",
+            "1:35",
+            "3:25",
+            "4:05",
+            "4:45",
+            "22:55",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:15",
+            "0:55",
+            "1:35",
+            "3:25",
+            "4:05",
+            "4:45",
+            "22:55",
+            "23:35"
+          ],
+          "saturday": [
+            "0:15",
+            "0:55",
+            "1:35",
+            "3:25",
+            "4:05",
+            "4:45",
+            "22:55",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "747",
+        "name": "ROMANCIERILOR",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.422845,
+          "longitude": 26.025964
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "0:57",
+            "1:37",
+            "3:27",
+            "4:07",
+            "4:47",
+            "22:57",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:17",
+            "0:57",
+            "1:37",
+            "3:27",
+            "4:07",
+            "4:47",
+            "22:57",
+            "23:37"
+          ],
+          "saturday": [
+            "0:17",
+            "0:57",
+            "1:37",
+            "3:27",
+            "4:07",
+            "4:47",
+            "22:57",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "748",
+        "name": "POIANA MUNTELUI",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.422226,
+          "longitude": 26.030059
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "0:58",
+            "1:38",
+            "3:28",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:18",
+            "0:58",
+            "1:38",
+            "3:28",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ],
+          "saturday": [
+            "0:18",
+            "0:58",
+            "1:38",
+            "3:28",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "749",
+        "name": "PIATA DRUMUL TABEREI",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.42209,
+          "longitude": 26.035695
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:00",
+            "1:40",
+            "3:30",
+            "4:10",
+            "4:50",
+            "23:00",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:00",
+            "1:40",
+            "3:30",
+            "4:10",
+            "4:50",
+            "23:00",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:00",
+            "1:40",
+            "3:30",
+            "4:10",
+            "4:50",
+            "23:00",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "750",
+        "name": "DRUMUL TABEREI 35",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.423192,
+          "longitude": 26.042374
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:02",
+            "1:42",
+            "3:32",
+            "4:12",
+            "4:52",
+            "23:02",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:02",
+            "1:42",
+            "3:32",
+            "4:12",
+            "4:52",
+            "23:02",
+            "23:42"
+          ],
+          "saturday": [
+            "0:22",
+            "1:02",
+            "1:42",
+            "3:32",
+            "4:12",
+            "4:52",
+            "23:02",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "751",
+        "name": "FAVORIT",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.423875,
+          "longitude": 26.045997
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:04",
+            "1:44",
+            "3:34",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:04",
+            "1:44",
+            "3:34",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:04",
+            "1:44",
+            "3:34",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "518",
+        "name": "ORIZONT",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.425342,
+          "longitude": 26.05325
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:05",
+            "1:45",
+            "3:35",
+            "4:15",
+            "4:55",
+            "23:05",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:05",
+            "1:45",
+            "3:35",
+            "4:15",
+            "4:55",
+            "23:05",
+            "23:45"
+          ],
+          "saturday": [
+            "0:25",
+            "1:05",
+            "1:45",
+            "3:35",
+            "4:15",
+            "4:55",
+            "23:05",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "752",
+        "name": "LT. NICOLAE GAINA",
+        "location": "DRUMUL TABEREI",
+        "gpsCoordinates": {
+          "latitude": 44.42695,
+          "longitude": 26.059358
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:07",
+            "1:47",
+            "3:37",
+            "4:17",
+            "4:57",
+            "23:07",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:07",
+            "1:47",
+            "3:37",
+            "4:17",
+            "4:57",
+            "23:07",
+            "23:47"
+          ],
+          "saturday": [
+            "0:27",
+            "1:07",
+            "1:47",
+            "3:37",
+            "4:17",
+            "4:57",
+            "23:07",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "2672",
+        "name": "PIATA DANNY HUWE",
+        "location": "DRUMUL SARII",
+        "gpsCoordinates": {
+          "latitude": 44.428447,
+          "longitude": 26.060889
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "1:09",
+            "1:49",
+            "3:39",
+            "4:19",
+            "4:59",
+            "23:09",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:29",
+            "1:09",
+            "1:49",
+            "3:39",
+            "4:19",
+            "4:59",
+            "23:09",
+            "23:49"
+          ],
+          "saturday": [
+            "0:29",
+            "1:09",
+            "1:49",
+            "3:39",
+            "4:19",
+            "4:59",
+            "23:09",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "754",
+        "name": "PROFESOR DR. RAINER",
+        "location": "STR. PROF.DR.RAINER",
+        "gpsCoordinates": {
+          "latitude": 44.428488,
+          "longitude": 26.066172
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:10",
+            "1:50",
+            "3:40",
+            "4:20",
+            "5:00",
+            "23:10",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:10",
+            "1:50",
+            "3:40",
+            "4:20",
+            "5:00",
+            "23:10",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:10",
+            "1:50",
+            "3:40",
+            "4:20",
+            "5:00",
+            "23:10",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "4525",
+        "name": "PIATA OPEREI",
+        "location": "STR. SF.ELEFTERIE",
+        "gpsCoordinates": {
+          "latitude": 44.433962,
+          "longitude": 26.077417
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:12",
+            "1:52",
+            "3:42",
+            "4:22",
+            "5:02",
+            "23:12",
+            "23:52"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:12",
+            "1:52",
+            "3:42",
+            "4:22",
+            "5:02",
+            "23:12",
+            "23:52"
+          ],
+          "saturday": [
+            "0:32",
+            "1:12",
+            "1:52",
+            "3:42",
+            "4:22",
+            "5:02",
+            "23:12",
+            "23:52"
+          ]
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "758",
+        "name": "PIATA MIHAIL KOGALNICEANU",
+        "location": "PTA. M.KOGALNICEANU",
+        "gpsCoordinates": {
+          "latitude": 44.434806,
+          "longitude": 26.08811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:14",
+            "1:54",
+            "3:44",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:14",
+            "1:54",
+            "3:44",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:34",
+            "1:14",
+            "1:54",
+            "3:44",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "2934",
+        "name": "GRADINA CISMIGIU",
+        "location": "BD. REGINA ELISABETA",
+        "gpsCoordinates": {
+          "latitude": 44.434624,
+          "longitude": 26.094497
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:15",
+            "1:55",
+            "3:45",
+            "4:25",
+            "5:05",
+            "23:15",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:15",
+            "1:55",
+            "3:45",
+            "4:25",
+            "5:05",
+            "23:15",
+            "23:55"
+          ],
+          "saturday": [
+            "0:35",
+            "1:15",
+            "1:55",
+            "3:45",
+            "4:25",
+            "5:05",
+            "23:15",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "27",
+        "stopCode": "4000",
+        "name": "UNIVERSITATE",
+        "location": "BD. REGINA ELISABETA",
+        "gpsCoordinates": {
+          "latitude": 45.656704,
+          "longitude": 25.5991428
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:17",
+            "1:57",
+            "3:47",
+            "4:27",
+            "5:07",
+            "23:17",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:17",
+            "1:57",
+            "3:47",
+            "4:27",
+            "5:07",
+            "23:17",
+            "23:57"
+          ],
+          "saturday": [
+            "0:37",
+            "1:17",
+            "1:57",
+            "3:47",
+            "4:27",
+            "5:07",
+            "23:17",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "28",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:19",
+            "1:59",
+            "3:49",
+            "4:29",
+            "5:09",
+            "23:19",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:19",
+            "1:59",
+            "3:49",
+            "4:29",
+            "5:09",
+            "23:19",
+            "23:59"
+          ],
+          "saturday": [
+            "0:39",
+            "1:19",
+            "1:59",
+            "3:49",
+            "4:29",
+            "5:09",
+            "23:19",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "29",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "2:01",
+            "3:51",
+            "4:31",
+            "5:11",
+            "23:21"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "2:01",
+            "3:51",
+            "4:31",
+            "5:11",
+            "23:21"
+          ],
+          "saturday": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "2:01",
+            "3:51",
+            "4:31",
+            "5:11",
+            "23:21"
+          ]
+        }
+      }
+    ]
+  }
+}

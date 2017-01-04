@@ -1,0 +1,282 @@
+{
+  "type": "metropolitan",
+  "lineId": "439",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3652",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.398802,
+          "longitude": 26.045176
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2085",
+        "name": "TEIULUI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.395183,
+          "longitude": 26.035478
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3048",
+        "name": "PENITENCIARUL RAHOVA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.394109,
+          "longitude": 26.031662
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3420",
+        "name": "ALBOTESTI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.393262,
+          "longitude": 26.028581
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "667",
+        "name": "GLADIOLELOR",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.392382,
+          "longitude": 26.025264
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4066",
+        "name": "PECO",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.385794,
+          "longitude": 26.001977
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4094",
+        "name": "POD CENTURA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.38153,
+          "longitude": 25.98839
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "670",
+        "name": "GRIVITEI",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.372215,
+          "longitude": 25.97795
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4567",
+        "name": "BRAGADIRU",
+        "location": "SOS. CLINCENI (DJ 401A)",
+        "gpsCoordinates": {
+          "latitude": 44.365404,
+          "longitude": 25.970402
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4568",
+        "name": "HOTARULUI",
+        "location": "SOS. CLINCENI (DJ 401A)"
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4569",
+        "name": "SOSEAUA CLINCENI",
+        "location": "SOS. CLINCENI (DJ 401A)",
+        "gpsCoordinates": {
+          "latitude": 44.373081,
+          "longitude": 25.954344
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "4570",
+        "name": "MONUMENTUL EROILOR",
+        "location": "SOS. CLINCENI (DJ 401A)",
+        "gpsCoordinates": {
+          "latitude": 44.371911,
+          "longitude": 25.949202
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4571",
+        "name": "PRIMARIA CLINCENI",
+        "location": "SOSEAUA ORDOREANU (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.377827,
+          "longitude": 25.942971
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4549",
+        "name": "CLINCENI",
+        "location": "SOSEAUA ORDOREANU (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.376359,
+          "longitude": 25.938067
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4549",
+        "name": "CLINCENI",
+        "location": "SOSEAUA ORDOREANU (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.376359,
+          "longitude": 25.938067
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1685",
+        "name": "PRIMARIA CLINCENI",
+        "location": "SOSEAUA ORDOREANU (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.377801,
+          "longitude": 25.943118
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4572",
+        "name": "MONUMENTUL EROILOR",
+        "location": "SOS. CLINCENI (DJ 401A)",
+        "gpsCoordinates": {
+          "latitude": 44.371931,
+          "longitude": 25.949126
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "4573",
+        "name": "SOSEAUA CLINCENI",
+        "location": "SOS. CLINCENI (DJ 401A)",
+        "gpsCoordinates": {
+          "latitude": 44.373255,
+          "longitude": 25.955985
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4574",
+        "name": "HOTARULUI",
+        "location": "SOS. CLINCENI (DJ 401A)",
+        "gpsCoordinates": {
+          "latitude": 44.370971,
+          "longitude": 25.959367
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4606",
+        "name": "BRAGADIRU",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)"
+      },
+      {
+        "stopId": "6",
+        "stopCode": "677",
+        "name": "GRIVITEI",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.372067,
+          "longitude": 25.977974
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2713",
+        "name": "POD CENTURA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.381839,
+          "longitude": 25.989729
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4067",
+        "name": "PECO",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 45.1200453,
+          "longitude": 25.7392612
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "680",
+        "name": "GLADIOLELOR",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.392459,
+          "longitude": 26.026179
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "3618",
+        "name": "ALBOTESTI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.393274,
+          "longitude": 26.029131
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3049",
+        "name": "PENITENCIARUL RAHOVA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.394198,
+          "longitude": 26.032611
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2090",
+        "name": "TEIULUI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.395267,
+          "longitude": 26.036391
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4062",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.39865,
+          "longitude": 26.04529
+        }
+      }
+    ]
+  }
+}

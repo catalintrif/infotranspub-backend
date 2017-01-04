@@ -1,0 +1,170 @@
+{
+  "type": "metropolitan",
+  "lineId": "471",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1936",
+        "name": "C.F.R. PROGRESUL",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.368925,
+          "longitude": 26.088814
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "3761",
+        "name": "NIPON",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.35818,
+          "longitude": 26.08616
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1938",
+        "name": "ARTECA",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.347801,
+          "longitude": 26.083463
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1965",
+        "name": "PRIMARIA JILAVA",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.331238,
+          "longitude": 26.07789
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2687",
+        "name": "ARTISTILOR",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.29503,
+          "longitude": 26.061024
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "3750",
+        "name": "OITUZ",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.29118,
+          "longitude": 26.06063
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3758",
+        "name": "LIVIU REBREANU",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.285244,
+          "longitude": 26.059988
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2688",
+        "name": "1 DECEMBRIE",
+        "location": "STR. VICTORIEI",
+        "gpsCoordinates": {
+          "latitude": 44.284057,
+          "longitude": 26.053493
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "2695",
+        "name": "1 DECEMBRIE",
+        "location": "STR. VICTORIEI",
+        "gpsCoordinates": {
+          "latitude": 44.284371,
+          "longitude": 26.053572
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "3759",
+        "name": "LIVIU REBREANU",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.285301,
+          "longitude": 26.060187
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3749",
+        "name": "OITUZ",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.4797194,
+          "longitude": 26.143081
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2696",
+        "name": "ARTISTILOR",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.29493,
+          "longitude": 26.061276
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1987",
+        "name": "PRIMARIA JILAVA",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.331666,
+          "longitude": 26.078139
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1955",
+        "name": "ARTECA",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.348237,
+          "longitude": 26.083693
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3760",
+        "name": "NIPON",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.358714,
+          "longitude": 26.086444
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1957",
+        "name": "C.F.R. PROGRESUL",
+        "location": "SOS. GIURGIULUI",
+        "gpsCoordinates": {
+          "latitude": 44.369134,
+          "longitude": 26.089074
+        }
+      }
+    ]
+  }
+}

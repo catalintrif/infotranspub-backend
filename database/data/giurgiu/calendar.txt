@@ -1,0 +1,3 @@
+end_date,monday,tuesday,friday,wednesday,thursday,saturday,sunday,start_date,service_id
+20171230,1,1,1,1,1,0,0,20161002,LV
+20181231,0,0,0,0,0,1,1,20161001,SD

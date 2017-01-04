@@ -1,0 +1,296 @@
+{
+  "type": "metropolitan",
+  "lineId": "455",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3652",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.398802,
+          "longitude": 26.045176
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2091",
+        "name": "SOSEAUA MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.398982,
+          "longitude": 26.048689
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2092",
+        "name": "VENUS",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.393089,
+          "longitude": 26.047939
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2093",
+        "name": "SOSEAUA VARTEJULUI",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.389277,
+          "longitude": 26.047409
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3142",
+        "name": "SLATINA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.38407,
+          "longitude": 26.046756
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2094",
+        "name": "CURTEA DE ARGES",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.381878,
+          "longitude": 26.046444
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3352",
+        "name": "PECINISCA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.379526,
+          "longitude": 26.046652
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2095",
+        "name": "I.A.I. MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.376016,
+          "longitude": 26.046478
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4469",
+        "name": "LIVEZII",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.373709,
+          "longitude": 26.045136
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "3270",
+        "name": "CIMITIRUL MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.371545,
+          "longitude": 26.04383
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "2807",
+        "name": "FACULTATIVA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.36916,
+          "longitude": 26.042386
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3478",
+        "name": "ROCON",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.365268,
+          "longitude": 26.04009
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2096",
+        "name": "PASAJ C.F.R MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.361767,
+          "longitude": 26.038104
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "2097",
+        "name": "ATOMISTILOR 94",
+        "location": "STR. ATOMISTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.354538,
+          "longitude": 26.033717
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "4340",
+        "name": "FACULTATEA DE FIZICA",
+        "location": "STR. ATOMISTILOR"
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "2102",
+        "name": "FACULTATEA DE FIZICA",
+        "location": "STR. ATOMISTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.350514,
+          "longitude": 26.030949
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2103",
+        "name": "ATOMISTILOR 45",
+        "location": "STR. ATOMISTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.354797,
+          "longitude": 26.033935
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2104",
+        "name": "PASAJ C.F.R MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.362134,
+          "longitude": 26.038414
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3479",
+        "name": "ROCON",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.291252,
+          "longitude": 26.060814
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3271",
+        "name": "CIMITIRUL MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.371595,
+          "longitude": 26.043912
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4470",
+        "name": "LIVEZII",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.373936,
+          "longitude": 26.045365
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2105",
+        "name": "I.A.I. MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.37594,
+          "longitude": 26.0465
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "3353",
+        "name": "PECINISCA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.379805,
+          "longitude": 26.046678
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2106",
+        "name": "CURTEA DE ARGES",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.381617,
+          "longitude": 26.046483
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "3143",
+        "name": "SLATINA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.384423,
+          "longitude": 26.046899
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "2107",
+        "name": "SOSEAUA VARTEJULUI",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.388396,
+          "longitude": 26.047424
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "2108",
+        "name": "VENUS",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.393758,
+          "longitude": 26.048142
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2635",
+        "name": "SOSEAUA ALEXANDRIEI",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.39933,
+          "longitude": 26.048801
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4062",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.39865,
+          "longitude": 26.04529
+        }
+      }
+    ]
+  }
+}

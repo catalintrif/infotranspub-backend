@@ -1,0 +1,494 @@
+{
+  "type": "metropolitan",
+  "lineId": "456",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3464",
+        "name": "GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414671,
+          "longitude": 26.04436
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "637",
+        "name": "BRASOV",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414101,
+          "longitude": 26.033989
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3475",
+        "name": "DRUMUL COOPERATIVEI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.41365,
+          "longitude": 26.030215
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3243",
+        "name": "PRELUNGIREA GHENCEA",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.41298,
+          "longitude": 26.024831
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1130",
+        "name": "VALEA OLTULUI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.412138,
+          "longitude": 26.017944
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4083",
+        "name": "ANSAMBLUL PRIMAVARA",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.410692,
+          "longitude": 26.00667
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1830",
+        "name": "SERE MILITARI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.410205,
+          "longitude": 26.001922
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4171",
+        "name": "DRUMUL FUNIGEILOR",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.409645,
+          "longitude": 25.998088
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4465",
+        "name": "MAGNOLIEI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.409018,
+          "longitude": 25.994057
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4448",
+        "name": "CARTIERUL LATIN",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.407747,
+          "longitude": 25.990116
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1142",
+        "name": "CIMITIRUL GHENCEA 2",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.407227,
+          "longitude": 25.979735
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1149",
+        "name": "CENTURA DOMNESTI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.406208,
+          "longitude": 25.975413
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4404",
+        "name": "STATIA ELECTRICA",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.404747,
+          "longitude": 25.968743
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4589",
+        "name": "PUTUL OLTENI",
+        "location": "STR. PUTUL OLTENI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 44.403121,
+          "longitude": 25.957745
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "4600",
+        "name": "CRIZANTEMELOR",
+        "location": "STR. PUTUL OLTENI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 45.7380786,
+          "longitude": 21.2030144
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "4598",
+        "name": "STR. CIOROGARLEI",
+        "location": "STR. CIOROGARLEI (SAT OLTENI)"
+      },
+      {
+        "stopId": "16",
+        "stopCode": "3211",
+        "name": "SCOALA OLTENI",
+        "location": "STR. CIOROGARLEI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 44.393156,
+          "longitude": 25.948324
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "4602",
+        "name": "CIOCARLIEI 79",
+        "location": "STR. CIOCARLIEI (CLINCENI)"
+      },
+      {
+        "stopId": "18",
+        "stopCode": "3212",
+        "name": "CIMITIR CALTUNA",
+        "location": "STR. CIOROGARLEI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 44.389198,
+          "longitude": 25.934065
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4576",
+        "name": "GRADINITA NR. 2",
+        "location": "STR. CIOROGARLEI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 44.387422,
+          "longitude": 25.92964
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "4577",
+        "name": "STRADA SABARULUI NR. 155",
+        "location": "STR. CIOCARLIEI (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.384825,
+          "longitude": 25.931175
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "4578",
+        "name": "BISERICA SLOBOZIA",
+        "location": "STR. CIOCARLIEI (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.381321,
+          "longitude": 25.934617
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "4579",
+        "name": "STRADA PRINCIPALA",
+        "location": "STRADA PRINCIPALA (DJ 401A)",
+        "gpsCoordinates": {
+          "latitude": 44.381751,
+          "longitude": 25.93798
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "4571",
+        "name": "PRIMARIA CLINCENI",
+        "location": "SOSEAUA ORDOREANU (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.377827,
+          "longitude": 25.942971
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "4549",
+        "name": "CLINCENI",
+        "location": "SOSEAUA ORDOREANU (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.376359,
+          "longitude": 25.938067
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4549",
+        "name": "CLINCENI",
+        "location": "SOSEAUA ORDOREANU (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.376359,
+          "longitude": 25.938067
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1685",
+        "name": "PRIMARIA CLINCENI",
+        "location": "SOSEAUA ORDOREANU (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.377801,
+          "longitude": 25.943118
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4580",
+        "name": "STRADA PRINCIPALA",
+        "location": "STRADA PRINCIPALA (DJ 401A)",
+        "gpsCoordinates": {
+          "latitude": 44.381668,
+          "longitude": 25.93817
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "4581",
+        "name": "BISERICA SLOBOZIA",
+        "location": "STR. CIOCARLIEI (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.380813,
+          "longitude": 25.935668
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4582",
+        "name": "STRADA SABARULUI NR. 155",
+        "location": "STR. CIOCARLIEI (CLINCENI)",
+        "gpsCoordinates": {
+          "latitude": 44.384848,
+          "longitude": 25.931212
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4583",
+        "name": "GRADINITA NR. 2",
+        "location": "STR. CIOROGARLEI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 44.38737,
+          "longitude": 25.929651
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3215",
+        "name": "CIMITIR CALTUNA",
+        "location": "STR. CIOROGARLEI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 44.38914,
+          "longitude": 25.934117
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4603",
+        "name": "CIOCARLIEI 79",
+        "location": "STR. CIOCARLIEI (CLINCENI)"
+      },
+      {
+        "stopId": "8",
+        "stopCode": "3216",
+        "name": "SCOALA OLTENI",
+        "location": "STR. PUTUL OLTENI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 44.39329,
+          "longitude": 25.948611
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4599",
+        "name": "STRADA CIOROGARLEI",
+        "location": "STR. CIOROGARLEI (SAT OLTENI)"
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4601",
+        "name": "CRIZANTEMELOR",
+        "location": "STR. PUTUL OLTENI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 45.7380786,
+          "longitude": 21.2030144
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "4590",
+        "name": "PUTUL OLTENI",
+        "location": "STR. PUTUL OLTENI (SAT OLTENI)",
+        "gpsCoordinates": {
+          "latitude": 44.40304,
+          "longitude": 25.957693
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4410",
+        "name": "ANSAMBLUL OLTENI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.40479,
+          "longitude": 25.969262
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "1242",
+        "name": "CENTURA DOMNESTI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.406211,
+          "longitude": 25.975794
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1248",
+        "name": "CIMITIRUL GHENCEA 2",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.407336,
+          "longitude": 25.981286
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "4086",
+        "name": "CARTIERUL LATIN",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.408488,
+          "longitude": 25.992777
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "4466",
+        "name": "MAGNOLIEI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.409417,
+          "longitude": 25.996505
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "4172",
+        "name": "DRUMUL FUNIGEILOR",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.4097,
+          "longitude": 25.998913
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "1250",
+        "name": "SERE MILITARI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.410235,
+          "longitude": 26.00371
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4084",
+        "name": "ANSAMBLUL PRIMAVARA",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.410751,
+          "longitude": 26.007626
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "1104",
+        "name": "VALEA OLTULUI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.411328,
+          "longitude": 26.011737
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "3136",
+        "name": "GHIDIGENI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.412636,
+          "longitude": 26.023202
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "3474",
+        "name": "DRUMUL COOPERATIVEI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.408858,
+          "longitude": 26.026131
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "2548",
+        "name": "BRASOV",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414086,
+          "longitude": 26.03481
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "3463",
+        "name": "GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414974,
+          "longitude": 26.045551
+        }
+      }
+    ]
+  }
+}

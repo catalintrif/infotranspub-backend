@@ -1,0 +1,786 @@
+{
+  "type": "night",
+  "lineId": "N122",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1104",
+        "name": "VALEA OLTULUI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.411328,
+          "longitude": 26.011737
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:42",
+            "3:09"
+          ],
+          "weekdays": [
+            "0:42",
+            "3:09"
+          ],
+          "saturday": [
+            "0:42",
+            "3:09"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2548",
+        "name": "BRASOV",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414086,
+          "longitude": 26.03481
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:45",
+            "3:12"
+          ],
+          "weekdays": [
+            "0:45",
+            "3:12"
+          ],
+          "saturday": [
+            "0:45",
+            "3:12"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3487",
+        "name": "GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.415109,
+          "longitude": 26.044412
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:47",
+            "3:14"
+          ],
+          "weekdays": [
+            "0:47",
+            "3:14"
+          ],
+          "saturday": [
+            "0:47",
+            "3:14"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1243",
+        "name": "CALEA 13 SEPTEMBRIE",
+        "location": "STR. PETRE ISPIRESCU",
+        "gpsCoordinates": {
+          "latitude": 44.417586,
+          "longitude": 26.058566
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:50",
+            "3:17"
+          ],
+          "weekdays": [
+            "0:50",
+            "3:17"
+          ],
+          "saturday": [
+            "0:50",
+            "3:17"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "865",
+        "name": "BUZOIENI",
+        "location": "STR. BUZOIENI",
+        "gpsCoordinates": {
+          "latitude": 44.407338,
+          "longitude": 26.058521
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:54",
+            "3:21"
+          ],
+          "weekdays": [
+            "0:54",
+            "3:21"
+          ],
+          "saturday": [
+            "0:54",
+            "3:21"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "3932",
+        "name": "TEIUS",
+        "location": "SOS. ALEXANDRIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:56",
+            "3:23"
+          ],
+          "weekdays": [
+            "0:56",
+            "3:23"
+          ],
+          "saturday": [
+            "0:56",
+            "3:23"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4062",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.39865,
+          "longitude": 26.04529
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:58",
+            "3:25"
+          ],
+          "weekdays": [
+            "0:58",
+            "3:25"
+          ],
+          "saturday": [
+            "0:58",
+            "3:25"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4460",
+        "name": "SMARDAN",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.388678,
+          "longitude": 26.012538
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:06",
+            "3:33"
+          ],
+          "weekdays": [
+            "1:06",
+            "3:33"
+          ],
+          "saturday": [
+            "1:06",
+            "3:33"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4063",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.3984078,
+          "longitude": 26.0444025
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:13",
+            "3:40"
+          ],
+          "weekdays": [
+            "1:13",
+            "3:40"
+          ],
+          "saturday": [
+            "1:13",
+            "3:40"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "3934",
+        "name": "TEIUS",
+        "location": "SOS. ALEXANDRIEI",
+        "scheduleTable": {
+          "sunday": [
+            "1:16",
+            "3:43"
+          ],
+          "weekdays": [
+            "1:16",
+            "3:43"
+          ],
+          "saturday": [
+            "1:16",
+            "3:43"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1288",
+        "name": "AMURGULUI",
+        "location": "SOS. SALAJ",
+        "gpsCoordinates": {
+          "latitude": 44.40042,
+          "longitude": 26.070915
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:19",
+            "3:46"
+          ],
+          "weekdays": [
+            "1:19",
+            "3:46"
+          ],
+          "saturday": [
+            "1:19",
+            "3:46"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1290",
+        "name": "BACAU",
+        "location": "STR. BACAU",
+        "gpsCoordinates": {
+          "latitude": 44.392783,
+          "longitude": 26.069519
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:22",
+            "3:49"
+          ],
+          "weekdays": [
+            "1:22",
+            "3:49"
+          ],
+          "saturday": [
+            "1:22",
+            "3:49"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1579",
+        "name": "ARMISTITIULUI",
+        "location": "STR. SALVIEI",
+        "gpsCoordinates": {
+          "latitude": 44.400274,
+          "longitude": 26.077799
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:26",
+            "3:53"
+          ],
+          "weekdays": [
+            "1:26",
+            "3:53"
+          ],
+          "saturday": [
+            "1:26",
+            "3:53"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "1582",
+        "name": "VALTOAREI",
+        "location": "CAL. FERENTARI",
+        "gpsCoordinates": {
+          "latitude": 44.390155,
+          "longitude": 26.080623
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:29",
+            "3:56"
+          ],
+          "weekdays": [
+            "1:29",
+            "3:56"
+          ],
+          "saturday": [
+            "1:29",
+            "3:56"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1583",
+        "name": "ZETARILOR",
+        "location": "CAL. FERENTARI",
+        "gpsCoordinates": {
+          "latitude": 44.386879,
+          "longitude": 26.077895
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:31",
+            "3:58"
+          ],
+          "weekdays": [
+            "1:31",
+            "3:58"
+          ],
+          "saturday": [
+            "1:31",
+            "3:58"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "1560",
+        "name": "ZETARILOR",
+        "location": "CAL. FERENTARI",
+        "gpsCoordinates": {
+          "latitude": 44.386843,
+          "longitude": 26.078094
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "2:44"
+          ],
+          "weekdays": [
+            "0:02",
+            "2:44"
+          ],
+          "saturday": [
+            "0:02",
+            "2:44"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1561",
+        "name": "VALTOAREI",
+        "location": "CAL. FERENTARI",
+        "gpsCoordinates": {
+          "latitude": 44.390308,
+          "longitude": 26.080941
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "2:44"
+          ],
+          "weekdays": [
+            "0:02",
+            "2:44"
+          ],
+          "saturday": [
+            "0:02",
+            "2:44"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1564",
+        "name": "ARMISTITIULUI",
+        "location": "STR. SALVIEI",
+        "gpsCoordinates": {
+          "latitude": 44.400312,
+          "longitude": 26.077118
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:06",
+            "2:48"
+          ],
+          "weekdays": [
+            "0:06",
+            "2:48"
+          ],
+          "saturday": [
+            "0:06",
+            "2:48"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1288",
+        "name": "AMURGULUI",
+        "location": "SOS. SALAJ",
+        "gpsCoordinates": {
+          "latitude": 44.40042,
+          "longitude": 26.070915
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:08",
+            "2:50"
+          ],
+          "weekdays": [
+            "0:08",
+            "2:50"
+          ],
+          "saturday": [
+            "0:08",
+            "2:50"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1290",
+        "name": "BACAU",
+        "location": "STR. BACAU",
+        "gpsCoordinates": {
+          "latitude": 44.392783,
+          "longitude": 26.069519
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "2:52"
+          ],
+          "weekdays": [
+            "0:10",
+            "2:52"
+          ],
+          "saturday": [
+            "0:10",
+            "2:52"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1565",
+        "name": "SOSEAUA SALAJ",
+        "location": "STR. AMURGULUI",
+        "gpsCoordinates": {
+          "latitude": 44.400917,
+          "longitude": 26.070851
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "2:55"
+          ],
+          "weekdays": [
+            "0:13",
+            "2:55"
+          ],
+          "saturday": [
+            "0:13",
+            "2:55"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4268",
+        "name": "PIATA RAHOVA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.4066297,
+          "longitude": 26.063632
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "2:57"
+          ],
+          "weekdays": [
+            "0:15",
+            "2:57"
+          ],
+          "saturday": [
+            "0:15",
+            "2:57"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "3932",
+        "name": "TEIUS",
+        "location": "SOS. ALEXANDRIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "2:59"
+          ],
+          "weekdays": [
+            "0:17",
+            "2:59"
+          ],
+          "saturday": [
+            "0:17",
+            "2:59"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4062",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.39865,
+          "longitude": 26.04529
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "3:01"
+          ],
+          "weekdays": [
+            "0:19",
+            "3:01"
+          ],
+          "saturday": [
+            "0:19",
+            "3:01"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4460",
+        "name": "SMARDAN",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.388678,
+          "longitude": 26.012538
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "3:08"
+          ],
+          "weekdays": [
+            "0:26",
+            "3:08"
+          ],
+          "saturday": [
+            "0:26",
+            "3:08"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4063",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.3984078,
+          "longitude": 26.0444025
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "3:15"
+          ],
+          "weekdays": [
+            "0:33",
+            "3:15"
+          ],
+          "saturday": [
+            "0:33",
+            "3:15"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3934",
+        "name": "TEIUS",
+        "location": "SOS. ALEXANDRIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "3:18"
+          ],
+          "weekdays": [
+            "0:36",
+            "3:18"
+          ],
+          "saturday": [
+            "0:36",
+            "3:18"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "3821",
+        "name": "PIATA RAHOVA",
+        "location": "STR. BUZOIENI",
+        "gpsCoordinates": {
+          "latitude": 44.406725,
+          "longitude": 26.063561
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "3:19"
+          ],
+          "weekdays": [
+            "0:37",
+            "3:19"
+          ],
+          "saturday": [
+            "0:37",
+            "3:19"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "857",
+        "name": "COMPLEX COMERCIAL",
+        "location": "STR. MARGEANULUI",
+        "gpsCoordinates": {
+          "latitude": 44.41179,
+          "longitude": 26.06059
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "3:21"
+          ],
+          "weekdays": [
+            "0:39",
+            "3:21"
+          ],
+          "saturday": [
+            "0:39",
+            "3:21"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1962",
+        "name": "PETRE ISPIRESCU",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.418106,
+          "longitude": 26.057703
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:42",
+            "3:24"
+          ],
+          "weekdays": [
+            "0:42",
+            "3:24"
+          ],
+          "saturday": [
+            "0:42",
+            "3:24"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "201",
+        "name": "CARTIER TUDOR VLADIMIRESCU",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.41521,
+          "longitude": 26.042715
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:44",
+            "3:26"
+          ],
+          "weekdays": [
+            "0:44",
+            "3:26"
+          ],
+          "saturday": [
+            "0:44",
+            "3:26"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "637",
+        "name": "BRASOV",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414101,
+          "longitude": 26.033989
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:46",
+            "3:28"
+          ],
+          "weekdays": [
+            "0:46",
+            "3:28"
+          ],
+          "saturday": [
+            "0:46",
+            "3:28"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "1130",
+        "name": "VALEA OLTULUI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.412138,
+          "longitude": 26.017944
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:51",
+            "3:33"
+          ],
+          "weekdays": [
+            "0:51",
+            "3:33"
+          ],
+          "saturday": [
+            "0:51",
+            "3:33"
+          ]
+        }
+      }
+    ]
+  }
+}

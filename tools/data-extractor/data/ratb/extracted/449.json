@@ -1,0 +1,310 @@
+{
+  "type": "metropolitan",
+  "lineId": "449",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3456",
+        "name": "PIATA PRESEI",
+        "location": "BD. EXPOZITIEI",
+        "gpsCoordinates": {
+          "latitude": 44.476031,
+          "longitude": 26.071851
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "193",
+        "name": "GARA BANEASA",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.484446,
+          "longitude": 26.076556
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "379",
+        "name": "POD BANEASA",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.490908,
+          "longitude": 26.079201
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1659",
+        "name": "AEROPORT BANEASA",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.496501,
+          "longitude": 26.079774
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1660",
+        "name": "DRUMUL MATASII",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.503504,
+          "longitude": 26.081065
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1661",
+        "name": "INSTITUTUL METEOROLOGIC",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.513172,
+          "longitude": 26.080672
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1677",
+        "name": "ALEEA PRIVIGHETORILOR",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.518483,
+          "longitude": 26.077982
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1678",
+        "name": "PASAJ C.F.R.OTOPENI",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.530122,
+          "longitude": 26.069721
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1679",
+        "name": "AMCO",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.541064,
+          "longitude": 26.068758
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1680",
+        "name": "PRIMARIA OTOPENI",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.550431,
+          "longitude": 26.068866
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1681",
+        "name": "ICSITMUA",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.559979,
+          "longitude": 26.069492
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1683",
+        "name": "AEROPORTUL HENRI COANDA",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.568936,
+          "longitude": 26.0700099
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1684",
+        "name": "FILAN",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.573654,
+          "longitude": 26.070287
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "1686",
+        "name": "GERIATRIE OTOPENI",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.579921,
+          "longitude": 26.070413
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "2061",
+        "name": "C.F.R. BALOTESTI",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.583543,
+          "longitude": 26.070632
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "1687",
+        "name": "C.F.R. BALOTESTI",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.583554,
+          "longitude": 26.070382
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1689",
+        "name": "GERIATRIE OTOPENI",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.579709,
+          "longitude": 26.070162
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1690",
+        "name": "FILAN",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.573865,
+          "longitude": 26.069861
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1691",
+        "name": "AEROPORTUL HENRI COANDA",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.568698,
+          "longitude": 26.069701
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1692",
+        "name": "ICSITMUA",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.5598329,
+          "longitude": 26.0692085
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1693",
+        "name": "PRIMARIA OTOPENI",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.550146,
+          "longitude": 26.069073
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1694",
+        "name": "AMCO",
+        "location": "CAL. BUCURESTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.541163,
+          "longitude": 26.068557
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1695",
+        "name": "PASAJ C.F.R. OTOPENI",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.53051,
+          "longitude": 26.069392
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1697",
+        "name": "ALEEA PRIVIGHETORILOR",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.517129,
+          "longitude": 26.078716
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1672",
+        "name": "INSTITUTUL METEOROLOGIC",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.512761,
+          "longitude": 26.080657
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1673",
+        "name": "DRUMUL MATASII",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.503104,
+          "longitude": 26.08074
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1674",
+        "name": "AEROPORT BANEASA",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.496003,
+          "longitude": 26.078958
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "644",
+        "name": "POD BANEASA",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.490839,
+          "longitude": 26.078913
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "645",
+        "name": "GARA BANEASA",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.484001,
+          "longitude": 26.075747
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "3456",
+        "name": "PIATA PRESEI",
+        "location": "BD. EXPOZITIEI",
+        "gpsCoordinates": {
+          "latitude": 44.476031,
+          "longitude": 26.071851
+        }
+      }
+    ]
+  }
+}

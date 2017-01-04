@@ -1,0 +1,9 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon
+4PTR,4PTR,4 Pietre,Statie, 43.904019, 25.979281
+COMA,COMA,Comat, Statie,43.901474, 25.969373
+DAS,DAS,D.A.S.,Statie, 43.923722, 25.964397
+KAUF,KAUF,Kaufland, Statie,43.914389, 25.970275
+LTVI,LTVI,Lic. Tudor Vianu,Statie, 43.891782, 25.955996
+PCEN,PCEN,Piata Centrala,Statie,43.891452, 25.966704
+PCLI,PCLI,Policlinica,Statie, 43.894705, 25.957151
+PENT,PENT,Penitenciar,Statie, 43.913493, 25.950822

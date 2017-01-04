@@ -1,0 +1,1839 @@
+{
+  "type": "night",
+  "lineId": "N111",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "saturday": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4356",
+        "name": "PIATA UNIRII 3",
+        "location": "ALEEA II",
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "saturday": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2215",
+        "name": "BD. I. C. BRATIANU",
+        "location": "BD. UNIRII",
+        "gpsCoordinates": {
+          "latitude": 44.426508,
+          "longitude": 26.105033
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "saturday": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2221",
+        "name": "BIBLIOTECA NATIONALA A ROMANIEI",
+        "location": "BD. UNIRII",
+        "gpsCoordinates": {
+          "latitude": 44.426192,
+          "longitude": 26.113039
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "saturday": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2222",
+        "name": "TRAIAN",
+        "location": "BD. UNIRII",
+        "gpsCoordinates": {
+          "latitude": 44.425877,
+          "longitude": 26.120312
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:17",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "saturday": [
+            "0:17",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1913",
+        "name": "LUCIAN BLAGA",
+        "location": "STR. LUCIAN BLAGA",
+        "gpsCoordinates": {
+          "latitude": 44.4252,
+          "longitude": 26.122928
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "saturday": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1988",
+        "name": "PIATA VITAN",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.423127,
+          "longitude": 26.123253
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1812",
+        "name": "BUCURESTI MALL",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.420559,
+          "longitude": 26.125198
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "saturday": [
+            "0:21",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1992",
+        "name": "ZIZIN",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.417553,
+          "longitude": 26.128691
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "1:03",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:23",
+            "1:03",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:43"
+          ],
+          "saturday": [
+            "0:23",
+            "1:03",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "342",
+        "name": "CALEA VITAN",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.414433,
+          "longitude": 26.132849
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1516",
+        "name": "STADION OLIMPIA",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.411225,
+          "longitude": 26.135865
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "saturday": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4495",
+        "name": "COMPLEX COMERCIAL VITAN",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.408858,
+          "longitude": 26.139385
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:07",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:07",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "saturday": [
+            "0:27",
+            "1:07",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4463",
+        "name": "ENERGETICIENILOR",
+        "location": "BD. ENERGETICIENILOR",
+        "gpsCoordinates": {
+          "latitude": 44.40683,
+          "longitude": 26.145443
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "1:09",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:29",
+            "1:09",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:49"
+          ],
+          "saturday": [
+            "0:29",
+            "1:09",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "4492",
+        "name": "TANDAREI",
+        "location": "STR. FIZICIENILOR",
+        "gpsCoordinates": {
+          "latitude": 44.409216,
+          "longitude": 26.148665
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "2620",
+        "name": "FIZICIENILOR",
+        "location": "BD. CAMIL RESSU",
+        "gpsCoordinates": {
+          "latitude": 44.414387,
+          "longitude": 26.154116
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "saturday": [
+            "0:32",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "2235",
+        "name": "ILIOARA",
+        "location": "BD. CAMIL RESSU",
+        "gpsCoordinates": {
+          "latitude": 44.413388,
+          "longitude": 26.157866
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "saturday": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "3857",
+        "name": "PIATA TITAN",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.41262,
+          "longitude": 26.165042
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "saturday": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "3858",
+        "name": "DUMBRAVA NOUA",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.411692,
+          "longitude": 26.168459
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "1:16",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:36",
+            "1:16",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:56"
+          ],
+          "saturday": [
+            "0:36",
+            "1:16",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "3877",
+        "name": "BD. 1 DECEMBRIE 1918",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.410615,
+          "longitude": 26.17339
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "saturday": [
+            "0:38",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "3878",
+        "name": "OZANA",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.409865,
+          "longitude": 26.178397
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:19",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:19",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "saturday": [
+            "0:39",
+            "1:19",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "3879",
+        "name": "I.O.R. 2",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.409003,
+          "longitude": 26.183963
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:46",
+            "4:31",
+            "5:11"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:46",
+            "4:31",
+            "5:11"
+          ],
+          "saturday": [
+            "0:01",
+            "0:41",
+            "1:21",
+            "3:46",
+            "4:31",
+            "5:11"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "3880",
+        "name": "STIROM",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.408087,
+          "longitude": 26.189848
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "saturday": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "3881",
+        "name": "POLICOLOR",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.407501,
+          "longitude": 26.193682
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:04",
+            "0:44",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ],
+          "weekdays": [
+            "0:04",
+            "0:44",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ],
+          "saturday": [
+            "0:04",
+            "0:44",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "3882",
+        "name": "CHIMOPAR",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.406575,
+          "longitude": 26.199273
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ],
+          "saturday": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ]
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "1914",
+        "name": "COMPLEX RATB TITAN",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.405944,
+          "longitude": 26.202929
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:07",
+            "0:47",
+            "1:27",
+            "3:52",
+            "4:37",
+            "5:17"
+          ],
+          "weekdays": [
+            "0:07",
+            "0:47",
+            "1:27",
+            "3:52",
+            "4:37",
+            "5:17"
+          ],
+          "saturday": [
+            "0:07",
+            "0:47",
+            "1:27",
+            "3:52",
+            "4:37",
+            "5:17"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "1914",
+        "name": "COMPLEX RATB TITAN",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.405944,
+          "longitude": 26.202929
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "3864",
+        "name": "CHIMOPAR",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.407015,
+          "longitude": 26.19835
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:52",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:52",
+            "23:32"
+          ],
+          "saturday": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:52",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3865",
+        "name": "POLICOLOR",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.407894,
+          "longitude": 26.19299
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:54",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:54",
+            "23:34"
+          ],
+          "saturday": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:54",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3866",
+        "name": "STIROM",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.408609,
+          "longitude": 26.18863
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:55",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:55",
+            "23:35"
+          ],
+          "saturday": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:55",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3867",
+        "name": "I.O.R. 2",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.409498,
+          "longitude": 26.182706
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "22:57",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "22:57",
+            "23:37"
+          ],
+          "saturday": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "22:57",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "3868",
+        "name": "OZANA",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.410441,
+          "longitude": 26.176608
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ],
+          "saturday": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3869",
+        "name": "BD. 1 DECEMBRIE 1918",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.411174,
+          "longitude": 26.171941
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:00",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:00",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:00",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "3870",
+        "name": "DUMBRAVA NOUA",
+        "location": "BD. TH.PALLADY",
+        "gpsCoordinates": {
+          "latitude": 44.412232,
+          "longitude": 26.167829
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:01",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:01",
+            "23:41"
+          ],
+          "saturday": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:01",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2233",
+        "name": "PIATA TITAN",
+        "location": "BD. CAMIL RESSU",
+        "gpsCoordinates": {
+          "latitude": 44.413404,
+          "longitude": 26.162625
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:02",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:02",
+            "23:42"
+          ],
+          "saturday": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:02",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "2234",
+        "name": "ILIOARA",
+        "location": "BD. CAMIL RESSU",
+        "gpsCoordinates": {
+          "latitude": 44.413698,
+          "longitude": 26.158547
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1050",
+        "name": "FIZICIENILOR",
+        "location": "STR. FIZICIENILOR",
+        "gpsCoordinates": {
+          "latitude": 44.414367,
+          "longitude": 26.152357
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:15",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:05",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:15",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:05",
+            "23:45"
+          ],
+          "saturday": [
+            "0:25",
+            "1:15",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:05",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "4491",
+        "name": "TANDAREI",
+        "location": "STR. FIZICIENILOR",
+        "gpsCoordinates": {
+          "latitude": 44.408796,
+          "longitude": 26.148581
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:07",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:07",
+            "23:47"
+          ],
+          "saturday": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:07",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4464",
+        "name": "ENERGETICIENILOR",
+        "location": "BD. ENERGETICIENILOR",
+        "gpsCoordinates": {
+          "latitude": 44.407152,
+          "longitude": 26.144735
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:08",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:08",
+            "23:48"
+          ],
+          "saturday": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:08",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4496",
+        "name": "COMPLEX COMERCIAL VITAN",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.409014,
+          "longitude": 26.139227
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:10",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:10",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:10",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1522",
+        "name": "STADION OLIMPIA",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.411398,
+          "longitude": 26.135914
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:31",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1886",
+        "name": "SOSEAUA MIHAI BRAVU",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.415854,
+          "longitude": 26.13141
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:12",
+            "23:52"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:12",
+            "23:52"
+          ],
+          "saturday": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:12",
+            "23:52"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "1892",
+        "name": "ZIZIN",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.418082,
+          "longitude": 26.128327
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "1813",
+        "name": "BUCURESTI MALL",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.4201675,
+          "longitude": 26.1259804
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:15",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:15",
+            "23:55"
+          ],
+          "saturday": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:15",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "1907",
+        "name": "PIATA VITAN",
+        "location": "CAL. VITAN",
+        "gpsCoordinates": {
+          "latitude": 44.423344,
+          "longitude": 26.123496
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:27",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:17",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:27",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:17",
+            "23:57"
+          ],
+          "saturday": [
+            "0:37",
+            "1:27",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:17",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "2",
+        "name": "LUCIAN BLAGA",
+        "location": "BD. UNIRII",
+        "gpsCoordinates": {
+          "latitude": 44.426051,
+          "longitude": 26.122484
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:18",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:18",
+            "23:58"
+          ],
+          "saturday": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:18",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "2212",
+        "name": "TRAIAN",
+        "location": "BD. UNIRII",
+        "gpsCoordinates": {
+          "latitude": 44.42627,
+          "longitude": 26.117979
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:40",
+            "1:30",
+            "3:45",
+            "4:30",
+            "5:10",
+            "23:20"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:40",
+            "1:30",
+            "3:45",
+            "4:30",
+            "5:10",
+            "23:20"
+          ],
+          "saturday": [
+            "0:00",
+            "0:40",
+            "1:30",
+            "3:45",
+            "4:30",
+            "5:10",
+            "23:20"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "2213",
+        "name": "BIBLIOTECA NATIONALA A ROMANIEI",
+        "location": "BD. UNIRII",
+        "gpsCoordinates": {
+          "latitude": 44.426584,
+          "longitude": 26.11079
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:21"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:21"
+          ],
+          "saturday": [
+            "0:01",
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:21"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:43",
+            "1:33",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:23"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:43",
+            "1:33",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:23"
+          ],
+          "saturday": [
+            "0:03",
+            "0:43",
+            "1:33",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:23"
+          ]
+        }
+      }
+    ]
+  }
+}

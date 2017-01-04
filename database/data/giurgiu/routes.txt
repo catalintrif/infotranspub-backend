@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+L1,LIBERTRANS,L1,Linia de autobuz intre statiile Kaufland si Port,Circula in zile de LUCRU SAMBATA DUMINICA,3,,0000FF,FF0000
+L2,LIBERTRANS,L2,Linia de autobuz intre statiile CET si Comat,Circula in zile de LUCRU SAMBATA DUMINICA,3,,000000,FF0000
+L3,LIBERTRANS,L3,Linia de autobuz intre statiile Pietre si Drm. Popa Florea,Circula in zile de LUCRU SAMBATA DUMINICA,3,,FF0000,8B0000
+L4,LIBERTRANS,L4,Linia de autobuz intre statiile Penitenciar si Kaufland,Circula in zile de LUCRU SAMBATA DUMINICA,3,,8B0000,FF0000

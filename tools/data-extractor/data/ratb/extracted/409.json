@@ -1,0 +1,320 @@
+{
+  "type": "metropolitan",
+  "lineId": "409",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1750",
+        "name": "INSTITUTUL ONCOLOGIC",
+        "location": "SOS. FUNDENI",
+        "gpsCoordinates": {
+          "latitude": 44.462567,
+          "longitude": 26.156789
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1751",
+        "name": "SPITALUL FUNDENI",
+        "location": "SOS. FUNDENI",
+        "gpsCoordinates": {
+          "latitude": 44.4638,
+          "longitude": 26.152642
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2511",
+        "name": "ITCANI",
+        "location": "SOS. FUNDENI",
+        "gpsCoordinates": {
+          "latitude": 44.465401,
+          "longitude": 26.149438
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1165",
+        "name": "CARTIER COLENTINA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.469553,
+          "longitude": 26.145702
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "984",
+        "name": "SPORTULUI",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.471281,
+          "longitude": 26.150512
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "136",
+        "name": "CORNISOR",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.473521,
+          "longitude": 26.154906
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1168",
+        "name": "NICOLAE CANEA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.475984,
+          "longitude": 26.159674
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1417",
+        "name": "PASAJ COLENTINA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.478288,
+          "longitude": 26.164188
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "3516",
+        "name": "METRO VOLUNTARI",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.495166,
+          "longitude": 26.197128
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1422",
+        "name": "INSTITUTUL METEOROLOGIC",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.501844,
+          "longitude": 26.210148
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1424",
+        "name": "DORALY",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.505868,
+          "longitude": 26.217995
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1423",
+        "name": "SOSEAUA AFUMATI",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.514863,
+          "longitude": 26.235632
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "3182",
+        "name": "BRAZI",
+        "location": "D.C.11",
+        "gpsCoordinates": {
+          "latitude": 44.51806,
+          "longitude": 26.241851
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3184",
+        "name": "PRIMARIA AFUMATI",
+        "location": "D.C.11",
+        "gpsCoordinates": {
+          "latitude": 44.522701,
+          "longitude": 26.248517
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "3678",
+        "name": "AFUMATI",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.525278,
+          "longitude": 26.251759
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "3678",
+        "name": "AFUMATI",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.525278,
+          "longitude": 26.251759
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "3185",
+        "name": "PRIMARIA AFUMATI",
+        "location": "D.C.11",
+        "gpsCoordinates": {
+          "latitude": 44.523061,
+          "longitude": 26.24882
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3183",
+        "name": "BRAZI",
+        "location": "D.C.11",
+        "gpsCoordinates": {
+          "latitude": 44.517646,
+          "longitude": 26.240831
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1439",
+        "name": "SOSEAUA AFUMATI",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.515004,
+          "longitude": 26.235657
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1438",
+        "name": "DORALY",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.504881,
+          "longitude": 26.215787
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1440",
+        "name": "INSTITUTUL METEOROLOGIC",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.501473,
+          "longitude": 26.209068
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3518",
+        "name": "METRO VOLUNTARI",
+        "location": "SOS. AFUMATI",
+        "gpsCoordinates": {
+          "latitude": 44.495349,
+          "longitude": 26.197111
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2956",
+        "name": "PASAJ COLENTINA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.477733,
+          "longitude": 26.162768
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1172",
+        "name": "NICOLAE CANEA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.475387,
+          "longitude": 26.158075
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1173",
+        "name": "CORNISOR",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.473062,
+          "longitude": 26.153427
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1174",
+        "name": "SPORTULUI",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.447924,
+          "longitude": 26.103062
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1756",
+        "name": "CARTIER COLENTINA",
+        "location": "SOS. FUNDENI",
+        "gpsCoordinates": {
+          "latitude": 44.471906,
+          "longitude": 26.141406
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1757",
+        "name": "ITCANI",
+        "location": "SOS. FUNDENI",
+        "gpsCoordinates": {
+          "latitude": 44.465418,
+          "longitude": 26.149377
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "1758",
+        "name": "SPITALUL FUNDENI",
+        "location": "SOS. FUNDENI",
+        "gpsCoordinates": {
+          "latitude": 44.463523,
+          "longitude": 26.153265
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1759",
+        "name": "INSTITUTUL ONCOLOGIC",
+        "location": "SOS. FUNDENI",
+        "gpsCoordinates": {
+          "latitude": 44.462309,
+          "longitude": 26.157092
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "3999",
+        "name": "LICEUL VICTOR BABES",
+        "location": "SOS. FUNDENI",
+        "gpsCoordinates": {
+          "latitude": 44.462044,
+          "longitude": 26.159018
+        }
+      }
+    ]
+  }
+}

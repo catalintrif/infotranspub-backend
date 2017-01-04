@@ -1,0 +1,290 @@
+{
+  "type": "metropolitan",
+  "lineId": "414",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "4106",
+        "name": "ROMPRIM",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.384023,
+          "longitude": 26.145619
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1626",
+        "name": "INSTITUTUL SF. MARIA",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.381693,
+          "longitude": 26.150857
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3285",
+        "name": "PRESTIGE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.380517,
+          "longitude": 26.155521
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1627",
+        "name": "PARAUL RECE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.379951,
+          "longitude": 26.159969
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1628",
+        "name": "CAZANESTI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.379934,
+          "longitude": 26.164146
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1629",
+        "name": "PRIMARIA POPESTI-LEORDENI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.379774,
+          "longitude": 26.168428
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2524",
+        "name": "LICEUL TEORETIC RADU POPESCU",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.381592,
+          "longitude": 26.174305
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2525",
+        "name": "GHEORGHE COSTA-FORU",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.380962,
+          "longitude": 26.179389
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2526",
+        "name": "TABEREI",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.379763,
+          "longitude": 26.188601
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "2527",
+        "name": "POSADA",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.378178,
+          "longitude": 26.199606
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "2528",
+        "name": "DOMNITA BALASA",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.377247,
+          "longitude": 26.206156
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "2529",
+        "name": "FORTULUI",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.376773,
+          "longitude": 26.210742
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2530",
+        "name": "C. F. R. CENTURA",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.377032,
+          "longitude": 26.215221
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "2531",
+        "name": "S.C. GLINCARN",
+        "location": "SOS. CENTURA",
+        "gpsCoordinates": {
+          "latitude": 44.379611,
+          "longitude": 26.225382
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "2531",
+        "name": "S.C. GLINCARN",
+        "location": "SOS. CENTURA",
+        "gpsCoordinates": {
+          "latitude": 44.379611,
+          "longitude": 26.225382
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2532",
+        "name": "C. F. R. CENTURA",
+        "location": "SOS. CENTURA",
+        "gpsCoordinates": {
+          "latitude": 44.377035,
+          "longitude": 26.214945
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2533",
+        "name": "FORTULUI",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.376847,
+          "longitude": 26.210524
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2534",
+        "name": "DOMNITA BALASA",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.377341,
+          "longitude": 26.2059
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2535",
+        "name": "POSADA",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.378167,
+          "longitude": 26.2001
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2536",
+        "name": "TABEREI",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.42881,
+          "longitude": 26.002018
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2537",
+        "name": "GHEORGHE COSTA-FORU",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.380973,
+          "longitude": 26.179699
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2538",
+        "name": "LICEUL TEORETIC RADU POPESCU",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.381726,
+          "longitude": 26.173942
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1260",
+        "name": "PRIMARIA POPESTI-LEORDENI",
+        "location": "STR. LEORDENI",
+        "gpsCoordinates": {
+          "latitude": 44.380182,
+          "longitude": 26.169098
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1639",
+        "name": "CAZANESTI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.380035,
+          "longitude": 26.16443
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1640",
+        "name": "PARAUL RECE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.380128,
+          "longitude": 26.159388
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3286",
+        "name": "PRESTIGE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.380677,
+          "longitude": 26.15483
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1641",
+        "name": "INSTITUTUL SF. MARIA",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.382062,
+          "longitude": 26.150183
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4107",
+        "name": "ROMPRIM",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.38348,
+          "longitude": 26.146784
+        }
+      }
+    ]
+  }
+}

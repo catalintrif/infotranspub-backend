@@ -1,0 +1,282 @@
+{
+  "type": "metropolitan",
+  "lineId": "438",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3652",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.398802,
+          "longitude": 26.045176
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2085",
+        "name": "TEIULUI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.395183,
+          "longitude": 26.035478
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3048",
+        "name": "PENITENCIARUL RAHOVA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.394109,
+          "longitude": 26.031662
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3420",
+        "name": "ALBOTESTI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.393262,
+          "longitude": 26.028581
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "667",
+        "name": "GLADIOLELOR",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.392382,
+          "longitude": 26.025264
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "668",
+        "name": "CELOFIBREI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.390671,
+          "longitude": 26.019318
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4459",
+        "name": "SMARDAN",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.388371,
+          "longitude": 26.01117
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4066",
+        "name": "PECO",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.385794,
+          "longitude": 26.001977
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4094",
+        "name": "POD CENTURA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.38153,
+          "longitude": 25.98839
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "2702",
+        "name": "FABRICA DE MARGARINA",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.378279,
+          "longitude": 25.984875
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "2703",
+        "name": "DUMBRAVENI",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.376265,
+          "longitude": 25.982733
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "670",
+        "name": "GRIVITEI",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.372215,
+          "longitude": 25.97795
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2704",
+        "name": "PRIMARIA BRAGADIRU",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.368795,
+          "longitude": 25.973684
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4606",
+        "name": "BRAGADIRU",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)"
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4606",
+        "name": "BRAGADIRU",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)"
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2710",
+        "name": "PRIMARIA BRAGADIRU",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.368652,
+          "longitude": 25.97371
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "677",
+        "name": "GRIVITEI",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.372067,
+          "longitude": 25.977974
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2711",
+        "name": "DUMBRAVENI",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.375557,
+          "longitude": 25.982205
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2712",
+        "name": "FABRICA DE MARGARINA",
+        "location": "SOS. BUCURESTI-ALEXANDRIA(DN6)",
+        "gpsCoordinates": {
+          "latitude": 44.378893,
+          "longitude": 25.985723
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2713",
+        "name": "POD CENTURA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.381839,
+          "longitude": 25.989729
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4067",
+        "name": "PECO",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 45.1200453,
+          "longitude": 25.7392612
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4460",
+        "name": "SMARDAN",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.388678,
+          "longitude": 26.012538
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "679",
+        "name": "CELOFIBREI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.390404,
+          "longitude": 26.018827
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "680",
+        "name": "GLADIOLELOR",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.392459,
+          "longitude": 26.026179
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "3618",
+        "name": "ALBOTESTI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.393274,
+          "longitude": 26.029131
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3049",
+        "name": "PENITENCIARUL RAHOVA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.394198,
+          "longitude": 26.032611
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2090",
+        "name": "TEIULUI",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.395267,
+          "longitude": 26.036391
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4062",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.39865,
+          "longitude": 26.04529
+        }
+      }
+    ]
+  }
+}

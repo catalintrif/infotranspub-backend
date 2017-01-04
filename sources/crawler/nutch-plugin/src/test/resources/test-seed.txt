@@ -1,0 +1,1 @@
+file:///<replace with project path>/infotranspub-backend/tools/nutch-plugin/src/test/resources/index.html

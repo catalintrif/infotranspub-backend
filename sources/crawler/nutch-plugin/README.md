@@ -37,7 +37,12 @@ mvn install
 cd ~/apache-nutch-1.12
 cp ~/.m2/repository/org/postgresql/postgresql/9.4.1212/postgresql-9.4.1212.jar plugins/indexer-db/postgresql.jar
 ```
-* Lansare crawler:
+* (Optional) Pentru a rula in mod development (crawl doar pe masina locala):
+
+1. Se adapteaza calea catre proiectul local din fisierul src/test/resources/test-seed.txt
+2. Se inlocuieste config/urls/seed.txt cu fisierul test-seed.txt modificat
+
+* Lansare crawler. Prima rulare asigura doar detectia URL-urilor modificare. Pentru descoperirea de URL-uri noi este nevoie de o rulare suplimentara.
 ```
 ./run.sh
 ```

@@ -14,8 +14,7 @@ import java.sql.*;
 import java.util.Properties;
 
 /**
- * Plugin pentru crawler-ul Apache Nutch (http://nutch.apache.org) care scrie intr-o tabela
- * URL-urile nou gasite sau modificate.
+ * Plugin for Apache Nutch web crawler (http://nutch.apache.org) that writes in a DB table the new and modified URLs.
  * @author Catalin Trif
  */
 public class DBIndexer implements IndexWriter {
@@ -30,6 +29,36 @@ public class DBIndexer implements IndexWriter {
     private PreparedStatement insert;
     private PreparedStatement update;
 
+    /**
+     * Automatically called by Nutch to initialize the plugin.
+     * @param conf
+     */
+    public void setConf(Configuration conf) {
+        config = conf;
+        try {
+            Class.forName("org.postgresql.Driver");
+            InputStream is = getConf().getConfResourceAsInputStream("indexer-db.properties");
+            Properties properties = new Properties();
+            properties.load(is);
+            String url = properties.getProperty("jdbc.url");
+            String user = properties.getProperty("user");
+            String password = properties.getProperty("password");
+            String table = properties.getProperty("table");
+
+            connection = DriverManager.getConnection(url, user, password);
+            LOG.info("Connected to: " + url);
+            select = connection.prepareStatement(SQL_SELECT.replaceFirst("@table", table));
+            insert = connection.prepareStatement(SQL_INSERT.replaceFirst("@table", table));
+            update = connection.prepareStatement(SQL_UPDATE.replaceFirst("@table", table));
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        } catch (ClassNotFoundException e) {
+            throw new RuntimeException(e);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
+    }
 
     public void open(JobConf job, String name) throws IOException {
         delete = job.getBoolean(IndexerMapReduce.INDEXER_DELETE, false);
@@ -80,7 +109,7 @@ public class DBIndexer implements IndexWriter {
     }
 
     private void databaseInsert(String url, String hash) throws SQLException {
-        String message = "Inserting in DB: " + url;
+        String message = "Inserting into DB: " + url;
         System.out.println(message);
         LOG.info(message);
         insert.setString(1, url);
@@ -90,14 +119,42 @@ public class DBIndexer implements IndexWriter {
         insert.executeUpdate();
     }
 
+    /**
+     * Automatically called by Nutch when the indexing phase is over.
+     * @throws IOException
+     */
     public void close() throws IOException {
+        String exceptionMessage = null;
         try {
-            select.close();
-            update.close();
-            insert.close();
-            connection.close();
-        } catch (SQLException e) {
-            throw new IOException(e.getMessage());
+            if (select != null) {
+                select.close();
+            }
+        } catch (Exception e) {
+            exceptionMessage = e.getMessage();
+        }
+        try {
+            if (update != null) {
+                update.close();
+            }
+        } catch (Exception e) {
+            exceptionMessage = e.getMessage();
+        }
+        try {
+            if (insert != null) {
+                insert.close();
+            }
+        } catch (Exception e) {
+            exceptionMessage = e.getMessage();
+        }
+        try {
+            if (connection != null) {
+                connection.close();
+            }
+        } catch (Exception e) {
+            exceptionMessage = e.getMessage();
+        }
+        if (exceptionMessage != null) {
+            throw new IOException(exceptionMessage);
         }
     }
 
@@ -107,33 +164,6 @@ public class DBIndexer implements IndexWriter {
 
     public Configuration getConf() {
         return config;
-    }
-
-    public void setConf(Configuration conf) {
-        config = conf;
-        try {
-            Class.forName("org.postgresql.Driver");
-            InputStream is = getConf().getConfResourceAsInputStream("indexer-db.properties");
-            Properties properties = new Properties();
-            properties.load(is);
-            String url = properties.getProperty("jdbc.url");
-            String user = properties.getProperty("user");
-            String password = properties.getProperty("password");
-            String table = properties.getProperty("table");
-
-            connection = DriverManager.getConnection(url, user, password);
-            LOG.info("Connected to: " + url);
-            select = connection.prepareStatement(SQL_SELECT.replaceFirst("@table", table));
-            insert = connection.prepareStatement(SQL_INSERT.replaceFirst("@table", table));
-            update = connection.prepareStatement(SQL_UPDATE.replaceFirst("@table", table));
-        } catch (SQLException e) {
-            throw new RuntimeException(e);
-        } catch (ClassNotFoundException e) {
-            throw new RuntimeException(e);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-
     }
 
     public String describe() {

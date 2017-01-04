@@ -4,13 +4,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ro.gov.ithub.infotranspub</groupId>
+    <parent>
+        <groupId>ro.gov.ithub.infotranspub</groupId>
+        <artifactId>crawler</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
     <artifactId>indexer-db</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <description>Nutch indexer plugin that writes new and modified URLs to DB</description>
 
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <nutch.home>${env.HOME}/apache-nutch-1.12</nutch.home>
     </properties>
 
@@ -18,13 +22,11 @@
         <dependency>
             <groupId>org.apache.nutch</groupId>
             <artifactId>nutch</artifactId>
-            <version>1.12</version>
         </dependency>
-
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>9.4.1212</version>
+            <scope>runtime</scope>
         </dependency>
     </dependencies>
 
@@ -33,14 +35,13 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
-                <version>2.3.2</version>
                 <configuration>
                     <outputDirectory>config/plugins/indexer-db</outputDirectory>
                 </configuration>
             </plugin>
             <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-resources-plugin</artifactId>
-                <version>3.0.2</version>
                 <executions>
                     <execution>
                         <id>copy-resources</id>

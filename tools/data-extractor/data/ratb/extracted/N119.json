@@ -1,0 +1,1356 @@
+{
+  "type": "night",
+  "lineId": "N119",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4358",
+        "name": "PIATA UNIRII 5",
+        "location": "BD. I.C.BRATIANU",
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "saturday": [
+            "0:12",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2021",
+        "name": "UNIVERSITATE",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.434787,
+          "longitude": 26.103014
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "saturday": [
+            "0:14",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2277",
+        "name": "PIATA ROMANA",
+        "location": "BD. MAGHERU",
+        "gpsCoordinates": {
+          "latitude": 44.445155,
+          "longitude": 26.09778
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ],
+          "weekdays": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ],
+          "saturday": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "895",
+        "name": "POVERNEI",
+        "location": "BD. LASCAR CATARGIU",
+        "gpsCoordinates": {
+          "latitude": 44.449173,
+          "longitude": 26.092706
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "saturday": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "897",
+        "name": "PIATA VICTORIEI",
+        "location": "BD. LASCAR CATARGIU",
+        "gpsCoordinates": {
+          "latitude": 44.451532,
+          "longitude": 26.087928
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "634",
+        "name": "PASAJ VICTORIA",
+        "location": "BD. IANCU DE HUNEDOARA",
+        "gpsCoordinates": {
+          "latitude": 44.452498,
+          "longitude": 26.092363
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "saturday": [
+            "0:22",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "3863",
+        "name": "SOS.STEFAN CEL MARE",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.452057,
+          "longitude": 26.101312
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "303",
+        "name": "PIATA FLOREASCA",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.460332,
+          "longitude": 26.101011
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "saturday": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1137",
+        "name": "GLINKA",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.463007,
+          "longitude": 26.101525
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "saturday": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1138",
+        "name": "CEAIKOVSKI",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.466296,
+          "longitude": 26.102167
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3085",
+        "name": "ANCUTA BANEASA",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.469997,
+          "longitude": 26.104297
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "saturday": [
+            "0:32",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1576",
+        "name": "SOSEAUA FABRICA DE GLUCOZA",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.475576,
+          "longitude": 26.10381
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:14",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:14",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "saturday": [
+            "0:34",
+            "1:14",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "1344",
+        "name": "AUREL VLAICU",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 46.780688,
+          "longitude": 23.6277049
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "1:16",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:36",
+            "1:16",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:56"
+          ],
+          "saturday": [
+            "0:36",
+            "1:16",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "4216",
+        "name": "BARBU VACARESCU",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.4643582,
+          "longitude": 26.1080491
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "saturday": [
+            "0:38",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1189",
+        "name": "MARIN DRACEA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.482023,
+          "longitude": 26.106581
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ],
+          "saturday": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "2476",
+        "name": "PIPERA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.48424,
+          "longitude": 26.11033
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "saturday": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "1190",
+        "name": "C.F.R. CONSTANTA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.487109,
+          "longitude": 26.114707
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ],
+          "saturday": [
+            "0:05",
+            "0:45",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "1191",
+        "name": "C.F.R. CONSTANTA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.487095,
+          "longitude": 26.115432
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:40",
+            "22:50",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:40",
+            "22:50",
+            "23:30"
+          ],
+          "saturday": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:40",
+            "22:50",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1192",
+        "name": "PIPERA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.483924,
+          "longitude": 26.109658
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:43",
+            "22:53",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:43",
+            "22:53",
+            "23:33"
+          ],
+          "saturday": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:43",
+            "22:53",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1193",
+        "name": "MARIN DRACEA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.480598,
+          "longitude": 26.103664
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:45",
+            "22:55",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:45",
+            "22:55",
+            "23:35"
+          ],
+          "saturday": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:45",
+            "22:55",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "4220",
+        "name": "BARBU VACARESCU",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.4643582,
+          "longitude": 26.1080491
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:47",
+            "22:57",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:47",
+            "22:57",
+            "23:37"
+          ],
+          "saturday": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:47",
+            "22:57",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "215",
+        "name": "AUREL VLAICU",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 46.780688,
+          "longitude": 23.6277049
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:49",
+            "22:59",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:49",
+            "22:59",
+            "23:39"
+          ],
+          "saturday": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:49",
+            "22:59",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1348",
+        "name": "SOSEAUA FABRICA DE GLUCOZA",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.474935,
+          "longitude": 26.103964
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:51",
+            "23:01",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:51",
+            "23:01",
+            "23:41"
+          ],
+          "saturday": [
+            "0:26",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:51",
+            "23:01",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3084",
+        "name": "ANCUTA BANEASA",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.47036,
+          "longitude": 26.104535
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:53",
+            "23:03",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:53",
+            "23:03",
+            "23:43"
+          ],
+          "saturday": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:53",
+            "23:03",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1354",
+        "name": "MIRCEA ELIADE",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.465445,
+          "longitude": 26.101871
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "4:55",
+            "23:05",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "4:55",
+            "23:05",
+            "23:45"
+          ],
+          "saturday": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "4:55",
+            "23:05",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1154",
+        "name": "GEORGE CALINESCU",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.462293,
+          "longitude": 26.101217
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "4:57",
+            "23:07",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "4:57",
+            "23:07",
+            "23:47"
+          ],
+          "saturday": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "4:57",
+            "23:07",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "287",
+        "name": "PIATA FLOREASCA",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.460084,
+          "longitude": 26.10087
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "4:59",
+            "23:09",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "4:59",
+            "23:09",
+            "23:49"
+          ],
+          "saturday": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "4:59",
+            "23:09",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1156",
+        "name": "SOSEAUA STEFAN CEL MARE",
+        "location": "CAL. FLOREASCA",
+        "gpsCoordinates": {
+          "latitude": 44.454149,
+          "longitude": 26.100676
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:01",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:36",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:01",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:36",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:01",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "635",
+        "name": "PASAJ VICTORIA",
+        "location": "BD. IANCU DE HUNEDOARA",
+        "gpsCoordinates": {
+          "latitude": 44.452515,
+          "longitude": 26.090742
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:03",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:03",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:03",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "908",
+        "name": "PIATA VICTORIEI",
+        "location": "BD. LASCAR CATARGIU",
+        "gpsCoordinates": {
+          "latitude": 44.451491,
+          "longitude": 26.087376
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:40",
+            "1:30",
+            "3:45",
+            "4:30",
+            "5:05",
+            "23:15",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:40",
+            "1:30",
+            "3:45",
+            "4:30",
+            "5:05",
+            "23:15",
+            "23:55"
+          ],
+          "saturday": [
+            "0:40",
+            "1:30",
+            "3:45",
+            "4:30",
+            "5:05",
+            "23:15",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "920",
+        "name": "ORLANDO",
+        "location": "BD. LASCAR CATARGIU",
+        "gpsCoordinates": {
+          "latitude": 44.447032,
+          "longitude": 26.087257
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:07",
+            "23:17",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:07",
+            "23:17",
+            "23:57"
+          ],
+          "saturday": [
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:07",
+            "23:17",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "2204",
+        "name": "PIATA ROMANA",
+        "location": "BD. MAGHERU",
+        "gpsCoordinates": {
+          "latitude": 44.446241,
+          "longitude": 26.096885
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:09",
+            "23:19",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:09",
+            "23:19",
+            "23:59"
+          ],
+          "saturday": [
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:09",
+            "23:19",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1994",
+        "name": "PIATA 21 DECEMBRIE 1989",
+        "location": "BD. N.BALCESCU",
+        "gpsCoordinates": {
+          "latitude": 44.436239,
+          "longitude": 26.101809
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:46",
+            "1:36",
+            "3:51",
+            "4:36",
+            "5:11",
+            "23:21"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:46",
+            "1:36",
+            "3:51",
+            "4:36",
+            "5:11",
+            "23:21"
+          ],
+          "saturday": [
+            "0:01",
+            "0:46",
+            "1:36",
+            "3:51",
+            "4:36",
+            "5:11",
+            "23:21"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:48",
+            "1:38",
+            "3:53",
+            "4:38",
+            "5:13",
+            "23:23"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:48",
+            "1:38",
+            "3:53",
+            "4:38",
+            "5:13",
+            "23:23"
+          ],
+          "saturday": [
+            "0:03",
+            "0:48",
+            "1:38",
+            "3:53",
+            "4:38",
+            "5:13",
+            "23:23"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:50",
+            "1:40",
+            "3:55",
+            "4:40",
+            "5:15",
+            "23:25"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:50",
+            "1:40",
+            "3:55",
+            "4:40",
+            "5:15",
+            "23:25"
+          ],
+          "saturday": [
+            "0:05",
+            "0:50",
+            "1:40",
+            "3:55",
+            "4:40",
+            "5:15",
+            "23:25"
+          ]
+        }
+      }
+    ]
+  }
+}

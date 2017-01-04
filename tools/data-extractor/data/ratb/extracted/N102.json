@@ -1,0 +1,1302 @@
+{
+  "type": "night",
+  "lineId": "N102",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "3:25",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "3:25",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "3:25",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4358",
+        "name": "PIATA UNIRII 5",
+        "location": "BD. I.C.BRATIANU",
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "0:51",
+            "3:26",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:11",
+            "0:51",
+            "3:26",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "saturday": [
+            "0:11",
+            "0:51",
+            "3:26",
+            "4:01",
+            "4:41",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2021",
+        "name": "UNIVERSITATE",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.434787,
+          "longitude": 26.103014
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "0:53",
+            "3:28",
+            "4:03",
+            "4:43",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:13",
+            "0:53",
+            "3:28",
+            "4:03",
+            "4:43",
+            "23:33"
+          ],
+          "saturday": [
+            "0:13",
+            "0:53",
+            "3:28",
+            "4:03",
+            "4:43",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "760",
+        "name": "PIATA ROSETTI",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.436004,
+          "longitude": 26.105419
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "0:54",
+            "3:29",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:14",
+            "0:54",
+            "3:29",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "saturday": [
+            "0:14",
+            "0:54",
+            "3:29",
+            "4:04",
+            "4:44",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2398",
+        "name": "ARMENEASCA",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.436758,
+          "longitude": 26.109275
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:16",
+            "0:56",
+            "3:31",
+            "4:06",
+            "4:46",
+            "23:36"
+          ],
+          "weekdays": [
+            "0:16",
+            "0:56",
+            "3:31",
+            "4:06",
+            "4:46",
+            "23:36"
+          ],
+          "saturday": [
+            "0:16",
+            "0:56",
+            "3:31",
+            "4:06",
+            "4:46",
+            "23:36"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "761",
+        "name": "CALEA MOSILOR",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.437842,
+          "longitude": 26.115283
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "0:57",
+            "3:32",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:17",
+            "0:57",
+            "3:32",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "saturday": [
+            "0:17",
+            "0:57",
+            "3:32",
+            "4:07",
+            "4:47",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "762",
+        "name": "TRAIAN",
+        "location": "BD. PACHE PROTOPOPESCU",
+        "gpsCoordinates": {
+          "latitude": 44.438718,
+          "longitude": 26.119953
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "0:59",
+            "3:34",
+            "4:09",
+            "4:49",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:19",
+            "0:59",
+            "3:34",
+            "4:09",
+            "4:49",
+            "23:39"
+          ],
+          "saturday": [
+            "0:19",
+            "0:59",
+            "3:34",
+            "4:09",
+            "4:49",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2486",
+        "name": "SCOALA IANCULUI",
+        "location": "BD. PACHE PROTOPOPESCU",
+        "gpsCoordinates": {
+          "latitude": 44.439455,
+          "longitude": 26.123826
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:00",
+            "3:35",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:00",
+            "3:35",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:00",
+            "3:35",
+            "4:10",
+            "4:50",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2487",
+        "name": "PIATA IANCULUI",
+        "location": "SOS. MIHAI BRAVU",
+        "gpsCoordinates": {
+          "latitude": 44.439947,
+          "longitude": 26.134455
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:02",
+            "3:37",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:02",
+            "3:37",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "saturday": [
+            "0:22",
+            "1:02",
+            "3:37",
+            "4:12",
+            "4:52",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "816",
+        "name": "SOSEAUA MIHAI BRAVU",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.437707,
+          "longitude": 26.137376
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:04",
+            "3:39",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:04",
+            "3:39",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:04",
+            "3:39",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "817",
+        "name": "LT. VICTOR MANU",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.438466,
+          "longitude": 26.140288
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:05",
+            "3:40",
+            "4:15",
+            "4:55",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:05",
+            "3:40",
+            "4:15",
+            "4:55",
+            "23:45"
+          ],
+          "saturday": [
+            "0:25",
+            "1:05",
+            "3:40",
+            "4:15",
+            "4:55",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3700",
+        "name": "DUMITRU MARINESCU",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.439212,
+          "longitude": 26.143121
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:07",
+            "3:42",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:07",
+            "3:42",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "saturday": [
+            "0:27",
+            "1:07",
+            "3:42",
+            "4:17",
+            "4:57",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "818",
+        "name": "AURA BUZESCU",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.439894,
+          "longitude": 26.1457
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:08",
+            "3:43",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:08",
+            "3:43",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "saturday": [
+            "0:28",
+            "1:08",
+            "3:43",
+            "4:18",
+            "4:58",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "819",
+        "name": "BD. PIERRE DE COUBERTIN",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.440936,
+          "longitude": 26.150103
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:10",
+            "3:45",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:10",
+            "3:45",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:10",
+            "3:45",
+            "4:20",
+            "5:00",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1035",
+        "name": "SOSEAUA IANCULUI",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.442499,
+          "longitude": 26.149867
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:11",
+            "3:46",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:11",
+            "3:46",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "saturday": [
+            "0:31",
+            "1:11",
+            "3:46",
+            "4:21",
+            "5:01",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "4159",
+        "name": "BD. CHISINAU",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.442604,
+          "longitude": 26.159181
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:13",
+            "3:48",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:13",
+            "3:48",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "saturday": [
+            "0:33",
+            "1:13",
+            "3:48",
+            "4:23",
+            "5:03",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "4160",
+        "name": "SOSEAUA MORARILOR",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.442331,
+          "longitude": 26.167025
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:14",
+            "3:49",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:14",
+            "3:49",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "saturday": [
+            "0:34",
+            "1:14",
+            "3:49",
+            "4:24",
+            "5:04",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "4161",
+        "name": "SPITALUL PANTELIMON",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.441536,
+          "longitude": 26.175622
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "1:16",
+            "3:51",
+            "4:26",
+            "5:06",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:36",
+            "1:16",
+            "3:51",
+            "4:26",
+            "5:06",
+            "23:56"
+          ],
+          "saturday": [
+            "0:36",
+            "1:16",
+            "3:51",
+            "4:26",
+            "5:06",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "4162",
+        "name": "GRANITUL",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.44022,
+          "longitude": 26.182443
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:18",
+            "3:53",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:18",
+            "3:53",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "saturday": [
+            "0:38",
+            "1:18",
+            "3:53",
+            "4:28",
+            "5:08",
+            "23:58"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4155",
+        "name": "GRANITUL",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.440833,
+          "longitude": 26.182572
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "3:05",
+            "4:00",
+            "4:40",
+            "22:55",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:05",
+            "3:05",
+            "4:00",
+            "4:40",
+            "22:55",
+            "23:35"
+          ],
+          "saturday": [
+            "0:05",
+            "3:05",
+            "4:00",
+            "4:40",
+            "22:55",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4156",
+        "name": "SPITALUL PANTELIMON",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.442257,
+          "longitude": 26.174209
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:08",
+            "3:08",
+            "4:03",
+            "4:43",
+            "22:58",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:08",
+            "3:08",
+            "4:03",
+            "4:43",
+            "22:58",
+            "23:38"
+          ],
+          "saturday": [
+            "0:08",
+            "3:08",
+            "4:03",
+            "4:43",
+            "22:58",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4157",
+        "name": "SOSEAUA FUNDENI",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.442782,
+          "longitude": 26.164971
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:09",
+            "3:09",
+            "4:04",
+            "4:44",
+            "22:59",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:09",
+            "3:09",
+            "4:04",
+            "4:44",
+            "22:59",
+            "23:39"
+          ],
+          "saturday": [
+            "0:09",
+            "3:09",
+            "4:04",
+            "4:44",
+            "22:59",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1036",
+        "name": "BD. CHISINAU",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.4432,
+          "longitude": 26.156133
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "3:11",
+            "4:06",
+            "4:46",
+            "23:01",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:11",
+            "3:11",
+            "4:06",
+            "4:46",
+            "23:01",
+            "23:41"
+          ],
+          "saturday": [
+            "0:11",
+            "3:11",
+            "4:06",
+            "4:46",
+            "23:01",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4158",
+        "name": "SOSEAUA IANCULUI",
+        "location": "BD. PIERRE DE COUBERTIN",
+        "gpsCoordinates": {
+          "latitude": 44.4438347,
+          "longitude": 26.1481965
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "3:13",
+            "4:08",
+            "4:48",
+            "23:03",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:13",
+            "3:13",
+            "4:08",
+            "4:48",
+            "23:03",
+            "23:43"
+          ],
+          "saturday": [
+            "0:13",
+            "3:13",
+            "4:08",
+            "4:48",
+            "23:03",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "795",
+        "name": "BD. PIERRE DE COUBERTIN",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.440041,
+          "longitude": 26.145574
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "3:14",
+            "4:09",
+            "4:49",
+            "23:04",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:14",
+            "3:14",
+            "4:09",
+            "4:49",
+            "23:04",
+            "23:44"
+          ],
+          "saturday": [
+            "0:14",
+            "3:14",
+            "4:09",
+            "4:49",
+            "23:04",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "796",
+        "name": "AURA BUZESCU",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.440047,
+          "longitude": 26.145558
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:16",
+            "3:16",
+            "4:11",
+            "4:51",
+            "23:06",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:16",
+            "3:16",
+            "4:11",
+            "4:51",
+            "23:06",
+            "23:46"
+          ],
+          "saturday": [
+            "0:16",
+            "3:16",
+            "4:11",
+            "4:51",
+            "23:06",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "797",
+        "name": "LT. VICTOR MANU",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.438737,
+          "longitude": 26.140629
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "3:18",
+            "4:13",
+            "4:53",
+            "23:08",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:18",
+            "3:18",
+            "4:13",
+            "4:53",
+            "23:08",
+            "23:48"
+          ],
+          "saturday": [
+            "0:18",
+            "3:18",
+            "4:13",
+            "4:53",
+            "23:08",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "982",
+        "name": "SOSEAUA MIHAI BRAVU",
+        "location": "STR. VATRA LUMINOASA",
+        "gpsCoordinates": {
+          "latitude": 44.437822,
+          "longitude": 26.137126
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "3:19",
+            "4:14",
+            "4:54",
+            "23:09",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:19",
+            "3:19",
+            "4:14",
+            "4:54",
+            "23:09",
+            "23:49"
+          ],
+          "saturday": [
+            "0:19",
+            "3:19",
+            "4:14",
+            "4:54",
+            "23:09",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "116",
+        "name": "PIATA IANCULUI",
+        "location": "BD. PACHE PROTOPOPESCU",
+        "gpsCoordinates": {
+          "latitude": 44.441164,
+          "longitude": 26.13248
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "3:21",
+            "4:16",
+            "4:56",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:21",
+            "3:21",
+            "4:16",
+            "4:56",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:21",
+            "3:21",
+            "4:16",
+            "4:56",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "156",
+        "name": "SCOALA IANCULUI",
+        "location": "BD. PACHE PROTOPOPESCU",
+        "gpsCoordinates": {
+          "latitude": 44.439436,
+          "longitude": 26.123094
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "3:23",
+            "4:18",
+            "4:58",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:23",
+            "3:23",
+            "4:18",
+            "4:58",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:23",
+            "3:23",
+            "4:18",
+            "4:58",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "726",
+        "name": "TRAIAN",
+        "location": "BD. PACHE PROTOPOPESCU",
+        "gpsCoordinates": {
+          "latitude": 44.438777,
+          "longitude": 26.119547
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "3:24",
+            "4:19",
+            "4:59",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:24",
+            "3:24",
+            "4:19",
+            "4:59",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:24",
+            "3:24",
+            "4:19",
+            "4:59",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "727",
+        "name": "CALEA MOSILOR",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.437976,
+          "longitude": 26.115112
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "3:26",
+            "4:21",
+            "5:01",
+            "23:16",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:26",
+            "3:26",
+            "4:21",
+            "5:01",
+            "23:16",
+            "23:56"
+          ],
+          "saturday": [
+            "0:26",
+            "3:26",
+            "4:21",
+            "5:01",
+            "23:16",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "2405",
+        "name": "ARMENEASCA",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.437089,
+          "longitude": 26.110481
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "3:28",
+            "4:23",
+            "5:03",
+            "23:18",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:28",
+            "3:28",
+            "4:23",
+            "5:03",
+            "23:18",
+            "23:58"
+          ],
+          "saturday": [
+            "0:28",
+            "3:28",
+            "4:23",
+            "5:03",
+            "23:18",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "968",
+        "name": "TEATRUL NATIONAL",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.43595,
+          "longitude": 26.104268
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "3:29",
+            "4:24",
+            "5:04",
+            "23:19",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:29",
+            "3:29",
+            "4:24",
+            "5:04",
+            "23:19",
+            "23:59"
+          ],
+          "saturday": [
+            "0:29",
+            "3:29",
+            "4:24",
+            "5:04",
+            "23:19",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:31",
+            "3:31",
+            "4:26",
+            "5:06",
+            "23:21"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:31",
+            "3:31",
+            "4:26",
+            "5:06",
+            "23:21"
+          ],
+          "saturday": [
+            "0:01",
+            "0:31",
+            "3:31",
+            "4:26",
+            "5:06",
+            "23:21"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:33",
+            "3:33",
+            "4:28",
+            "5:08",
+            "23:23"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:33",
+            "3:33",
+            "4:28",
+            "5:08",
+            "23:23"
+          ],
+          "saturday": [
+            "0:03",
+            "0:33",
+            "3:33",
+            "4:28",
+            "5:08",
+            "23:23"
+          ]
+        }
+      }
+    ]
+  }
+}

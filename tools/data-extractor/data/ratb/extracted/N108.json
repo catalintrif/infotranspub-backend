@@ -1,0 +1,2010 @@
+{
+  "type": "night",
+  "lineId": "N108",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:20",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:20",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4358",
+        "name": "PIATA UNIRII 5",
+        "location": "BD. I.C.BRATIANU",
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:21",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "saturday": [
+            "0:21",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2021",
+        "name": "UNIVERSITATE",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.434787,
+          "longitude": 26.103014
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:22",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "saturday": [
+            "0:22",
+            "0:52",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "760",
+        "name": "PIATA ROSETTI",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.436004,
+          "longitude": 26.105419
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:24",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "saturday": [
+            "0:24",
+            "0:54",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2398",
+        "name": "ARMENEASCA",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.436758,
+          "longitude": 26.109275
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:25",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "saturday": [
+            "0:25",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1909",
+        "name": "CALEA MOSILOR",
+        "location": "CAL. MOSILOR",
+        "gpsCoordinates": {
+          "latitude": 44.438754,
+          "longitude": 26.115245
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:27",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "saturday": [
+            "0:27",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2400",
+        "name": "MIHAI EMINESCU",
+        "location": "CAL. MOSILOR",
+        "gpsCoordinates": {
+          "latitude": 44.444353,
+          "longitude": 26.120175
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:28",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "saturday": [
+            "0:28",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2401",
+        "name": "FAINARI",
+        "location": "CAL. MOSILOR",
+        "gpsCoordinates": {
+          "latitude": 44.447562,
+          "longitude": 26.123281
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "saturday": [
+            "0:30",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4344",
+        "name": "BUCUR OBOR",
+        "location": "SOS. MIHAI BRAVU",
+        "gpsCoordinates": {
+          "latitude": 44.448577,
+          "longitude": 26.124943
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "saturday": [
+            "0:31",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1161",
+        "name": "SOSEAUA MIHAI BRAVU 88",
+        "location": "SOS. MIHAI BRAVU",
+        "gpsCoordinates": {
+          "latitude": 44.444507,
+          "longitude": 26.127782
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "saturday": [
+            "0:32",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "2585",
+        "name": "AVRIG",
+        "location": "BD. FERDINAND",
+        "gpsCoordinates": {
+          "latitude": 44.445572,
+          "longitude": 26.133459
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:34",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "791",
+        "name": "SOSEAUA PANTELIMON",
+        "location": "BD. FERDINAND",
+        "gpsCoordinates": {
+          "latitude": 44.446616,
+          "longitude": 26.135862
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:05",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:05",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ],
+          "saturday": [
+            "0:35",
+            "1:05",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "792",
+        "name": "GARA OBOR",
+        "location": "BD. GARII OBOR",
+        "gpsCoordinates": {
+          "latitude": 44.448228,
+          "longitude": 26.140523
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:07",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:07",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "saturday": [
+            "0:37",
+            "1:07",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3152",
+        "name": "BAICULUI",
+        "location": "BD. GARII OBOR",
+        "gpsCoordinates": {
+          "latitude": 44.448726,
+          "longitude": 26.13987
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "saturday": [
+            "0:38",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "2955",
+        "name": "ELECTRONICA",
+        "location": "STR. BAICULUI",
+        "gpsCoordinates": {
+          "latitude": 44.448596,
+          "longitude": 26.14754
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:40",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:40",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "saturday": [
+            "0:40",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "3571",
+        "name": "DIMITRIE GROZDEA",
+        "location": "STR. DUMITRU SLUGERU",
+        "gpsCoordinates": {
+          "latitude": 44.450311,
+          "longitude": 26.147664
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:41",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:41",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "saturday": [
+            "0:41",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "364",
+        "name": "COMPLEX COMERCIAL",
+        "location": "STR. DUMITRU SLUGERU",
+        "gpsCoordinates": {
+          "latitude": 44.451559,
+          "longitude": 26.146159
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:42",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "weekdays": [
+            "0:42",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "saturday": [
+            "0:42",
+            "1:12",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "398",
+        "name": "HELIADE INTRE VII",
+        "location": "STR. DUMITRU SLUGERU",
+        "gpsCoordinates": {
+          "latitude": 44.453708,
+          "longitude": 26.142111
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:44",
+            "1:14",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:44",
+            "1:14",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "saturday": [
+            "0:44",
+            "1:14",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "2141",
+        "name": "SCOALA GENERALA 145",
+        "location": "STR. DNA. GHICA",
+        "gpsCoordinates": {
+          "latitude": 44.456042,
+          "longitude": 26.142557
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:45",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:45",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "saturday": [
+            "0:45",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "2155",
+        "name": "SCUT - GHERASE",
+        "location": "STR. DNA. GHICA",
+        "gpsCoordinates": {
+          "latitude": 44.458087,
+          "longitude": 26.138111
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:47",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:47",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "saturday": [
+            "0:47",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "4091",
+        "name": "CONSTANTA",
+        "location": "STR. DNA. GHICA",
+        "gpsCoordinates": {
+          "latitude": 44.4590279,
+          "longitude": 26.1366538
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:48",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:48",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "saturday": [
+            "0:48",
+            "1:18",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "1163",
+        "name": "DOAMNA GHICA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.463059,
+          "longitude": 26.133867
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:50",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:50",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ],
+          "saturday": [
+            "0:00",
+            "0:50",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "3994",
+        "name": "CREMENITA (PIATA COLENTINA)",
+        "location": "SOS. COLENTINA",
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:51",
+            "1:21",
+            "3:46",
+            "4:31",
+            "5:11"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:51",
+            "1:21",
+            "3:46",
+            "4:31",
+            "5:11"
+          ],
+          "saturday": [
+            "0:01",
+            "0:51",
+            "1:21",
+            "3:46",
+            "4:31",
+            "5:11"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "1164",
+        "name": "RAUL COLENTINA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.467193,
+          "longitude": 26.139939
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:52",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:52",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "saturday": [
+            "0:02",
+            "0:52",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "3344",
+        "name": "CARTIER COLENTINA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.469299,
+          "longitude": 26.144808
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:04",
+            "0:54",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ],
+          "weekdays": [
+            "0:04",
+            "0:54",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ],
+          "saturday": [
+            "0:04",
+            "0:54",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ]
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "984",
+        "name": "SPORTULUI",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.471281,
+          "longitude": 26.150512
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:55",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:55",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ],
+          "saturday": [
+            "0:05",
+            "0:55",
+            "1:25",
+            "3:50",
+            "4:35",
+            "5:15"
+          ]
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "136",
+        "name": "CORNISOR",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.473521,
+          "longitude": 26.154906
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:07",
+            "0:57",
+            "1:27",
+            "3:52",
+            "4:37",
+            "5:17"
+          ],
+          "weekdays": [
+            "0:07",
+            "0:57",
+            "1:27",
+            "3:52",
+            "4:37",
+            "5:17"
+          ],
+          "saturday": [
+            "0:07",
+            "0:57",
+            "1:27",
+            "3:52",
+            "4:37",
+            "5:17"
+          ]
+        }
+      },
+      {
+        "stopId": "27",
+        "stopCode": "1168",
+        "name": "NICOLAE CANEA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.475984,
+          "longitude": 26.159674
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:08",
+            "0:58",
+            "1:28",
+            "3:53",
+            "4:38",
+            "5:18"
+          ],
+          "weekdays": [
+            "0:08",
+            "0:58",
+            "1:28",
+            "3:53",
+            "4:38",
+            "5:18"
+          ],
+          "saturday": [
+            "0:08",
+            "0:58",
+            "1:28",
+            "3:53",
+            "4:38",
+            "5:18"
+          ]
+        }
+      },
+      {
+        "stopId": "28",
+        "stopCode": "4373",
+        "name": "PASAJ COLENTINA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.4782911,
+          "longitude": 26.1637141
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "1:00",
+            "1:30",
+            "3:55",
+            "4:40",
+            "5:20"
+          ],
+          "weekdays": [
+            "0:10",
+            "1:00",
+            "1:30",
+            "3:55",
+            "4:40",
+            "5:20"
+          ],
+          "saturday": [
+            "0:10",
+            "1:00",
+            "1:30",
+            "3:55",
+            "4:40",
+            "5:20"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4374",
+        "name": "PASAJ COLENTINA (URC)",
+        "location": "SOS. COLENTINA",
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "3:00",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ],
+          "weekdays": [
+            "0:10",
+            "3:00",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ],
+          "saturday": [
+            "0:10",
+            "3:00",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1172",
+        "name": "NICOLAE CANEA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.475387,
+          "longitude": 26.158075
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "3:02",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ],
+          "weekdays": [
+            "0:12",
+            "3:02",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ],
+          "saturday": [
+            "0:12",
+            "3:02",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1173",
+        "name": "CORNISOR",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.473062,
+          "longitude": 26.153427
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "3:04",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ],
+          "weekdays": [
+            "0:14",
+            "3:04",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ],
+          "saturday": [
+            "0:14",
+            "3:04",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1174",
+        "name": "SPORTULUI",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.447924,
+          "longitude": 26.103062
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "3:05",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:15",
+            "3:05",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ],
+          "saturday": [
+            "0:15",
+            "3:05",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1175",
+        "name": "CARTIER COLENTINA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.468443,
+          "longitude": 26.141992
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "3:07",
+            "4:07",
+            "4:47",
+            "22:52",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:17",
+            "3:07",
+            "4:07",
+            "4:47",
+            "22:52",
+            "23:32"
+          ],
+          "saturday": [
+            "0:17",
+            "3:07",
+            "4:07",
+            "4:47",
+            "22:52",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1176",
+        "name": "RAUL COLENTINA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.466192,
+          "longitude": 26.13724
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "3:08",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:18",
+            "3:08",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ],
+          "saturday": [
+            "0:18",
+            "3:08",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3993",
+        "name": "CREMENITA (PIATA COLENTINA)",
+        "location": "SOS. COLENTINA",
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "3:10",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:20",
+            "3:10",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ],
+          "saturday": [
+            "0:20",
+            "3:10",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4090",
+        "name": "CONSTANTA",
+        "location": "STR. DNA. GHICA",
+        "gpsCoordinates": {
+          "latitude": 44.4590279,
+          "longitude": 26.1366538
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "3:11",
+            "4:11",
+            "4:51",
+            "22:56",
+            "23:36"
+          ],
+          "weekdays": [
+            "0:21",
+            "3:11",
+            "4:11",
+            "4:51",
+            "22:56",
+            "23:36"
+          ],
+          "saturday": [
+            "0:21",
+            "3:11",
+            "4:11",
+            "4:51",
+            "22:56",
+            "23:36"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2119",
+        "name": "SCUT - GHERASE",
+        "location": "STR. DNA. GHICA",
+        "gpsCoordinates": {
+          "latitude": 44.457065,
+          "longitude": 26.13901
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "3:13",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:23",
+            "3:13",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ],
+          "saturday": [
+            "0:23",
+            "3:13",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "923",
+        "name": "SCOALA GENERALA 145",
+        "location": "STR. HELIADE INTRE VII",
+        "gpsCoordinates": {
+          "latitude": 44.455072,
+          "longitude": 26.142972
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "3:14",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:24",
+            "3:14",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ],
+          "saturday": [
+            "0:24",
+            "3:14",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "2123",
+        "name": "DUMITRU SLUGERU",
+        "location": "STR. DUMITRU SLUGERU",
+        "gpsCoordinates": {
+          "latitude": 44.453504,
+          "longitude": 26.142366
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "3:16",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:26",
+            "3:16",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ],
+          "saturday": [
+            "0:26",
+            "3:16",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "2124",
+        "name": "COMPLEX COMERCIAL",
+        "location": "STR. DUMITRU SLUGERU",
+        "gpsCoordinates": {
+          "latitude": 44.451083,
+          "longitude": 26.146487
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "3:17",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:27",
+            "3:17",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ],
+          "saturday": [
+            "0:27",
+            "3:17",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "3570",
+        "name": "DIMITRIE GROZDEA",
+        "location": "STR. DUMITRU SLUGERU",
+        "gpsCoordinates": {
+          "latitude": 44.449983,
+          "longitude": 26.147883
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "3:19",
+            "4:19",
+            "4:59",
+            "23:04",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:29",
+            "3:19",
+            "4:19",
+            "4:59",
+            "23:04",
+            "23:44"
+          ],
+          "saturday": [
+            "0:29",
+            "3:19",
+            "4:19",
+            "4:59",
+            "23:04",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "2954",
+        "name": "ELECTRONICA",
+        "location": "STR. BAICULUI",
+        "gpsCoordinates": {
+          "latitude": 44.448672,
+          "longitude": 26.146697
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "3:20",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:30",
+            "3:20",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ],
+          "saturday": [
+            "0:30",
+            "3:20",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "774",
+        "name": "BAICULUI",
+        "location": "BD. GARII OBOR",
+        "gpsCoordinates": {
+          "latitude": 44.447206,
+          "longitude": 26.143548
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "3:22",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:32",
+            "3:22",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ],
+          "saturday": [
+            "0:32",
+            "3:22",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "775",
+        "name": "GARA OBOR",
+        "location": "BD. GARII OBOR",
+        "gpsCoordinates": {
+          "latitude": 44.44872,
+          "longitude": 26.139911
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "3:23",
+            "4:23",
+            "5:03",
+            "23:08",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:33",
+            "3:23",
+            "4:23",
+            "5:03",
+            "23:08",
+            "23:48"
+          ],
+          "saturday": [
+            "0:33",
+            "3:23",
+            "4:23",
+            "5:03",
+            "23:08",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "776",
+        "name": "SOSEAUA PANTELIMON",
+        "location": "BD. FERDINAND",
+        "gpsCoordinates": {
+          "latitude": 44.445959,
+          "longitude": 26.133908
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "3:25",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:35",
+            "3:25",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ],
+          "saturday": [
+            "0:35",
+            "3:25",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "777",
+        "name": "SOSEAUA MIHAI BRAVU",
+        "location": "BD. FERDINAND",
+        "gpsCoordinates": {
+          "latitude": 44.444446,
+          "longitude": 26.130396
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "3:26",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:36",
+            "3:26",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:36",
+            "3:26",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "180",
+        "name": "SOSEAUA MIHAI BRAVU 33",
+        "location": "SOS. MIHAI BRAVU",
+        "gpsCoordinates": {
+          "latitude": 44.445512,
+          "longitude": 26.12738
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "3:28",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:38",
+            "3:28",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:38",
+            "3:28",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4343",
+        "name": "BUCUR OBOR",
+        "location": "SOS. MIHAI BRAVU",
+        "gpsCoordinates": {
+          "latitude": 44.449166,
+          "longitude": 26.125394
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "3:29",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:39",
+            "3:29",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:39",
+            "3:29",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "1178",
+        "name": "FAINARI",
+        "location": "CAL. MOSILOR",
+        "gpsCoordinates": {
+          "latitude": 44.446836,
+          "longitude": 26.122245
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:41",
+            "3:31",
+            "4:31",
+            "5:11",
+            "23:16",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:41",
+            "3:31",
+            "4:31",
+            "5:11",
+            "23:16",
+            "23:56"
+          ],
+          "saturday": [
+            "0:41",
+            "3:31",
+            "4:31",
+            "5:11",
+            "23:16",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "2403",
+        "name": "MIHAI EMINESCU",
+        "location": "CAL. MOSILOR",
+        "gpsCoordinates": {
+          "latitude": 44.444343,
+          "longitude": 26.119825
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:42",
+            "3:32",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:42",
+            "3:32",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ],
+          "saturday": [
+            "0:42",
+            "3:32",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "2404",
+        "name": "BD. CAROL I",
+        "location": "CAL. MOSILOR",
+        "gpsCoordinates": {
+          "latitude": 44.438912,
+          "longitude": 26.114981
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:44",
+            "3:34",
+            "4:34",
+            "5:14",
+            "23:19",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:44",
+            "3:34",
+            "4:34",
+            "5:14",
+            "23:19",
+            "23:59"
+          ],
+          "saturday": [
+            "0:44",
+            "3:34",
+            "4:34",
+            "5:14",
+            "23:19",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "2405",
+        "name": "ARMENEASCA",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.437089,
+          "longitude": 26.110481
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:45",
+            "3:35",
+            "4:35",
+            "5:15",
+            "23:20"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:45",
+            "3:35",
+            "4:35",
+            "5:15",
+            "23:20"
+          ],
+          "saturday": [
+            "0:00",
+            "0:45",
+            "3:35",
+            "4:35",
+            "5:15",
+            "23:20"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "968",
+        "name": "TEATRUL NATIONAL",
+        "location": "BD. CAROL I",
+        "gpsCoordinates": {
+          "latitude": 44.43595,
+          "longitude": 26.104268
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:47",
+            "3:37",
+            "4:37",
+            "5:17",
+            "23:22"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:47",
+            "3:37",
+            "4:37",
+            "5:17",
+            "23:22"
+          ],
+          "saturday": [
+            "0:02",
+            "0:47",
+            "3:37",
+            "4:37",
+            "5:17",
+            "23:22"
+          ]
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:48",
+            "3:38",
+            "4:38",
+            "5:18",
+            "23:23"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:48",
+            "3:38",
+            "4:38",
+            "5:18",
+            "23:23"
+          ],
+          "saturday": [
+            "0:03",
+            "0:48",
+            "3:38",
+            "4:38",
+            "5:18",
+            "23:23"
+          ]
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:50",
+            "3:40",
+            "4:40",
+            "5:20",
+            "23:25"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:50",
+            "3:40",
+            "4:40",
+            "5:20",
+            "23:25"
+          ],
+          "saturday": [
+            "0:05",
+            "0:50",
+            "3:40",
+            "4:40",
+            "5:20",
+            "23:25"
+          ]
+        }
+      }
+    ]
+  }
+}

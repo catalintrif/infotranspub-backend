@@ -1,0 +1,1578 @@
+{
+  "type": "night",
+  "lineId": "N106",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "1:00",
+            "3:13",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "1:00",
+            "3:13",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "1:00",
+            "3:13",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "1:01",
+            "3:15",
+            "4:01",
+            "4:41",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:11",
+            "1:01",
+            "3:15",
+            "4:01",
+            "4:41",
+            "23:32"
+          ],
+          "saturday": [
+            "0:11",
+            "1:01",
+            "3:15",
+            "4:01",
+            "4:41",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4356",
+        "name": "PIATA UNIRII 3",
+        "location": "ALEEA II",
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "1:03",
+            "3:17",
+            "4:03",
+            "4:43",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:13",
+            "1:03",
+            "3:17",
+            "4:03",
+            "4:43",
+            "23:34"
+          ],
+          "saturday": [
+            "0:13",
+            "1:03",
+            "3:17",
+            "4:03",
+            "4:43",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2010",
+        "name": "BD. MARASESTI",
+        "location": "BD. DIMITRIE CANTEMIR",
+        "gpsCoordinates": {
+          "latitude": 44.420522,
+          "longitude": 26.103845
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "1:05",
+            "3:19",
+            "4:05",
+            "4:45",
+            "23:36"
+          ],
+          "weekdays": [
+            "0:15",
+            "1:05",
+            "3:19",
+            "4:05",
+            "4:45",
+            "23:36"
+          ],
+          "saturday": [
+            "0:15",
+            "1:05",
+            "3:19",
+            "4:05",
+            "4:45",
+            "23:36"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4482",
+        "name": "COLEGIUL NATIONAL GH. SINCAI",
+        "location": "BD. DIMITRIE CANTEMIR",
+        "gpsCoordinates": {
+          "latitude": 44.414775,
+          "longitude": 26.104301
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "1:07",
+            "3:21",
+            "4:07",
+            "4:47",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:17",
+            "1:07",
+            "3:21",
+            "4:07",
+            "4:47",
+            "23:38"
+          ],
+          "saturday": [
+            "0:17",
+            "1:07",
+            "3:21",
+            "4:07",
+            "4:47",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "684",
+        "name": "ADESGO",
+        "location": "CAL. SERBAN VODA",
+        "gpsCoordinates": {
+          "latitude": 44.411165,
+          "longitude": 26.099803
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "1:08",
+            "3:24",
+            "4:08",
+            "4:48",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:18",
+            "1:08",
+            "3:24",
+            "4:08",
+            "4:48",
+            "23:40"
+          ],
+          "saturday": [
+            "0:18",
+            "1:08",
+            "3:24",
+            "4:08",
+            "4:48",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "685",
+        "name": "CUTITUL DE ARGINT",
+        "location": "CAL. SERBAN VODA",
+        "gpsCoordinates": {
+          "latitude": 44.408811,
+          "longitude": 26.096627
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:10",
+            "3:26",
+            "4:10",
+            "4:50",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:10",
+            "3:26",
+            "4:10",
+            "4:50",
+            "23:42"
+          ],
+          "saturday": [
+            "0:20",
+            "1:10",
+            "3:26",
+            "4:10",
+            "4:50",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1975",
+        "name": "CIMITIRUL EROILOR REVOLUTIEI",
+        "location": "CAL. SERBAN VODA",
+        "gpsCoordinates": {
+          "latitude": 44.40647,
+          "longitude": 26.095502
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:12",
+            "3:28",
+            "4:12",
+            "4:52",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:12",
+            "3:28",
+            "4:12",
+            "4:52",
+            "23:45"
+          ],
+          "saturday": [
+            "0:22",
+            "1:12",
+            "3:28",
+            "4:12",
+            "4:52",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "940",
+        "name": "CIMITIRUL SERBAN VODA",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.401058,
+          "longitude": 26.100205
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:14",
+            "3:30",
+            "4:14",
+            "4:54",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:14",
+            "3:30",
+            "4:14",
+            "4:54",
+            "23:47"
+          ],
+          "saturday": [
+            "0:24",
+            "1:14",
+            "3:30",
+            "4:14",
+            "4:54",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "56",
+        "name": "OPRIS ILIE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.399715,
+          "longitude": 26.10529
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:15",
+            "3:33",
+            "4:15",
+            "4:55",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:15",
+            "3:33",
+            "4:15",
+            "4:55",
+            "23:49"
+          ],
+          "saturday": [
+            "0:25",
+            "1:15",
+            "3:33",
+            "4:15",
+            "4:55",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1264",
+        "name": "BD. CONSTANTIN BRANCOVEANU",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.397684,
+          "longitude": 26.110717
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:17",
+            "3:35",
+            "4:17",
+            "4:57",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:17",
+            "3:35",
+            "4:17",
+            "4:57",
+            "23:51"
+          ],
+          "saturday": [
+            "0:27",
+            "1:17",
+            "3:35",
+            "4:17",
+            "4:57",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "943",
+        "name": "HUSI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.395531,
+          "longitude": 26.116485
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "1:19",
+            "3:37",
+            "4:19",
+            "4:59",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:29",
+            "1:19",
+            "3:37",
+            "4:19",
+            "4:59",
+            "23:53"
+          ],
+          "saturday": [
+            "0:29",
+            "1:19",
+            "3:37",
+            "4:19",
+            "4:59",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2110",
+        "name": "PIATA SUDULUI",
+        "location": "SOS. BERCENI",
+        "gpsCoordinates": {
+          "latitude": 44.392627,
+          "longitude": 26.122467
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:21",
+            "3:39",
+            "4:21",
+            "5:01",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:21",
+            "3:39",
+            "4:21",
+            "5:01",
+            "23:55"
+          ],
+          "saturday": [
+            "0:31",
+            "1:21",
+            "3:39",
+            "4:21",
+            "5:01",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "174",
+        "name": "AMIRO",
+        "location": "SOS. BERCENI",
+        "gpsCoordinates": {
+          "latitude": 44.38894,
+          "longitude": 26.125716
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:22",
+            "3:42",
+            "4:22",
+            "5:02",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:22",
+            "3:42",
+            "4:22",
+            "5:02",
+            "23:57"
+          ],
+          "saturday": [
+            "0:32",
+            "1:22",
+            "3:42",
+            "4:22",
+            "5:02",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "2878",
+        "name": "SPITALUL DR. MARINESCU",
+        "location": "SOS. BERCENI",
+        "gpsCoordinates": {
+          "latitude": 44.38614,
+          "longitude": 26.128403
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:34",
+            "1:24",
+            "3:44",
+            "4:24",
+            "5:04"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:34",
+            "1:24",
+            "3:44",
+            "4:24",
+            "5:04"
+          ],
+          "saturday": [
+            "0:00",
+            "0:34",
+            "1:24",
+            "3:44",
+            "4:24",
+            "5:04"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "3342",
+        "name": "TOMESTI",
+        "location": "SOS. BERCENI",
+        "gpsCoordinates": {
+          "latitude": 44.382795,
+          "longitude": 26.131575
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:36",
+            "1:26",
+            "3:46",
+            "4:26",
+            "5:06"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:36",
+            "1:26",
+            "3:46",
+            "4:26",
+            "5:06"
+          ],
+          "saturday": [
+            "0:02",
+            "0:36",
+            "1:26",
+            "3:46",
+            "4:26",
+            "5:06"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "1071",
+        "name": "CARTIER APARATORII PATRIEI",
+        "location": "STR. IRICEANU",
+        "gpsCoordinates": {
+          "latitude": 44.380382,
+          "longitude": 26.135481
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:04",
+            "0:38",
+            "1:28",
+            "3:48",
+            "4:28",
+            "5:08"
+          ],
+          "weekdays": [
+            "0:04",
+            "0:38",
+            "1:28",
+            "3:48",
+            "4:28",
+            "5:08"
+          ],
+          "saturday": [
+            "0:04",
+            "0:38",
+            "1:28",
+            "3:48",
+            "4:28",
+            "5:08"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "1056",
+        "name": "SOSEAUA OLTENITEI",
+        "location": "STR. IRICEANU",
+        "gpsCoordinates": {
+          "latitude": 44.385022,
+          "longitude": 26.138718
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:06",
+            "0:39",
+            "1:29",
+            "3:51",
+            "4:29",
+            "5:09"
+          ],
+          "weekdays": [
+            "0:06",
+            "0:39",
+            "1:29",
+            "3:51",
+            "4:29",
+            "5:09"
+          ],
+          "saturday": [
+            "0:06",
+            "0:39",
+            "1:29",
+            "3:51",
+            "4:29",
+            "5:09"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "1057",
+        "name": "CARTIER APARATORII PATRIEI",
+        "location": "STR. TURNU MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.379704,
+          "longitude": 26.132521
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:08",
+            "0:41",
+            "1:31",
+            "3:53",
+            "4:31",
+            "5:11"
+          ],
+          "weekdays": [
+            "0:08",
+            "0:41",
+            "1:31",
+            "3:53",
+            "4:31",
+            "5:11"
+          ],
+          "saturday": [
+            "0:08",
+            "0:41",
+            "1:31",
+            "3:53",
+            "4:31",
+            "5:11"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "1058",
+        "name": "EMIL RACOVITA",
+        "location": "STR. TURNU MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.37917,
+          "longitude": 26.126859
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:43",
+            "1:33",
+            "3:55",
+            "4:33",
+            "5:13"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:43",
+            "1:33",
+            "3:55",
+            "4:33",
+            "5:13"
+          ],
+          "saturday": [
+            "0:10",
+            "0:43",
+            "1:33",
+            "3:55",
+            "4:33",
+            "5:13"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "2509",
+        "name": "CICEU",
+        "location": "STR. TURNU MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.378086,
+          "longitude": 26.123527
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "0:45",
+            "1:35",
+            "3:57",
+            "4:35",
+            "5:15"
+          ],
+          "weekdays": [
+            "0:12",
+            "0:45",
+            "1:35",
+            "3:57",
+            "4:35",
+            "5:15"
+          ],
+          "saturday": [
+            "0:12",
+            "0:45",
+            "1:35",
+            "3:57",
+            "4:35",
+            "5:15"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "941",
+        "name": "BD. ALEXANDRU OBREGIA",
+        "location": "STR. TURNU MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.376805,
+          "longitude": 26.120705
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "0:47",
+            "1:37",
+            "4:00",
+            "4:37",
+            "5:17"
+          ],
+          "weekdays": [
+            "0:15",
+            "0:47",
+            "1:37",
+            "4:00",
+            "4:37",
+            "5:17"
+          ],
+          "saturday": [
+            "0:15",
+            "0:47",
+            "1:37",
+            "4:00",
+            "4:37",
+            "5:17"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "931",
+        "name": "BD. ALEXANDRU OBREGIA",
+        "location": "STR. TURNU MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.377233,
+          "longitude": 26.121556
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:15",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ],
+          "saturday": [
+            "0:15",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:50",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2675",
+        "name": "CICEU",
+        "location": "STR. TURNU MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.378187,
+          "longitude": 26.124363
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "1:03",
+            "3:18",
+            "4:03",
+            "4:43",
+            "22:53",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:18",
+            "1:03",
+            "3:18",
+            "4:03",
+            "4:43",
+            "22:53",
+            "23:33"
+          ],
+          "saturday": [
+            "0:18",
+            "1:03",
+            "3:18",
+            "4:03",
+            "4:43",
+            "22:53",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "90",
+        "name": "EMIL RACOVITA",
+        "location": "STR. TURNU MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.379306,
+          "longitude": 26.128187
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:54",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:19",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:54",
+            "23:34"
+          ],
+          "saturday": [
+            "0:19",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:54",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1071",
+        "name": "CARTIER APARATORII PATRIEI",
+        "location": "STR. IRICEANU",
+        "gpsCoordinates": {
+          "latitude": 44.380382,
+          "longitude": 26.135481
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:06",
+            "3:21",
+            "4:06",
+            "4:46",
+            "22:56",
+            "23:36"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:06",
+            "3:21",
+            "4:06",
+            "4:46",
+            "22:56",
+            "23:36"
+          ],
+          "saturday": [
+            "0:21",
+            "1:06",
+            "3:21",
+            "4:06",
+            "4:46",
+            "22:56",
+            "23:36"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1056",
+        "name": "SOSEAUA OLTENITEI",
+        "location": "STR. IRICEANU",
+        "gpsCoordinates": {
+          "latitude": 44.385022,
+          "longitude": 26.138718
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:23",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ],
+          "saturday": [
+            "0:23",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:58",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2112",
+        "name": "CARTIER APARATORII PATRIEI",
+        "location": "SOS. BERCENI",
+        "gpsCoordinates": {
+          "latitude": 44.380783,
+          "longitude": 26.133845
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:09",
+            "3:24",
+            "4:09",
+            "4:49",
+            "22:59",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:09",
+            "3:24",
+            "4:09",
+            "4:49",
+            "22:59",
+            "23:39"
+          ],
+          "saturday": [
+            "0:24",
+            "1:09",
+            "3:24",
+            "4:09",
+            "4:49",
+            "22:59",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3341",
+        "name": "TOMESTI",
+        "location": "SOS. BERCENI",
+        "gpsCoordinates": {
+          "latitude": 44.383026,
+          "longitude": 26.131704
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:01",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:01",
+            "23:41"
+          ],
+          "saturday": [
+            "0:26",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:01",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2879",
+        "name": "SPITALUL DR. MARINESCU",
+        "location": "SOS. BERCENI",
+        "gpsCoordinates": {
+          "latitude": 44.386597,
+          "longitude": 26.128281
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:13",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:03",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:13",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:03",
+            "23:43"
+          ],
+          "saturday": [
+            "0:28",
+            "1:13",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:03",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "165",
+        "name": "AMIRO",
+        "location": "SOS. BERCENI",
+        "gpsCoordinates": {
+          "latitude": 44.38972,
+          "longitude": 26.125389
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:29",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ],
+          "saturday": [
+            "0:29",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:04",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4451",
+        "name": "PIATA SUDULUI",
+        "location": "INTR. NETEA",
+        "gpsCoordinates": {
+          "latitude": 44.392762,
+          "longitude": 26.122688
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:06",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:06",
+            "23:46"
+          ],
+          "saturday": [
+            "0:31",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:06",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "936",
+        "name": "HUSI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.396161,
+          "longitude": 26.115405
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:08",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:08",
+            "23:48"
+          ],
+          "saturday": [
+            "0:33",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:08",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "937",
+        "name": "BD. CONSTANTIN BRANCOVEANU",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.398835,
+          "longitude": 26.108389
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:09",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:09",
+            "23:49"
+          ],
+          "saturday": [
+            "0:34",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:09",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "938",
+        "name": "OPRIS ILIE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.400211,
+          "longitude": 26.104406
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:36",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:36",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "939",
+        "name": "CIMITIRUL SERBAN VODA",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.402099,
+          "longitude": 26.098729
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:23",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:23",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:38",
+            "1:23",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "657",
+        "name": "CIMITIRUL EROILOR REVOLUTIEI",
+        "location": "CAL. SERBAN VODA",
+        "gpsCoordinates": {
+          "latitude": 44.406399,
+          "longitude": 26.095823
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:39",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "658",
+        "name": "CUTITUL DE ARGINT",
+        "location": "CAL. SERBAN VODA",
+        "gpsCoordinates": {
+          "latitude": 44.408968,
+          "longitude": 26.09729
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:41",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:16",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:41",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:16",
+            "23:56"
+          ],
+          "saturday": [
+            "0:41",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:16",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "659",
+        "name": "ADESGO",
+        "location": "CAL. SERBAN VODA",
+        "gpsCoordinates": {
+          "latitude": 44.411496,
+          "longitude": 26.100748
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:43",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:18",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:43",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:18",
+            "23:58"
+          ],
+          "saturday": [
+            "0:43",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:18",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "4478",
+        "name": "COLEGIUL NATIONAL GH. SINCAI",
+        "location": "BD. DIMITRIE CANTEMIR",
+        "gpsCoordinates": {
+          "latitude": 44.415056,
+          "longitude": 26.104546
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:44",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:19",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:44",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:19",
+            "23:59"
+          ],
+          "saturday": [
+            "0:44",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:19",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "2020",
+        "name": "BD. MARASESTI",
+        "location": "BD. DIMITRIE CANTEMIR",
+        "gpsCoordinates": {
+          "latitude": 44.420832,
+          "longitude": 26.104165
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:46",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:21"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:46",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:21"
+          ],
+          "saturday": [
+            "0:01",
+            "0:46",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:21"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:48",
+            "1:33",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:23"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:48",
+            "1:33",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:23"
+          ],
+          "saturday": [
+            "0:03",
+            "0:48",
+            "1:33",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:23"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "type": "night",
+  "lineId": "N123",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1191",
+        "name": "C.F.R. CONSTANTA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.487095,
+          "longitude": 26.115432
+        },
+        "scheduleTable": {
+          "sunday": [
+            "23:50"
+          ],
+          "weekdays": [
+            "23:50"
+          ],
+          "saturday": [
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4220",
+        "name": "BARBU VACARESCU",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.4643582,
+          "longitude": 26.1080491
+        },
+        "scheduleTable": {
+          "sunday": [
+            "23:53"
+          ],
+          "weekdays": [
+            "23:53"
+          ],
+          "saturday": [
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3951",
+        "name": "PASAJ BANEASA",
+        "location": "STR. BARBU VACARESCU",
+        "scheduleTable": {
+          "sunday": [
+            "23:55"
+          ],
+          "weekdays": [
+            "23:55"
+          ],
+          "saturday": [
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3813",
+        "name": "AUTOBAZA NORDULUI",
+        "location": "BD. FICUSULUI",
+        "scheduleTable": {
+          "sunday": [
+            "23:59"
+          ],
+          "weekdays": [
+            "23:59"
+          ],
+          "saturday": [
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1659",
+        "name": "AEROPORT BANEASA",
+        "location": "SOS. BUCURESTI-PLOIESTI",
+        "gpsCoordinates": {
+          "latitude": 44.496501,
+          "longitude": 26.079774
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02"
+          ],
+          "weekdays": [
+            "0:02"
+          ],
+          "saturday": [
+            "0:02"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "8",
+        "name": "PASAJ OTOPENI",
+        "location": "SOS. ODAI",
+        "gpsCoordinates": {
+          "latitude": 44.533975,
+          "longitude": 26.067831
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:12"
+          ],
+          "weekdays": [
+            "0:12"
+          ],
+          "saturday": [
+            "0:12"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4194",
+        "name": "PASAJ OTOPENI",
+        "location": "BRETEA PASAJ OTOPENI",
+        "gpsCoordinates": {
+          "latitude": 44.5297916,
+          "longitude": 26.0699064
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:13"
+          ],
+          "weekdays": [
+            "0:13"
+          ],
+          "saturday": [
+            "0:13"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4194",
+        "name": "PASAJ OTOPENI",
+        "location": "BRETEA PASAJ OTOPENI",
+        "gpsCoordinates": {
+          "latitude": 44.5297916,
+          "longitude": 26.0699064
+        },
+        "scheduleTable": {
+          "sunday": [
+            "3:49"
+          ],
+          "weekdays": [
+            "3:49"
+          ],
+          "saturday": [
+            "3:49"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "286",
+        "name": "SOSEAUA BUCURESTI-PLOIESTI",
+        "location": "BD. AEROGARII",
+        "gpsCoordinates": {
+          "latitude": 44.494286,
+          "longitude": 26.080058
+        },
+        "scheduleTable": {
+          "sunday": [
+            "4:00"
+          ],
+          "weekdays": [
+            "4:00"
+          ],
+          "saturday": [
+            "4:00"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3813",
+        "name": "AUTOBAZA NORDULUI",
+        "location": "BD. FICUSULUI",
+        "scheduleTable": {
+          "sunday": [
+            "4:02"
+          ],
+          "weekdays": [
+            "4:02"
+          ],
+          "saturday": [
+            "4:02"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3963",
+        "name": "PASAJ BANEASA",
+        "location": "STR. CPT. SERBANESCU",
+        "scheduleTable": {
+          "sunday": [
+            "4:08"
+          ],
+          "weekdays": [
+            "4:08"
+          ],
+          "saturday": [
+            "4:08"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4216",
+        "name": "BARBU VACARESCU",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.4643582,
+          "longitude": 26.1080491
+        },
+        "scheduleTable": {
+          "sunday": [
+            "4:11"
+          ],
+          "weekdays": [
+            "4:11"
+          ],
+          "saturday": [
+            "4:11"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1190",
+        "name": "C.F.R. CONSTANTA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.487109,
+          "longitude": 26.114707
+        },
+        "scheduleTable": {
+          "sunday": [
+            "4:15"
+          ],
+          "weekdays": [
+            "4:15"
+          ],
+          "saturday": [
+            "4:15"
+          ]
+        }
+      }
+    ]
+  }
+}

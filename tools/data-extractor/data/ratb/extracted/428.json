@@ -1,0 +1,642 @@
+{
+  "type": "metropolitan",
+  "lineId": "428",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3464",
+        "name": "GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414671,
+          "longitude": 26.04436
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "637",
+        "name": "BRASOV",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414101,
+          "longitude": 26.033989
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3475",
+        "name": "DRUMUL COOPERATIVEI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.41365,
+          "longitude": 26.030215
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3243",
+        "name": "PRELUNGIREA GHENCEA",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.41298,
+          "longitude": 26.024831
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1130",
+        "name": "VALEA OLTULUI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.412138,
+          "longitude": 26.017944
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4083",
+        "name": "ANSAMBLUL PRIMAVARA",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.410692,
+          "longitude": 26.00667
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1830",
+        "name": "SERE MILITARI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.410205,
+          "longitude": 26.001922
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4171",
+        "name": "DRUMUL FUNIGEILOR",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.409645,
+          "longitude": 25.998088
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4465",
+        "name": "MAGNOLIEI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.409018,
+          "longitude": 25.994057
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4448",
+        "name": "CARTIERUL LATIN",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.407747,
+          "longitude": 25.990116
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1142",
+        "name": "CIMITIRUL GHENCEA 2",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.407227,
+          "longitude": 25.979735
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1149",
+        "name": "CENTURA DOMNESTI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.406208,
+          "longitude": 25.975413
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4404",
+        "name": "STATIA ELECTRICA",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.404747,
+          "longitude": 25.968743
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3330",
+        "name": "PUTUL OLTENI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.403518,
+          "longitude": 25.95809
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1831",
+        "name": "RADULUI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.403352,
+          "longitude": 25.945466
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "4412",
+        "name": "FRUMOASA",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.403256,
+          "longitude": 25.939207
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "4418",
+        "name": "FOISORULUI",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.404164,
+          "longitude": 25.935264
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "4419",
+        "name": "CRAITEI",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.406189,
+          "longitude": 25.930398
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "4420",
+        "name": "SIPOTUL APELOR",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.40687,
+          "longitude": 25.925748
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4421",
+        "name": "ALUNISULUI",
+        "location": "DRUMUL CIUTACI"
+      },
+      {
+        "stopId": "20",
+        "stopCode": "4422",
+        "name": "CIOCARLIEI",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.407526,
+          "longitude": 25.917704
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "4423",
+        "name": "STADION",
+        "location": "DRUMUL CIUTACI"
+      },
+      {
+        "stopId": "22",
+        "stopCode": "4424",
+        "name": "GRADINITA DOMNESTI",
+        "location": "SOS. CURTEA DOMNEASCA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.400341,
+          "longitude": 25.910869
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "4425",
+        "name": "MARTE",
+        "location": "SOS. CURTEA DOMNEASCA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.39902,
+          "longitude": 25.906513
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "4426",
+        "name": "NEPTUN",
+        "location": "SOS. CURTEA DOMNEASCA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.395685,
+          "longitude": 25.901725
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "4427",
+        "name": "ORHIDEELOR",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.391526,
+          "longitude": 25.895676
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "4428",
+        "name": "POIANA IZVOARELOR",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.386668,
+          "longitude": 25.888557
+        }
+      },
+      {
+        "stopId": "27",
+        "stopCode": "4429",
+        "name": "BUCEGI",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.384527,
+          "longitude": 25.885351
+        }
+      },
+      {
+        "stopId": "28",
+        "stopCode": "4430",
+        "name": "MARINARILOR",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.383435,
+          "longitude": 25.88122
+        }
+      },
+      {
+        "stopId": "29",
+        "stopCode": "4431",
+        "name": "PADURARILOR",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.38254,
+          "longitude": 25.876317
+        }
+      },
+      {
+        "stopId": "30",
+        "stopCode": "4432",
+        "name": "TRANSILVANIEI",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.381588,
+          "longitude": 25.871132
+        }
+      },
+      {
+        "stopId": "31",
+        "stopCode": "4433",
+        "name": "TEGHES",
+        "location": "STR. TRANSILVANIEI",
+        "gpsCoordinates": {
+          "latitude": 44.379413,
+          "longitude": 25.870482
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4433",
+        "name": "TEGHES",
+        "location": "STR. TRANSILVANIEI",
+        "gpsCoordinates": {
+          "latitude": 44.379413,
+          "longitude": 25.870482
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4434",
+        "name": "TRANSILVANIEI",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.38158,
+          "longitude": 25.871444
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4435",
+        "name": "PADURARILOR",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.382569,
+          "longitude": 25.876721
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "4436",
+        "name": "MARINARILOR",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.383495,
+          "longitude": 25.881809
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4437",
+        "name": "BUCEGI",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.384589,
+          "longitude": 25.885561
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4438",
+        "name": "POIANA IZVOARELOR",
+        "location": "STR. CARAGEA VODA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.386389,
+          "longitude": 25.888265
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4439",
+        "name": "ORHIDEELOR",
+        "location": "SOS. CURTEA DOMNEASCA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.391678,
+          "longitude": 25.896013
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4440",
+        "name": "NEPTUN",
+        "location": "SOS. CURTEA DOMNEASCA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.395761,
+          "longitude": 25.901944
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4441",
+        "name": "JUPITER",
+        "location": "SOS. CURTEA DOMNEASCA-TEGHES",
+        "gpsCoordinates": {
+          "latitude": 44.399136,
+          "longitude": 25.907
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1153",
+        "name": "CIUTACI",
+        "location": "SOS. A.I.CUZA-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.401024,
+          "longitude": 25.90981
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4442",
+        "name": "CARTIERUL NOU",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.404674,
+          "longitude": 25.911417
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "4443",
+        "name": "CIOCARLIEI",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.407466,
+          "longitude": 25.918035
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4444",
+        "name": "ALUNISULUI",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.40708,
+          "longitude": 25.922548
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4445",
+        "name": "SIPOTUL APELOR",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.406797,
+          "longitude": 25.926194
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "4446",
+        "name": "CRAITEI",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.405857,
+          "longitude": 25.930864
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "4447",
+        "name": "FOISORULUI",
+        "location": "DRUMUL CIUTACI",
+        "gpsCoordinates": {
+          "latitude": 44.404002,
+          "longitude": 25.935803
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "4415",
+        "name": "BUBICA",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.403208,
+          "longitude": 25.939524
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "4416",
+        "name": "CERNEI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.403278,
+          "longitude": 25.945804
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "3331",
+        "name": "PUTUL OLTENI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.403442,
+          "longitude": 25.958879
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4410",
+        "name": "ANSAMBLUL OLTENI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.40479,
+          "longitude": 25.969262
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "1242",
+        "name": "CENTURA DOMNESTI",
+        "location": "SOS. T. VLADIMIRESCU-DOMNESTI",
+        "gpsCoordinates": {
+          "latitude": 44.406211,
+          "longitude": 25.975794
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "1248",
+        "name": "CIMITIRUL GHENCEA 2",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.407336,
+          "longitude": 25.981286
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "4086",
+        "name": "CARTIERUL LATIN",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.408488,
+          "longitude": 25.992777
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "4466",
+        "name": "MAGNOLIEI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.409417,
+          "longitude": 25.996505
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "4172",
+        "name": "DRUMUL FUNIGEILOR",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.4097,
+          "longitude": 25.998913
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "1250",
+        "name": "SERE MILITARI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.410235,
+          "longitude": 26.00371
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "4084",
+        "name": "ANSAMBLUL PRIMAVARA",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.410751,
+          "longitude": 26.007626
+        }
+      },
+      {
+        "stopId": "27",
+        "stopCode": "1104",
+        "name": "VALEA OLTULUI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.411328,
+          "longitude": 26.011737
+        }
+      },
+      {
+        "stopId": "28",
+        "stopCode": "3136",
+        "name": "GHIDIGENI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.412636,
+          "longitude": 26.023202
+        }
+      },
+      {
+        "stopId": "29",
+        "stopCode": "3474",
+        "name": "DRUMUL COOPERATIVEI",
+        "location": "PREL. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.408858,
+          "longitude": 26.026131
+        }
+      },
+      {
+        "stopId": "30",
+        "stopCode": "2548",
+        "name": "BRASOV",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414086,
+          "longitude": 26.03481
+        }
+      },
+      {
+        "stopId": "31",
+        "stopCode": "3463",
+        "name": "GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414974,
+          "longitude": 26.045551
+        }
+      }
+    ]
+  }
+}

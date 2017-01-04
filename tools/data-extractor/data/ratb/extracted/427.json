@@ -1,0 +1,576 @@
+{
+  "type": "metropolitan",
+  "lineId": "427",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3460",
+        "name": "GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.414669,
+          "longitude": 26.044275
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1973",
+        "name": "CIMITIRUL GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.416334,
+          "longitude": 26.052658
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1808",
+        "name": "CALEA 13 SEPTEMBRIE",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.417106,
+          "longitude": 26.057839
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "804",
+        "name": "PIATA 13 SEPTEMBRIE",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.415493,
+          "longitude": 26.057008
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2973",
+        "name": "TRAMBITEI",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.411625,
+          "longitude": 26.055102
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2634",
+        "name": "MANEA SERBAN",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.408533,
+          "longitude": 26.053576
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "961",
+        "name": "TACERII",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.40065,
+          "longitude": 26.050496
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2091",
+        "name": "SOSEAUA MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.398982,
+          "longitude": 26.048689
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2092",
+        "name": "VENUS",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.393089,
+          "longitude": 26.047939
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "2093",
+        "name": "SOSEAUA VARTEJULUI",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.389277,
+          "longitude": 26.047409
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "3142",
+        "name": "SLATINA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.38407,
+          "longitude": 26.046756
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "2094",
+        "name": "CURTEA DE ARGES",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.381878,
+          "longitude": 26.046444
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "3352",
+        "name": "PECINISCA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.379526,
+          "longitude": 26.046652
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "2095",
+        "name": "I.A.I. MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.376016,
+          "longitude": 26.046478
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "4469",
+        "name": "LIVEZII",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.373709,
+          "longitude": 26.045136
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "3270",
+        "name": "CIMITIRUL MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.371545,
+          "longitude": 26.04383
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "2807",
+        "name": "FACULTATIVA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.36916,
+          "longitude": 26.042386
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "3478",
+        "name": "ROCON",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.365268,
+          "longitude": 26.04009
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "2096",
+        "name": "PASAJ C.F.R MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.361767,
+          "longitude": 26.038104
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "2097",
+        "name": "ATOMISTILOR 94",
+        "location": "STR. ATOMISTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.354538,
+          "longitude": 26.033717
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "2098",
+        "name": "FACULTATEA DE FIZICA",
+        "location": "STR. ATOMISTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.350654,
+          "longitude": 26.030952
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "2122",
+        "name": "A.C.R.",
+        "location": "STR. CALUGARENI",
+        "gpsCoordinates": {
+          "latitude": 44.348467,
+          "longitude": 26.029248
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "4347",
+        "name": "POD CIOROGARLA",
+        "location": "STR. CALUGARENI",
+        "gpsCoordinates": {
+          "latitude": 44.342439,
+          "longitude": 26.021207
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "2257",
+        "name": "BUFET",
+        "location": "SAT. DUMITRANA",
+        "gpsCoordinates": {
+          "latitude": 44.330618,
+          "longitude": 26.005734
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "2258",
+        "name": "DUMITRANA",
+        "location": "SAT. DUMITRANA",
+        "gpsCoordinates": {
+          "latitude": 44.327439,
+          "longitude": 26.003175
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "2281",
+        "name": "S.C. ISPAS MARIN",
+        "location": "SAT. DUMITRANA",
+        "gpsCoordinates": {
+          "latitude": 44.324213,
+          "longitude": 25.999043
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "2259",
+        "name": "SCOALA GENERALA",
+        "location": "SAT. DUMITRANA",
+        "gpsCoordinates": {
+          "latitude": 44.322924,
+          "longitude": 25.997771
+        }
+      },
+      {
+        "stopId": "27",
+        "stopCode": "3636",
+        "name": "SAT DUMITRANA",
+        "location": "DJ 20",
+        "gpsCoordinates": {
+          "latitude": 44.324739,
+          "longitude": 25.994097
+        }
+      },
+      {
+        "stopId": "28",
+        "stopCode": "3635",
+        "name": "SAT PRUNI",
+        "location": "DJ 20",
+        "gpsCoordinates": {
+          "latitude": 44.329532,
+          "longitude": 25.989189
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "3635",
+        "name": "SAT PRUNI",
+        "location": "DJ 20",
+        "gpsCoordinates": {
+          "latitude": 44.329532,
+          "longitude": 25.989189
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "3637",
+        "name": "SAT DUMITRANA",
+        "location": "DJ 20",
+        "gpsCoordinates": {
+          "latitude": 44.324507,
+          "longitude": 25.994336
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2260",
+        "name": "SCOALA GENERALA",
+        "location": "SAT. DUMITRANA",
+        "gpsCoordinates": {
+          "latitude": 44.322792,
+          "longitude": 25.997752
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2282",
+        "name": "S.C. ISPAS MARIN",
+        "location": "SAT. DUMITRANA",
+        "gpsCoordinates": {
+          "latitude": 44.324251,
+          "longitude": 25.999247
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2261",
+        "name": "DUMITRANA",
+        "location": "SAT. DUMITRANA",
+        "gpsCoordinates": {
+          "latitude": 44.327278,
+          "longitude": 26.003017
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2262",
+        "name": "BUFET",
+        "location": "SAT. DUMITRANA",
+        "gpsCoordinates": {
+          "latitude": 44.330495,
+          "longitude": 26.005743
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4348",
+        "name": "POD CIOROGARLA",
+        "location": "STR. CALUGARENI",
+        "gpsCoordinates": {
+          "latitude": 44.342458,
+          "longitude": 26.02097
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2263",
+        "name": "A.C.R.",
+        "location": "STR. CALUGARENI"
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2102",
+        "name": "FACULTATEA DE FIZICA",
+        "location": "STR. ATOMISTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.350514,
+          "longitude": 26.030949
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "2103",
+        "name": "ATOMISTILOR 45",
+        "location": "STR. ATOMISTILOR",
+        "gpsCoordinates": {
+          "latitude": 44.354797,
+          "longitude": 26.033935
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "2104",
+        "name": "PASAJ C.F.R MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.362134,
+          "longitude": 26.038414
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3479",
+        "name": "ROCON",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.291252,
+          "longitude": 26.060814
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "3271",
+        "name": "CIMITIRUL MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.371595,
+          "longitude": 26.043912
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4470",
+        "name": "LIVEZII",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.373936,
+          "longitude": 26.045365
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "2105",
+        "name": "I.A.I. MAGURELE",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.37594,
+          "longitude": 26.0465
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "3353",
+        "name": "PECINISCA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.379805,
+          "longitude": 26.046678
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "2106",
+        "name": "CURTEA DE ARGES",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.381617,
+          "longitude": 26.046483
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "3143",
+        "name": "SLATINA",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.384423,
+          "longitude": 26.046899
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "2107",
+        "name": "SOSEAUA VARTEJULUI",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.388396,
+          "longitude": 26.047424
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "2108",
+        "name": "VENUS",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.393758,
+          "longitude": 26.048142
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "2635",
+        "name": "SOSEAUA ALEXANDRIEI",
+        "location": "SOS. MAGURELE",
+        "gpsCoordinates": {
+          "latitude": 44.39933,
+          "longitude": 26.048801
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "3469",
+        "name": "TACERII",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.401715,
+          "longitude": 26.050504
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "2636",
+        "name": "MANEA SERBAN",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.408831,
+          "longitude": 26.053964
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "964",
+        "name": "TRIMBITEI",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.411544,
+          "longitude": 26.055348
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "811",
+        "name": "PIATA 13 SEPTEMBRIE",
+        "location": "STR. ANTIAERIANA",
+        "gpsCoordinates": {
+          "latitude": 44.415762,
+          "longitude": 26.057396
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "1962",
+        "name": "PETRE ISPIRESCU",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.418106,
+          "longitude": 26.057703
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "1963",
+        "name": "CIMITIRUL GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.416261,
+          "longitude": 26.051746
+        }
+      },
+      {
+        "stopId": "27",
+        "stopCode": "3459",
+        "name": "GHENCEA",
+        "location": "BD. GHENCEA",
+        "gpsCoordinates": {
+          "latitude": 44.415002,
+          "longitude": 26.045641
+        }
+      }
+    ]
+  }
+}

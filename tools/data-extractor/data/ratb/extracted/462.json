@@ -1,0 +1,386 @@
+{
+  "type": "metropolitan",
+  "lineId": "462",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "2637",
+        "name": "CARTIER DAMAROAIA",
+        "location": "STR. PIATRA MORII",
+        "gpsCoordinates": {
+          "latitude": 44.488245,
+          "longitude": 26.051564
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1217",
+        "name": "IZBICENI",
+        "location": "BD. GLORIEI",
+        "gpsCoordinates": {
+          "latitude": 44.487054,
+          "longitude": 26.046146
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4135",
+        "name": "NEATARNARII",
+        "location": "BD. GLORIEI",
+        "gpsCoordinates": {
+          "latitude": 44.485406,
+          "longitude": 26.043495
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1219",
+        "name": "BD. GLORIEI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.48389,
+          "longitude": 26.040208
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3112",
+        "name": "TEATRUL MASCA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.485994,
+          "longitude": 26.03857
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "3011",
+        "name": "PARCUL BAZILESCU",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.489045,
+          "longitude": 26.036195
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1221",
+        "name": "JIMBOLIA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.492432,
+          "longitude": 26.033541
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1797",
+        "name": "LAROMET",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.493553,
+          "longitude": 26.029657
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2420",
+        "name": "PRECIZIA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.497666,
+          "longitude": 26.029496
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1798",
+        "name": "CIMITIRUL STRAULESTI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.50237,
+          "longitude": 26.024031
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4074",
+        "name": "STRAND STRAULESTI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.502959,
+          "longitude": 26.025062
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "276",
+        "name": "CFR CENTURA",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.515571,
+          "longitude": 26.015328
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "2659",
+        "name": "FERMA AVICOLA",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.544258,
+          "longitude": 25.970249
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "2660",
+        "name": "BUCIUMENI",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.546945,
+          "longitude": 25.965211
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "4033",
+        "name": "DRUMUL RAZBOIENI",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.554756,
+          "longitude": 25.957203
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "2661",
+        "name": "DRUMUL CIOCANESTI",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.558536,
+          "longitude": 25.951477
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "2662",
+        "name": "POSTA",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.562556,
+          "longitude": 25.948897
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "4312",
+        "name": "LICEUL DUMITRU DUMITRESCU",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.571591,
+          "longitude": 25.943348
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "2663",
+        "name": "ORAS BUFTEA",
+        "location": "ORAS BUFTEA",
+        "gpsCoordinates": {
+          "latitude": 44.575844,
+          "longitude": 25.940602
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "427",
+        "name": "ORAS BUFTEA",
+        "location": "ORAS BUFTEA",
+        "gpsCoordinates": {
+          "latitude": 44.575559,
+          "longitude": 25.940749
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4313",
+        "name": "LICEUL DUMITRU DUMITRESCU",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.571444,
+          "longitude": 25.943355
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2664",
+        "name": "POSTA",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.561659,
+          "longitude": 25.949375
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2665",
+        "name": "DRUMUL CIOCANESTI",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.558484,
+          "longitude": 25.951407
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4314",
+        "name": "DRUMUL RAZBOIENI",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.554812,
+          "longitude": 25.956932
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2666",
+        "name": "BUCIUMENI",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.546479,
+          "longitude": 25.96578
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2667",
+        "name": "FERMA AVICOLA",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.543737,
+          "longitude": 25.971438
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "474",
+        "name": "C.F.R. CENTURA",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.515442,
+          "longitude": 26.015256
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4613",
+        "name": "STRAND STRAULESTI",
+        "location": "BD. BUCURESTII NOI"
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1824",
+        "name": "CIMITIRUL STRAULESTI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.500324,
+          "longitude": 26.027114
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "2418",
+        "name": "PRECIZIA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.497258,
+          "longitude": 26.029487
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1825",
+        "name": "LAROMET",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.495119,
+          "longitude": 26.03114
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1230",
+        "name": "JIMBOLIA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.491426,
+          "longitude": 26.033935
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3012",
+        "name": "PARCUL BAZILESCU",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.487621,
+          "longitude": 26.036973
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "3111",
+        "name": "TEATRUL MASCA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.488904,
+          "longitude": 26.036374
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1202",
+        "name": "BD. GLORIEI",
+        "location": "BD. GLORIEI",
+        "gpsCoordinates": {
+          "latitude": 44.484196,
+          "longitude": 26.041734
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "2787",
+        "name": "NEATARNARII",
+        "location": "BD. GLORIEI",
+        "gpsCoordinates": {
+          "latitude": 44.496078,
+          "longitude": 26.000522
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "1233",
+        "name": "IZBICENI",
+        "location": "BD. GLORIEI",
+        "gpsCoordinates": {
+          "latitude": 44.487578,
+          "longitude": 26.047245
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "2657",
+        "name": "CARTIER DAMAROAIA",
+        "location": "STR. PIATRA MORII",
+        "gpsCoordinates": {
+          "latitude": 44.488158,
+          "longitude": 26.050741
+        }
+      }
+    ]
+  }
+}

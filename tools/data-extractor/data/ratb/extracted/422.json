@@ -1,0 +1,330 @@
+{
+  "type": "metropolitan",
+  "lineId": "422",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3115",
+        "name": "PIATA CLABUCET",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.471625,
+          "longitude": 26.050204
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "828",
+        "name": "CARPATI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.473101,
+          "longitude": 26.048664
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3137",
+        "name": "SOSEAUA CHITILA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.476823,
+          "longitude": 26.044669
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3645",
+        "name": "MINERVA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.479321,
+          "longitude": 26.037735
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3643",
+        "name": "CRINULUI",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.48098,
+          "longitude": 26.033624
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "3484",
+        "name": "SUBCETATE",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.48327,
+          "longitude": 26.027872
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3128",
+        "name": "MEZES",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.4856188,
+          "longitude": 26.0227227
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1870",
+        "name": "MAICA TEOFANA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.487851,
+          "longitude": 26.01631
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1871",
+        "name": "SOLD. ADRIAN PATRU",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.49087,
+          "longitude": 26.00894
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1872",
+        "name": "CPT. RADU DRAGOS",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.493232,
+          "longitude": 26.005206
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1873",
+        "name": "PASAJ CHITILA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.5148108,
+          "longitude": 25.9708526
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1874",
+        "name": "UTREC",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1303",
+        "name": "ROMCERAM",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "13",
+        "stopCode": "1876",
+        "name": "GARA CHITILA",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1875",
+        "name": "CAMIN CULTURAL",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1877",
+        "name": "COMUNA CHITILA",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "16",
+        "stopCode": "1878",
+        "name": "LIBERTATII",
+        "location": "COM. CHITILA",
+        "gpsCoordinates": {
+          "latitude": 46.5387278,
+          "longitude": 24.5431834
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "3735",
+        "name": "PASAJ CFR CHITILA",
+        "location": "COM. CHITILA",
+        "gpsCoordinates": {
+          "latitude": 44.5148108,
+          "longitude": 25.9708526
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "3725",
+        "name": "PASAJ CFR CHITILA",
+        "location": "COM. CHITILA",
+        "gpsCoordinates": {
+          "latitude": 44.5148108,
+          "longitude": 25.9708526
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1854",
+        "name": "LIBERTATII",
+        "location": "COM. CHITILA",
+        "gpsCoordinates": {
+          "latitude": 46.5387278,
+          "longitude": 24.5431834
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1855",
+        "name": "COMUNA CHITILA",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1857",
+        "name": "CAMIN CULTURAL",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1856",
+        "name": "GARA CHITILA",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1297",
+        "name": "ROMCERAM",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1858",
+        "name": "UTREC",
+        "location": "COM. CHITILA"
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1859",
+        "name": "PASAJ CHITILA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.5148108,
+          "longitude": 25.9708526
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1860",
+        "name": "CPT. RADU DRAGOS",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.492547,
+          "longitude": 26.005921
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1861",
+        "name": "SOLD. ADRIAN PATRU",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.489824,
+          "longitude": 26.010984
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1862",
+        "name": "MAICA TEOFANA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.487264,
+          "longitude": 26.017411
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3129",
+        "name": "MEZES",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.484544,
+          "longitude": 26.024009
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "3485",
+        "name": "MARMUREI",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.482626,
+          "longitude": 26.029025
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3642",
+        "name": "CRINULUI",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.4802,
+          "longitude": 26.034925
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "3644",
+        "name": "MINERVA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.47879,
+          "longitude": 26.038424
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "3138",
+        "name": "BD. BUCURESTII NOI",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.476802,
+          "longitude": 26.043428
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "839",
+        "name": "CARPATI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.473163,
+          "longitude": 26.048043
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "3170",
+        "name": "CLABUCET",
+        "location": "STR.CLABUCET",
+        "gpsCoordinates": {
+          "latitude": 44.470508,
+          "longitude": 26.051788
+        }
+      }
+    ]
+  }
+}

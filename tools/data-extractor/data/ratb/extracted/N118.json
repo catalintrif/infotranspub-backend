@@ -1,0 +1,694 @@
+{
+  "type": "night",
+  "lineId": "N118",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1531",
+        "name": "COMPLEX COMERCIAL APUSULUI",
+        "location": "STR. APUSULUI",
+        "gpsCoordinates": {
+          "latitude": 44.438011,
+          "longitude": 26.014178
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "2:32"
+          ],
+          "weekdays": [
+            "0:34",
+            "2:32"
+          ],
+          "saturday": [
+            "0:34",
+            "2:32"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "234",
+        "name": "DEZROBIRII",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.440263,
+          "longitude": 26.025868
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "2:35"
+          ],
+          "weekdays": [
+            "0:37",
+            "2:35"
+          ],
+          "saturday": [
+            "0:37",
+            "2:35"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "697",
+        "name": "VETERANILOR",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.43405,
+          "longitude": 26.029764
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "2:37"
+          ],
+          "weekdays": [
+            "0:39",
+            "2:37"
+          ],
+          "saturday": [
+            "0:39",
+            "2:37"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3661",
+        "name": "MEHADIEI",
+        "location": "BD. CONSTRUCTORILOR",
+        "gpsCoordinates": {
+          "latitude": 44.456583,
+          "longitude": 26.042639
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:47",
+            "2:45"
+          ],
+          "weekdays": [
+            "0:47",
+            "2:45"
+          ],
+          "saturday": [
+            "0:47",
+            "2:45"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1838",
+        "name": "CARTIER 16 FEBRUARIE",
+        "location": "CAL. GIULESTI",
+        "gpsCoordinates": {
+          "latitude": 44.469943,
+          "longitude": 26.020571
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:53",
+            "2:51"
+          ],
+          "weekdays": [
+            "0:53",
+            "2:51"
+          ],
+          "saturday": [
+            "0:53",
+            "2:51"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1832",
+        "name": "CIMITIRUL CALVIN",
+        "location": "CAL. GIULESTI",
+        "scheduleTable": {
+          "sunday": [
+            "1:00",
+            "2:58"
+          ],
+          "weekdays": [
+            "1:00",
+            "2:58"
+          ],
+          "saturday": [
+            "1:00",
+            "2:58"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2863",
+        "name": "GARA DE NORD",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.448288,
+          "longitude": 26.074274
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:06",
+            "3:04"
+          ],
+          "weekdays": [
+            "1:06",
+            "3:04"
+          ],
+          "saturday": [
+            "1:06",
+            "3:04"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2996",
+        "name": "PASAJ GRANT",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.45645,
+          "longitude": 26.061748
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:10",
+            "3:08"
+          ],
+          "weekdays": [
+            "1:10",
+            "3:08"
+          ],
+          "saturday": [
+            "1:10",
+            "3:08"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "829",
+        "name": "DEPOUL BUCURESTII NOI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.478056,
+          "longitude": 26.044819
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:16",
+            "3:14"
+          ],
+          "weekdays": [
+            "1:16",
+            "3:14"
+          ],
+          "saturday": [
+            "1:16",
+            "3:14"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1221",
+        "name": "JIMBOLIA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.492432,
+          "longitude": 26.033541
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:21",
+            "3:19"
+          ],
+          "weekdays": [
+            "1:21",
+            "3:19"
+          ],
+          "saturday": [
+            "1:21",
+            "3:19"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4074",
+        "name": "STRAND STRAULESTI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.502959,
+          "longitude": 26.025062
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:24",
+            "3:22"
+          ],
+          "weekdays": [
+            "1:24",
+            "3:22"
+          ],
+          "saturday": [
+            "1:24",
+            "3:22"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "274",
+        "name": "BD. PETRILA",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.512411,
+          "longitude": 26.018955
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:26",
+            "3:24"
+          ],
+          "weekdays": [
+            "1:26",
+            "3:24"
+          ],
+          "saturday": [
+            "1:26",
+            "3:24"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1859",
+        "name": "PASAJ CHITILA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.5148108,
+          "longitude": 25.9708526
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:39",
+            "3:37"
+          ],
+          "weekdays": [
+            "1:39",
+            "3:37"
+          ],
+          "saturday": [
+            "1:39",
+            "3:37"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3129",
+        "name": "MEZES",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.484544,
+          "longitude": 26.024009
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:44",
+            "3:42"
+          ],
+          "weekdays": [
+            "1:44",
+            "3:42"
+          ],
+          "saturday": [
+            "1:44",
+            "3:42"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "3129",
+        "name": "MEZES",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.484544,
+          "longitude": 26.024009
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "2:33"
+          ],
+          "weekdays": [
+            "0:22",
+            "2:33"
+          ],
+          "saturday": [
+            "0:22",
+            "2:33"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1873",
+        "name": "PASAJ CHITILA",
+        "location": "SOS. CHITILEI",
+        "gpsCoordinates": {
+          "latitude": 44.5148108,
+          "longitude": 25.9708526
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "2:37"
+          ],
+          "weekdays": [
+            "0:26",
+            "2:37"
+          ],
+          "saturday": [
+            "0:26",
+            "2:37"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "650",
+        "name": "BD. PETRILA",
+        "location": "SOS. BUCURESTI-TARGOVISTE",
+        "gpsCoordinates": {
+          "latitude": 44.512257,
+          "longitude": 26.018966
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "2:45"
+          ],
+          "weekdays": [
+            "0:34",
+            "2:45"
+          ],
+          "saturday": [
+            "0:34",
+            "2:45"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "4613",
+        "name": "STRAND STRAULESTI",
+        "location": "BD. BUCURESTII NOI",
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "2:48"
+          ],
+          "weekdays": [
+            "0:37",
+            "2:48"
+          ],
+          "saturday": [
+            "0:37",
+            "2:48"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1230",
+        "name": "JIMBOLIA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.491426,
+          "longitude": 26.033935
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:40",
+            "2:51"
+          ],
+          "weekdays": [
+            "0:40",
+            "2:51"
+          ],
+          "saturday": [
+            "0:40",
+            "2:51"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "838",
+        "name": "SOSEAUA CHITILEI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.477184,
+          "longitude": 26.045114
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:44",
+            "2:55"
+          ],
+          "weekdays": [
+            "0:44",
+            "2:55"
+          ],
+          "saturday": [
+            "0:44",
+            "2:55"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3160",
+        "name": "CIMITIRUL SFANTA VINERI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.457746,
+          "longitude": 26.060255
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:50",
+            "3:01"
+          ],
+          "weekdays": [
+            "0:50",
+            "3:01"
+          ],
+          "saturday": [
+            "0:50",
+            "3:01"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2994",
+        "name": "GARA DE NORD",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.4479,
+          "longitude": 26.074594
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:53",
+            "3:04"
+          ],
+          "weekdays": [
+            "0:53",
+            "3:04"
+          ],
+          "saturday": [
+            "0:53",
+            "3:04"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1852",
+        "name": "CIMITIRUL CALVIN",
+        "location": "CAL. GIULESTI",
+        "scheduleTable": {
+          "sunday": [
+            "1:00",
+            "3:11"
+          ],
+          "weekdays": [
+            "1:00",
+            "3:11"
+          ],
+          "saturday": [
+            "1:00",
+            "3:11"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1838",
+        "name": "CARTIER 16 FEBRUARIE",
+        "location": "CAL. GIULESTI",
+        "gpsCoordinates": {
+          "latitude": 44.469943,
+          "longitude": 26.020571
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:07",
+            "3:18"
+          ],
+          "weekdays": [
+            "1:07",
+            "3:18"
+          ],
+          "saturday": [
+            "1:07",
+            "3:18"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "3659",
+        "name": "MEHADIEI",
+        "location": "BD. CONSTRUCTORILOR",
+        "gpsCoordinates": {
+          "latitude": 44.4560382,
+          "longitude": 26.0430614
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:14",
+            "3:25"
+          ],
+          "weekdays": [
+            "1:14",
+            "3:25"
+          ],
+          "saturday": [
+            "1:14",
+            "3:25"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "2506",
+        "name": "LUJERULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.4344,
+          "longitude": 26.033664
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:19",
+            "3:30"
+          ],
+          "weekdays": [
+            "1:19",
+            "3:30"
+          ],
+          "saturday": [
+            "1:19",
+            "3:30"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "242",
+        "name": "DEZROBIRII",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.440753,
+          "longitude": 26.025235
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:23",
+            "3:34"
+          ],
+          "weekdays": [
+            "1:23",
+            "3:34"
+          ],
+          "saturday": [
+            "1:23",
+            "3:34"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3504",
+        "name": "APUSULUI",
+        "location": "STR. APUSULUI",
+        "gpsCoordinates": {
+          "latitude": 44.440659,
+          "longitude": 26.012282
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:25",
+            "3:36"
+          ],
+          "weekdays": [
+            "1:25",
+            "3:36"
+          ],
+          "saturday": [
+            "1:25",
+            "3:36"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1531",
+        "name": "COMPLEX COMERCIAL APUSULUI",
+        "location": "STR. APUSULUI",
+        "gpsCoordinates": {
+          "latitude": 44.438011,
+          "longitude": 26.014178
+        },
+        "scheduleTable": {
+          "sunday": [
+            "1:27",
+            "3:38"
+          ],
+          "weekdays": [
+            "1:27",
+            "3:38"
+          ],
+          "saturday": [
+            "1:27",
+            "3:38"
+          ]
+        }
+      }
+    ]
+  }
+}

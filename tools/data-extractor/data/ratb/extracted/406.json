@@ -1,0 +1,314 @@
+{
+  "type": "metropolitan",
+  "lineId": "406",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "3491",
+        "name": "LUJERULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434399,
+          "longitude": 26.033925
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "757",
+        "name": "VETERANILOR",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434329,
+          "longitude": 26.028823
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1282",
+        "name": "RASARITULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434291,
+          "longitude": 26.023608
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "766",
+        "name": "PIATA GORJULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434232,
+          "longitude": 26.021442
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3334",
+        "name": "ROSIA MONTANA",
+        "location": "STR.DEZROBIRII",
+        "gpsCoordinates": {
+          "latitude": 44.438079,
+          "longitude": 26.023574
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "242",
+        "name": "DEZROBIRII",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.440753,
+          "longitude": 26.025235
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "244",
+        "name": "CIMITIRUL MILITARI",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.442203,
+          "longitude": 26.021886
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1718",
+        "name": "ALEXANDRU IOAN CUZA",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)",
+        "gpsCoordinates": {
+          "latitude": 47.791579,
+          "longitude": 22.8760873
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4657",
+        "name": "SCOALA DE APLICATIE",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)"
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4342",
+        "name": "LICEU",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)",
+        "gpsCoordinates": {
+          "latitude": 46.2092473,
+          "longitude": 27.6484146
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4658",
+        "name": "EMINESCU",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)"
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1720",
+        "name": "G-RAL PRAPORGESCU",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)"
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4656",
+        "name": "POPASUL RANDUNICA",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)"
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4647",
+        "name": "POLICLINICA",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)"
+      },
+      {
+        "stopId": "14",
+        "stopCode": "4649",
+        "name": "BISERICII",
+        "location": "STR. I.L.CARAGIALE"
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1723",
+        "name": "SAT DUDU",
+        "location": "STR. I.L.CARAGIALE"
+      },
+      {
+        "stopId": "16",
+        "stopCode": "1724",
+        "name": "CIMITIRUL CHIAJNA",
+        "location": "STR. I.L.CARAGIALE"
+      },
+      {
+        "stopId": "17",
+        "stopCode": "2508",
+        "name": "BISERICA CHIAJNA",
+        "location": "STR. EROULUI"
+      },
+      {
+        "stopId": "18",
+        "stopCode": "1725",
+        "name": "MAGAZIN ALIMENTAR",
+        "location": "STR. EROULUI"
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4650",
+        "name": "STATUIE",
+        "location": "STR. EROULUI"
+      },
+      {
+        "stopId": "20",
+        "stopCode": "4645",
+        "name": "CHIAJNA",
+        "location": "STR. EROULUI"
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4646",
+        "name": "CHIAJNA",
+        "location": "STR. EROULUI"
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4651",
+        "name": "STATUIE",
+        "location": "STR. EROULUI"
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1729",
+        "name": "MAGAZIN ALIMENTAR",
+        "location": "STR. EROULUI"
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1730",
+        "name": "BISERICA CHIAJNA",
+        "location": "STR. EROULUI"
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1731",
+        "name": "CIMITIRUL CHIAJNA",
+        "location": "STR. I.L.CARAGIALE"
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4659",
+        "name": "PREOT SEBE COSTIN",
+        "location": "STR. I.L.CARAGIALE"
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1732",
+        "name": "SAT DUDU",
+        "location": "STR. I.L.CARAGIALE"
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4655",
+        "name": "BISERICII",
+        "location": "STR. I.L.CARAGIALE"
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4652",
+        "name": "POLICLINICA",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)"
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1735",
+        "name": "G-RAL PRAPORGESCU",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)"
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1736",
+        "name": "G-RAL EREMIA GRIGORESCU",
+        "location": "STR. AL.I.CUZA"
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1737",
+        "name": "ALEXANDRU IOAN CUZA",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)",
+        "gpsCoordinates": {
+          "latitude": 47.791579,
+          "longitude": 22.8760873
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1738",
+        "name": "CANAL ARGES",
+        "location": "BD. 1 DECEMBRIE 1918(CHIAJNA)"
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3503",
+        "name": "BD.UVERTURII",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.443264,
+          "longitude": 26.020018
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1295",
+        "name": "CIMITIRUL MILITARI",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.441995,
+          "longitude": 26.022018
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "234",
+        "name": "DEZROBIRII",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.440263,
+          "longitude": 26.025868
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "235",
+        "name": "TEATRUL MASCA",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.4387,
+          "longitude": 26.029102
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "236",
+        "name": "PASAJ LUJERULUI",
+        "location": "BD. UVERTURII",
+        "gpsCoordinates": {
+          "latitude": 44.436478,
+          "longitude": 26.034219
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "3491",
+        "name": "LUJERULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434399,
+          "longitude": 26.033925
+        }
+      }
+    ]
+  }
+}

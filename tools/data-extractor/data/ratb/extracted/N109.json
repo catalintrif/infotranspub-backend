@@ -1,0 +1,1146 @@
+{
+  "type": "night",
+  "lineId": "N109",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "saturday": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4356",
+        "name": "PIATA UNIRII 3",
+        "location": "ALEEA II",
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "0:53",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:13",
+            "0:53",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:33"
+          ],
+          "saturday": [
+            "0:13",
+            "0:53",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "4535",
+        "name": "ALEXANDRU SIHLEANU",
+        "location": "CAL. CALARASILOR",
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "saturday": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4530",
+        "name": "HALA TRAIAN",
+        "location": "CAL. CALARASILOR",
+        "gpsCoordinates": {
+          "latitude": 44.4334067,
+          "longitude": 26.1210751
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ],
+          "weekdays": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ],
+          "saturday": [
+            "0:16",
+            "0:56",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:36"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4380",
+        "name": "UNIVERSITATEA HYPERION",
+        "location": "CAL. CALARASILOR",
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "saturday": [
+            "0:18",
+            "0:58",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4381",
+        "name": "DELEA VECHE",
+        "location": "CAL. CALARASILOR",
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4382",
+        "name": "PIATA HURMUZACHI",
+        "location": "CAL. CALARASILOR",
+        "gpsCoordinates": {
+          "latitude": 44.4314667,
+          "longitude": 26.1380647
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "saturday": [
+            "0:21",
+            "1:01",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4383",
+        "name": "PATINOAR",
+        "location": "BD. BASARABIA",
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "1:03",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:23",
+            "1:03",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:43"
+          ],
+          "saturday": [
+            "0:23",
+            "1:03",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4476",
+        "name": "ARENA NATIONALA",
+        "location": "BD. BASARABIA",
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:05",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:05",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ],
+          "saturday": [
+            "0:25",
+            "1:05",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4385",
+        "name": "BD. NICOLAE GRIGORESCU",
+        "location": "BD. BASARABIA",
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "saturday": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "4386",
+        "name": "BAIA DE ARAMA",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.436122,
+          "longitude": 26.16483
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "saturday": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4387",
+        "name": "LUCRETIU PATRASCANU",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.4305989,
+          "longitude": 26.1673958
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "1762",
+        "name": "BD. 1 DECEMBRIE 1918",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.43609,
+          "longitude": 26.173571
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "saturday": [
+            "0:31",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1763",
+        "name": "GRUP INDUSTRIAL TITAN",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.434941,
+          "longitude": 26.179242
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "saturday": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1764",
+        "name": "FAUR",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.434103,
+          "longitude": 26.184097
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "saturday": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "573",
+        "name": "REPUBLICA",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.433514,
+          "longitude": 26.185511
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "saturday": [
+            "0:37",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "1743",
+        "name": "REPUBLICA",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.434,
+          "longitude": 26.185656
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:00",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:10",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:00",
+            "23:40"
+          ],
+          "saturday": [
+            "0:10",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:00",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2116",
+        "name": "FAUR",
+        "location": "BD. 1 DECEMBRIE 1918",
+        "gpsCoordinates": {
+          "latitude": 44.434566,
+          "longitude": 26.1831
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:03",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:13",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:03",
+            "23:43"
+          ],
+          "saturday": [
+            "0:13",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:03",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1744",
+        "name": "GRUP INDUSTRIAL TITAN",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.435337,
+          "longitude": 26.177836
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:04",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:14",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:04",
+            "23:44"
+          ],
+          "saturday": [
+            "0:14",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:04",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1745",
+        "name": "BD. 1 DECEMBRIE 1918",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.436478,
+          "longitude": 26.172677
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:16",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:06",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:16",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:06",
+            "23:46"
+          ],
+          "saturday": [
+            "0:16",
+            "3:21",
+            "4:06",
+            "4:46",
+            "23:06",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4165",
+        "name": "SOS. MORARILOR",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.436921,
+          "longitude": 26.167293
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:08",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:18",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:08",
+            "23:48"
+          ],
+          "saturday": [
+            "0:18",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:08",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "4389",
+        "name": "BAIA DE ARAMA",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.43615,
+          "longitude": 26.16417
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:09",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:19",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:09",
+            "23:49"
+          ],
+          "saturday": [
+            "0:19",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:09",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4390",
+        "name": "BD. NICOLAE GRIGORESCU",
+        "location": "BD. BASARABIA",
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:21",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:21",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4477",
+        "name": "ARENA NATIONALA",
+        "location": "BD. BASARABIA",
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:23",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:23",
+            "3:28",
+            "4:13",
+            "4:53",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4392",
+        "name": "PATINOAR",
+        "location": "BD. BASARABIA",
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:24",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:24",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4393",
+        "name": "PIATA HURMUZACHI",
+        "location": "BD. BASARABIA",
+        "gpsCoordinates": {
+          "latitude": 44.4314667,
+          "longitude": 26.1380647
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:16",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:26",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:16",
+            "23:56"
+          ],
+          "saturday": [
+            "0:26",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:16",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4394",
+        "name": "DELEA VECHE",
+        "location": "CAL. CALARASILOR",
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:17",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:27",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:17",
+            "23:57"
+          ],
+          "saturday": [
+            "0:27",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:17",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "4395",
+        "name": "UNIVERSITATEA HYPERION",
+        "location": "CAL. CALARASILOR",
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:19",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:29",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:19",
+            "23:59"
+          ],
+          "saturday": [
+            "0:29",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:19",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "4536",
+        "name": "HALA TRAIAN",
+        "location": "CAL. CALARASILOR",
+        "gpsCoordinates": {
+          "latitude": 44.4334067,
+          "longitude": 26.1210751
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:31",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:21"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:31",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:21"
+          ],
+          "saturday": [
+            "0:01",
+            "0:31",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:21"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "4537",
+        "name": "PIATA SF. STEFAN",
+        "location": "CAL. CALARASILOR",
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:32",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:22"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:32",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:22"
+          ],
+          "saturday": [
+            "0:02",
+            "0:32",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:22"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "2213",
+        "name": "BIBLIOTECA NATIONALA A ROMANIEI",
+        "location": "BD. UNIRII",
+        "gpsCoordinates": {
+          "latitude": 44.426584,
+          "longitude": 26.11079
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:04",
+            "0:34",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:24"
+          ],
+          "weekdays": [
+            "0:04",
+            "0:34",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:24"
+          ],
+          "saturday": [
+            "0:04",
+            "0:34",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:24"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:06",
+            "0:36",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:26"
+          ],
+          "weekdays": [
+            "0:06",
+            "0:36",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:26"
+          ],
+          "saturday": [
+            "0:06",
+            "0:36",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:26"
+          ]
+        }
+      }
+    ]
+  }
+}

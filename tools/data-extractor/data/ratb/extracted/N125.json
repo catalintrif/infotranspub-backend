@@ -1,0 +1,347 @@
+{
+  "type": "night",
+  "lineId": "N125",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1191",
+        "name": "C.F.R. CONSTANTA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.487095,
+          "longitude": 26.115432
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4220",
+        "name": "BARBU VACARESCU",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.4643582,
+          "longitude": 26.1080491
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1144",
+        "name": "ELECTRONICA",
+        "location": "BD. DIMITRIE POMPEI",
+        "gpsCoordinates": {
+          "latitude": 44.4487032,
+          "longitude": 26.1468642
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3558",
+        "name": "STRANDUL TEI",
+        "location": "STR. PETRICANI",
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "849",
+        "name": "BD.LACUL TEI",
+        "location": "BD. LACUL TEI",
+        "gpsCoordinates": {
+          "latitude": 44.465099,
+          "longitude": 26.126813
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1162",
+        "name": "BUCUR OBOR",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.45089,
+          "longitude": 26.12598
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2118",
+        "name": "DOAMNA GHICA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.461044,
+          "longitude": 26.132863
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2123",
+        "name": "DUMITRU SLUGERU",
+        "location": "STR. DUMITRU SLUGERU",
+        "gpsCoordinates": {
+          "latitude": 44.453504,
+          "longitude": 26.142366
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4472",
+        "name": "ARENA NATIONALA",
+        "location": "BD. PIERRE DE COUBERTIN",
+        "gpsCoordinates": {
+          "latitude": 44.439749,
+          "longitude": 26.151011
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4160",
+        "name": "SOSEAUA MORARILOR",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.442331,
+          "longitude": 26.167025
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4162",
+        "name": "GRANITUL",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.44022,
+          "longitude": 26.182443
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "4155",
+        "name": "GRANITUL",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.440833,
+          "longitude": 26.182572
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4157",
+        "name": "SOSEAUA FUNDENI",
+        "location": "SOS. PANTELIMON",
+        "gpsCoordinates": {
+          "latitude": 44.442782,
+          "longitude": 26.164971
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4472",
+        "name": "ARENA NATIONALA",
+        "location": "BD. PIERRE DE COUBERTIN",
+        "gpsCoordinates": {
+          "latitude": 44.439749,
+          "longitude": 26.151011
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "398",
+        "name": "HELIADE INTRE VII",
+        "location": "STR. DUMITRU SLUGERU",
+        "gpsCoordinates": {
+          "latitude": 44.453708,
+          "longitude": 26.142111
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1029",
+        "name": "DOAMNA GHICA",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.460491,
+          "longitude": 26.132149
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1177",
+        "name": "BUCUR OBOR",
+        "location": "SOS. COLENTINA",
+        "gpsCoordinates": {
+          "latitude": 44.450729,
+          "longitude": 26.125225
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "871",
+        "name": "MAICA DOMNULUI",
+        "location": "BD. LACUL TEI",
+        "gpsCoordinates": {
+          "latitude": 44.462014,
+          "longitude": 26.119813
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2582",
+        "name": "SOSEAUA PETRICANI",
+        "location": "BD. LACUL TEI",
+        "gpsCoordinates": {
+          "latitude": 44.464905,
+          "longitude": 26.127367
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "3559",
+        "name": "STRANDUL TEI",
+        "location": "STR. PETRICANI",
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1147",
+        "name": "ELECTRONICA",
+        "location": "BD. DIMITRIE POMPEI",
+        "gpsCoordinates": {
+          "latitude": 44.4487032,
+          "longitude": 26.1468642
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "4216",
+        "name": "BARBU VACARESCU",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.4643582,
+          "longitude": 26.1080491
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1190",
+        "name": "C.F.R. CONSTANTA",
+        "location": "SOS. PIPERA",
+        "gpsCoordinates": {
+          "latitude": 44.487109,
+          "longitude": 26.114707
+        },
+        "scheduleTable": {
+          "sunday": [],
+          "weekdays": [],
+          "saturday": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,926 @@
+{
+  "type": "night",
+  "lineId": "N114",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "3:23",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "3:23",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "3:23",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "0:51",
+            "3:24",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:11",
+            "0:51",
+            "3:24",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "saturday": [
+            "0:11",
+            "0:51",
+            "3:24",
+            "4:01",
+            "4:41",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "0:53",
+            "3:26",
+            "4:03",
+            "4:43",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:13",
+            "0:53",
+            "3:26",
+            "4:03",
+            "4:43",
+            "23:33"
+          ],
+          "saturday": [
+            "0:13",
+            "0:53",
+            "3:26",
+            "4:03",
+            "4:43",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "626",
+        "name": "11 IUNIE",
+        "location": "BD. REGINA MARIA",
+        "gpsCoordinates": {
+          "latitude": 44.424424,
+          "longitude": 26.0959
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "0:55",
+            "3:28",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:15",
+            "0:55",
+            "3:28",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "saturday": [
+            "0:15",
+            "0:55",
+            "3:28",
+            "4:05",
+            "4:45",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "631",
+        "name": "PIATA REGINA MARIA",
+        "location": "BD. REGINA MARIA",
+        "gpsCoordinates": {
+          "latitude": 44.422019,
+          "longitude": 26.091297
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "0:57",
+            "3:30",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:17",
+            "0:57",
+            "3:30",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "saturday": [
+            "0:17",
+            "0:57",
+            "3:30",
+            "4:07",
+            "4:47",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1084",
+        "name": "PIATA CHIRIGIU",
+        "location": "CAL. RAHOVEI",
+        "gpsCoordinates": {
+          "latitude": 44.417441,
+          "longitude": 26.081367
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "0:59",
+            "3:32",
+            "4:09",
+            "4:49",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:19",
+            "0:59",
+            "3:32",
+            "4:09",
+            "4:49",
+            "23:39"
+          ],
+          "saturday": [
+            "0:19",
+            "0:59",
+            "3:32",
+            "4:09",
+            "4:49",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1085",
+        "name": "SOSEAUA PROGRESULUI",
+        "location": "CAL. RAHOVEI",
+        "gpsCoordinates": {
+          "latitude": 44.415179,
+          "longitude": 26.077345
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:01",
+            "3:34",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:01",
+            "3:34",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "saturday": [
+            "0:21",
+            "1:01",
+            "3:34",
+            "4:11",
+            "4:51",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4117",
+        "name": "SEBASTIAN",
+        "location": "CAL. RAHOVEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:02",
+            "3:35",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:02",
+            "3:35",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "saturday": [
+            "0:22",
+            "1:02",
+            "3:35",
+            "4:12",
+            "4:52",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "4118",
+        "name": "PETRE ISPIRESCU",
+        "location": "CAL. RAHOVEI",
+        "gpsCoordinates": {
+          "latitude": 44.4185757,
+          "longitude": 26.0600438
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:04",
+            "3:37",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:04",
+            "3:37",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:04",
+            "3:37",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "4268",
+        "name": "PIATA RAHOVA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.4066297,
+          "longitude": 26.063632
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:06",
+            "3:39",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:06",
+            "3:39",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "saturday": [
+            "0:26",
+            "1:06",
+            "3:39",
+            "4:16",
+            "4:56",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "3932",
+        "name": "TEIUS",
+        "location": "SOS. ALEXANDRIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:08",
+            "3:41",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:08",
+            "3:41",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "saturday": [
+            "0:28",
+            "1:08",
+            "3:41",
+            "4:18",
+            "4:58",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "4056",
+        "name": "ANTIAERIANA",
+        "location": "SOS. ALEXANDRIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:10",
+            "3:43",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:10",
+            "3:43",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:10",
+            "3:43",
+            "4:20",
+            "5:00",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1093",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.398801,
+          "longitude": 26.045162
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:12",
+            "3:45",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:12",
+            "3:45",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "saturday": [
+            "0:32",
+            "1:12",
+            "3:45",
+            "4:22",
+            "5:02",
+            "23:52"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "3652",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.398802,
+          "longitude": 26.045176
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:16",
+            "1:06",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:00",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:16",
+            "1:06",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:00",
+            "23:40"
+          ],
+          "saturday": [
+            "0:16",
+            "1:06",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:00",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4063",
+        "name": "DEPOUL ALEXANDRIA",
+        "location": "SOS. ALEXANDRIEI",
+        "gpsCoordinates": {
+          "latitude": 44.3984078,
+          "longitude": 26.0444025
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "1:09",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:03",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:19",
+            "1:09",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:03",
+            "23:43"
+          ],
+          "saturday": [
+            "0:19",
+            "1:09",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:03",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4057",
+        "name": "ANTIAERIANA",
+        "location": "SOS. ALEXANDRIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:11",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:05",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:11",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:05",
+            "23:45"
+          ],
+          "saturday": [
+            "0:21",
+            "1:11",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:05",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3934",
+        "name": "TEIUS",
+        "location": "SOS. ALEXANDRIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "1:13",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:07",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:23",
+            "1:13",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:07",
+            "23:47"
+          ],
+          "saturday": [
+            "0:23",
+            "1:13",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:07",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2268",
+        "name": "PIATA RAHOVA",
+        "location": "CAL. RAHOVEI",
+        "gpsCoordinates": {
+          "latitude": 44.40373,
+          "longitude": 26.062308
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:15",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:09",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:15",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:09",
+            "23:49"
+          ],
+          "saturday": [
+            "0:25",
+            "1:15",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:09",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "2269",
+        "name": "PETRE ISPIRESCU",
+        "location": "CAL. RAHOVEI",
+        "gpsCoordinates": {
+          "latitude": 44.410132,
+          "longitude": 26.0697
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:17",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:17",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:27",
+            "1:17",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1283",
+        "name": "CALEA RAHOVEI",
+        "location": "CAL. RAHOVEI",
+        "gpsCoordinates": {
+          "latitude": 44.413483,
+          "longitude": 26.074559
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:18",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:12",
+            "23:52"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:18",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:12",
+            "23:52"
+          ],
+          "saturday": [
+            "0:28",
+            "1:18",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:12",
+            "23:52"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1100",
+        "name": "SOSEAUA PROGRESULUI",
+        "location": "CAL. RAHOVEI",
+        "gpsCoordinates": {
+          "latitude": 44.416082,
+          "longitude": 26.079444
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:20",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:20",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:30",
+            "1:20",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "642",
+        "name": "PIATA CHIRIGIU",
+        "location": "BD. GEORGE COSBUC",
+        "gpsCoordinates": {
+          "latitude": 44.417903,
+          "longitude": 26.082821
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:22",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:16",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:22",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:16",
+            "23:56"
+          ],
+          "saturday": [
+            "0:32",
+            "1:22",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:16",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "649",
+        "name": "PIATA REGINA MARIA",
+        "location": "BD. REGINA MARIA",
+        "gpsCoordinates": {
+          "latitude": 44.421069,
+          "longitude": 26.090237
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:24",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:18",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:24",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:18",
+            "23:58"
+          ],
+          "saturday": [
+            "0:34",
+            "1:24",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:18",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "655",
+        "name": "11 IUNIE",
+        "location": "BD. REGINA MARIA",
+        "gpsCoordinates": {
+          "latitude": 44.423722,
+          "longitude": 26.094831
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:36",
+            "1:26",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:20"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:36",
+            "1:26",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:20"
+          ],
+          "saturday": [
+            "0:00",
+            "0:36",
+            "1:26",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:20"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:38",
+            "1:28",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:22"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:38",
+            "1:28",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:22"
+          ],
+          "saturday": [
+            "0:02",
+            "0:38",
+            "1:28",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:22"
+          ]
+        }
+      }
+    ]
+  }
+}

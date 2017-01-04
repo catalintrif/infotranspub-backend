@@ -1,0 +1,250 @@
+{
+  "type": "metropolitan",
+  "lineId": "402",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "4106",
+        "name": "ROMPRIM",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.384023,
+          "longitude": 26.145619
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1626",
+        "name": "INSTITUTUL SF. MARIA",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.381693,
+          "longitude": 26.150857
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3285",
+        "name": "PRESTIGE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.380517,
+          "longitude": 26.155521
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1627",
+        "name": "PARAUL RECE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.379951,
+          "longitude": 26.159969
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "1628",
+        "name": "CAZANESTI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.379934,
+          "longitude": 26.164146
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1629",
+        "name": "PRIMARIA POPESTI-LEORDENI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.379774,
+          "longitude": 26.168428
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1630",
+        "name": "VIILOR",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.377078,
+          "longitude": 26.173434
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "3104",
+        "name": "FAGULUI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.374139,
+          "longitude": 26.177405
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1631",
+        "name": "VISCOFIL",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.372596,
+          "longitude": 26.179551
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "1632",
+        "name": "TABEREI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.369115,
+          "longitude": 26.184286
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1249",
+        "name": "ALEEA DANUBIANA",
+        "location": "AL. DANUBIANA",
+        "gpsCoordinates": {
+          "latitude": 44.364424,
+          "longitude": 26.193952
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "1633",
+        "name": "DANUBIANA",
+        "location": "AL. DANUBIANA",
+        "gpsCoordinates": {
+          "latitude": 44.367339,
+          "longitude": 26.195629
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "1633",
+        "name": "DANUBIANA",
+        "location": "AL. DANUBIANA",
+        "gpsCoordinates": {
+          "latitude": 44.367339,
+          "longitude": 26.195629
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1634",
+        "name": "SOSEAUA OLTENITEI",
+        "location": "AL. DANUBIANA",
+        "gpsCoordinates": {
+          "latitude": 44.364267,
+          "longitude": 26.193693
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "1635",
+        "name": "TABEREI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.368852,
+          "longitude": 26.184762
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "1636",
+        "name": "VISCOFIL",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.372211,
+          "longitude": 26.180246
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3105",
+        "name": "FAGULUI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.374604,
+          "longitude": 26.176938
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1637",
+        "name": "VIILOR",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.376777,
+          "longitude": 26.174024
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "1638",
+        "name": "PRIMARIA POPESTI-LEORDENI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.379607,
+          "longitude": 26.169905
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "1639",
+        "name": "CAZANESTI",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.380035,
+          "longitude": 26.16443
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1640",
+        "name": "PARAUL RECE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.380128,
+          "longitude": 26.159388
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "3286",
+        "name": "PRESTIGE",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.380677,
+          "longitude": 26.15483
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1641",
+        "name": "INSTITUTUL SF. MARIA",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.382062,
+          "longitude": 26.150183
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "4107",
+        "name": "ROMPRIM",
+        "location": "SOS. OLTENITEI",
+        "gpsCoordinates": {
+          "latitude": 44.38348,
+          "longitude": 26.146784
+        }
+      }
+    ]
+  }
+}

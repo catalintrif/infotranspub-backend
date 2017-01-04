@@ -1,0 +1,1914 @@
+{
+  "type": "night",
+  "lineId": "N117",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4358",
+        "name": "PIATA UNIRII 5",
+        "location": "BD. I.C.BRATIANU",
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "1:01",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:11",
+            "1:01",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "saturday": [
+            "0:11",
+            "1:01",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2021",
+        "name": "UNIVERSITATE",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.434787,
+          "longitude": 26.103014
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "saturday": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2277",
+        "name": "PIATA ROMANA",
+        "location": "BD. MAGHERU",
+        "gpsCoordinates": {
+          "latitude": 44.445155,
+          "longitude": 26.09778
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "saturday": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3294",
+        "name": "CALEA VICTORIEI",
+        "location": "BD. DACIA",
+        "gpsCoordinates": {
+          "latitude": 44.44583,
+          "longitude": 26.091688
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "saturday": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "191",
+        "name": "CALEA GRIVITEI",
+        "location": "BD. DACIA",
+        "gpsCoordinates": {
+          "latitude": 44.444649,
+          "longitude": 26.088273
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "saturday": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3376",
+        "name": "POPA TATU",
+        "location": "STR.M.VULCANESCU",
+        "gpsCoordinates": {
+          "latitude": 44.44329,
+          "longitude": 26.083323
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "saturday": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "905",
+        "name": "MINISTERUL TRANSPORTURILOR",
+        "location": "STR. GARII DE NORD",
+        "gpsCoordinates": {
+          "latitude": 44.444725,
+          "longitude": 26.078396
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "1:09",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:19",
+            "1:09",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:39"
+          ],
+          "saturday": [
+            "0:19",
+            "1:09",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2863",
+        "name": "GARA DE NORD",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.448288,
+          "longitude": 26.074274
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "saturday": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "2995",
+        "name": "NICOLAE TITULESCU",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.450793,
+          "longitude": 26.06896
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "saturday": [
+            "0:22",
+            "1:12",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "3009",
+        "name": "STOICA LUDESCU",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.453716,
+          "longitude": 26.064405
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "2996",
+        "name": "PASAJ GRANT",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.45645,
+          "longitude": 26.061748
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:15",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:15",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ],
+          "saturday": [
+            "0:25",
+            "1:15",
+            "3:30",
+            "4:15",
+            "4:55",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "3086",
+        "name": "CIMITIRUL SFANTA VINERI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.458413,
+          "longitude": 26.060076
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "saturday": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3087",
+        "name": "CARAIMAN",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.460318,
+          "longitude": 26.058596
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "saturday": [
+            "0:28",
+            "1:18",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "3164",
+        "name": "GRIRO",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.461873,
+          "longitude": 26.057379
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:29",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:49"
+          ],
+          "saturday": [
+            "0:29",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "3165",
+        "name": "KIEV",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.464159,
+          "longitude": 26.055604
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "saturday": [
+            "0:31",
+            "1:21",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "3166",
+        "name": "LAINICI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.466383,
+          "longitude": 26.053922
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ],
+          "saturday": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:52"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "3234",
+        "name": "R.A.R.",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.467912,
+          "longitude": 26.052719
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "saturday": [
+            "0:34",
+            "1:24",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "3168",
+        "name": "CLABUCET",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.470652,
+          "longitude": 26.050559
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "saturday": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "828",
+        "name": "CARPATI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.473101,
+          "longitude": 26.048664
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:27",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:27",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "saturday": [
+            "0:37",
+            "1:27",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "829",
+        "name": "DEPOUL BUCURESTII NOI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.478056,
+          "longitude": 26.044819
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ],
+          "saturday": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "824",
+        "name": "PAJUREI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.4806,
+          "longitude": 26.042803
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "saturday": [
+            "0:39",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "1219",
+        "name": "BD. GLORIEI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.48389,
+          "longitude": 26.040208
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:01",
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11"
+          ],
+          "weekdays": [
+            "0:01",
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11"
+          ],
+          "saturday": [
+            "0:01",
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "3112",
+        "name": "TEATRUL MASCA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.485994,
+          "longitude": 26.03857
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "saturday": [
+            "0:02",
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:12"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "3011",
+        "name": "PARCUL BAZILESCU",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.489045,
+          "longitude": 26.036195
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:04",
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:14"
+          ],
+          "weekdays": [
+            "0:04",
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:14"
+          ],
+          "saturday": [
+            "0:04",
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:14"
+          ]
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "1221",
+        "name": "JIMBOLIA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.492432,
+          "longitude": 26.033541
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:45",
+            "1:35",
+            "3:50",
+            "4:35",
+            "5:15"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:45",
+            "1:35",
+            "3:50",
+            "4:35",
+            "5:15"
+          ],
+          "saturday": [
+            "0:05",
+            "0:45",
+            "1:35",
+            "3:50",
+            "4:35",
+            "5:15"
+          ]
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "1395",
+        "name": "LAROMET",
+        "location": "BD. LAMINORULUI",
+        "gpsCoordinates": {
+          "latitude": 44.4951,
+          "longitude": 26.030454
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:07",
+            "0:47",
+            "1:37",
+            "3:52",
+            "4:37",
+            "5:17"
+          ],
+          "weekdays": [
+            "0:07",
+            "0:47",
+            "1:37",
+            "3:52",
+            "4:37",
+            "5:17"
+          ],
+          "saturday": [
+            "0:07",
+            "0:47",
+            "1:37",
+            "3:52",
+            "4:37",
+            "5:17"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "1229",
+        "name": "LAROMET",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.496166,
+          "longitude": 26.030677
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ],
+          "weekdays": [
+            "0:15",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ],
+          "saturday": [
+            "0:15",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1230",
+        "name": "JIMBOLIA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.491426,
+          "longitude": 26.033935
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ],
+          "weekdays": [
+            "0:17",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ],
+          "saturday": [
+            "0:17",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3012",
+        "name": "PARCUL BAZILESCU",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.487621,
+          "longitude": 26.036973
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ],
+          "weekdays": [
+            "0:19",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ],
+          "saturday": [
+            "0:19",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3111",
+        "name": "TEATRUL MASCA",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.488904,
+          "longitude": 26.036374
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:20",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ],
+          "saturday": [
+            "0:20",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2419",
+        "name": "BD. GLORIEI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.482976,
+          "longitude": 26.040547
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "3:21",
+            "4:06",
+            "4:46",
+            "22:51",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:21",
+            "3:21",
+            "4:06",
+            "4:46",
+            "22:51",
+            "23:31"
+          ],
+          "saturday": [
+            "0:21",
+            "3:21",
+            "4:06",
+            "4:46",
+            "22:51",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "837",
+        "name": "PAJUREI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.479879,
+          "longitude": 26.043
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:23",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ],
+          "saturday": [
+            "0:23",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "838",
+        "name": "SOSEAUA CHITILEI",
+        "location": "BD. BUCURESTII NOI",
+        "gpsCoordinates": {
+          "latitude": 44.477184,
+          "longitude": 26.045114
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "3:24",
+            "4:09",
+            "4:49",
+            "22:54",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:24",
+            "3:24",
+            "4:09",
+            "4:49",
+            "22:54",
+            "23:34"
+          ],
+          "saturday": [
+            "0:24",
+            "3:24",
+            "4:09",
+            "4:49",
+            "22:54",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "839",
+        "name": "CARPATI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.473163,
+          "longitude": 26.048043
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "3:25",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:25",
+            "3:25",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ],
+          "saturday": [
+            "0:25",
+            "3:25",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "3154",
+        "name": "CLABUCET",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.470258,
+          "longitude": 26.050462
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "3:27",
+            "4:12",
+            "4:52",
+            "22:57",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:27",
+            "3:27",
+            "4:12",
+            "4:52",
+            "22:57",
+            "23:37"
+          ],
+          "saturday": [
+            "0:27",
+            "3:27",
+            "4:12",
+            "4:52",
+            "22:57",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "3233",
+        "name": "R.A.R.",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.468597,
+          "longitude": 26.051804
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "3:28",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:28",
+            "3:28",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ],
+          "saturday": [
+            "0:28",
+            "3:28",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "3156",
+        "name": "LAINICI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.46553,
+          "longitude": 26.054201
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "3:29",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:29",
+            "3:29",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ],
+          "saturday": [
+            "0:29",
+            "3:29",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "3157",
+        "name": "KIEV",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.463608,
+          "longitude": 26.055669
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:31",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ],
+          "saturday": [
+            "0:31",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "3158",
+        "name": "GRIRO",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.461338,
+          "longitude": 26.057441
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:32",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ],
+          "saturday": [
+            "0:32",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "3159",
+        "name": "CARAIMAN",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.460338,
+          "longitude": 26.058598
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:03",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:33",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:03",
+            "23:43"
+          ],
+          "saturday": [
+            "0:33",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:03",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "3160",
+        "name": "CIMITIRUL SFANTA VINERI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.457746,
+          "longitude": 26.060255
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:35",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ],
+          "saturday": [
+            "0:35",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "3161",
+        "name": "PASAJ GRANT",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.455671,
+          "longitude": 26.061838
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:06",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:36",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:06",
+            "23:46"
+          ],
+          "saturday": [
+            "0:36",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:06",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "3010",
+        "name": "STOICA LUDESCU",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.452844,
+          "longitude": 26.065277
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:37",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ],
+          "saturday": [
+            "0:37",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "2993",
+        "name": "SOSEAUA NICOLAE TITULESCU",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.45024,
+          "longitude": 26.069417
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:09",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:39",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:09",
+            "23:49"
+          ],
+          "saturday": [
+            "0:39",
+            "3:39",
+            "4:24",
+            "5:04",
+            "23:09",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "2994",
+        "name": "GARA DE NORD",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.4479,
+          "longitude": 26.074594
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:40",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:40",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ],
+          "saturday": [
+            "0:40",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "2836",
+        "name": "BUZESTI",
+        "location": "CAL. GRIVITEI",
+        "gpsCoordinates": {
+          "latitude": 44.445587,
+          "longitude": 26.082042
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:41",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:41",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:41",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "2841",
+        "name": "BD.DACIA",
+        "location": "BD. DACIA",
+        "gpsCoordinates": {
+          "latitude": 44.444749,
+          "longitude": 26.089028
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:43",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:43",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:43",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "3293",
+        "name": "CALEA VICTORIEI",
+        "location": "BD. DACIA",
+        "gpsCoordinates": {
+          "latitude": 44.445653,
+          "longitude": 26.091656
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:44",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:44",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:44",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "2204",
+        "name": "PIATA ROMANA",
+        "location": "BD. MAGHERU",
+        "gpsCoordinates": {
+          "latitude": 44.446241,
+          "longitude": 26.096885
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:45",
+            "3:45",
+            "4:30",
+            "5:10",
+            "23:15",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:45",
+            "3:45",
+            "4:30",
+            "5:10",
+            "23:15",
+            "23:55"
+          ],
+          "saturday": [
+            "0:45",
+            "3:45",
+            "4:30",
+            "5:10",
+            "23:15",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "1994",
+        "name": "PIATA 21 DECEMBRIE 1989",
+        "location": "BD. N.BALCESCU",
+        "gpsCoordinates": {
+          "latitude": 44.436239,
+          "longitude": 26.101809
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:47",
+            "3:47",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:47",
+            "3:47",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ],
+          "saturday": [
+            "0:47",
+            "3:47",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:48",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:18",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:48",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:18",
+            "23:58"
+          ],
+          "saturday": [
+            "0:48",
+            "3:48",
+            "4:33",
+            "5:13",
+            "23:18",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:50",
+            "3:50",
+            "4:35",
+            "5:15",
+            "23:20"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:50",
+            "3:50",
+            "4:35",
+            "5:15",
+            "23:20"
+          ],
+          "saturday": [
+            "0:00",
+            "0:50",
+            "3:50",
+            "4:35",
+            "5:15",
+            "23:20"
+          ]
+        }
+      }
+    ]
+  }
+}

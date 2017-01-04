@@ -1,0 +1,1887 @@
+{
+  "type": "night",
+  "lineId": "N115",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "3:15",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "saturday": [
+            "0:11",
+            "0:51",
+            "3:16",
+            "4:01",
+            "4:41",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "881",
+        "name": "PIATA UNIRII",
+        "location": "STR. HALELOR",
+        "gpsCoordinates": {
+          "latitude": 44.429182,
+          "longitude": 26.102144
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:13",
+            "0:53",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:13",
+            "0:53",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:33"
+          ],
+          "saturday": [
+            "0:13",
+            "0:53",
+            "3:18",
+            "4:03",
+            "4:43",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "887",
+        "name": "PIATA NATIUNILE UNITE",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.430016,
+          "longitude": 26.096833
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "saturday": [
+            "0:15",
+            "0:55",
+            "3:20",
+            "4:05",
+            "4:45",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "9",
+        "name": "ELIE RADU",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.433382,
+          "longitude": 26.092057
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:17",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "saturday": [
+            "0:17",
+            "0:57",
+            "3:22",
+            "4:07",
+            "4:47",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "933",
+        "name": "POD IZVOR",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.433663,
+          "longitude": 26.088518
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "0:59",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:19",
+            "0:59",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:39"
+          ],
+          "saturday": [
+            "0:19",
+            "0:59",
+            "3:24",
+            "4:09",
+            "4:49",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2229",
+        "name": "POD HASDEU",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.433969,
+          "longitude": 26.083854
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:00",
+            "3:25",
+            "4:10",
+            "4:50",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "2230",
+        "name": "OPERA NATIONALA",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.434168,
+          "longitude": 26.080608
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ],
+          "saturday": [
+            "0:22",
+            "1:02",
+            "3:27",
+            "4:12",
+            "4:52",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "1997",
+        "name": "STIRBEI VODA",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.436505,
+          "longitude": 26.074178
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:04",
+            "3:29",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "848",
+        "name": "GRADINA BOTANICA",
+        "location": "SOS. COTROCENI",
+        "gpsCoordinates": {
+          "latitude": 44.436496,
+          "longitude": 26.065599
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "saturday": [
+            "0:26",
+            "1:06",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1394",
+        "name": "PIATA LEUL",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434705,
+          "longitude": 26.058617
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "saturday": [
+            "0:28",
+            "1:08",
+            "3:33",
+            "4:18",
+            "4:58",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "733",
+        "name": "BD. G-RAL VASILE MILEA",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.43463,
+          "longitude": 26.053344
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:10",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "1098",
+        "name": "U.P.B.",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434592,
+          "longitude": 26.047515
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "saturday": [
+            "0:31",
+            "1:11",
+            "3:36",
+            "4:21",
+            "5:01",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "756",
+        "name": "LICEUL TUDOR VLADIMIRESCU",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434495,
+          "longitude": 26.042784
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "saturday": [
+            "0:33",
+            "1:13",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "2506",
+        "name": "LUJERULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.4344,
+          "longitude": 26.033664
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ],
+          "saturday": [
+            "0:35",
+            "1:15",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "757",
+        "name": "VETERANILOR",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434329,
+          "longitude": 26.028823
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "saturday": [
+            "0:37",
+            "1:17",
+            "3:42",
+            "4:27",
+            "5:07",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "1282",
+        "name": "RASARITULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434291,
+          "longitude": 26.023608
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:19",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:19",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "saturday": [
+            "0:39",
+            "1:19",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "766",
+        "name": "PIATA GORJULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434232,
+          "longitude": 26.021442
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ],
+          "saturday": [
+            "0:00",
+            "0:40",
+            "1:20",
+            "3:45",
+            "4:30",
+            "5:10"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "768",
+        "name": "VALEA LUNGA",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434118,
+          "longitude": 26.015205
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ],
+          "saturday": [
+            "0:02",
+            "0:42",
+            "1:22",
+            "3:47",
+            "4:32",
+            "5:12"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "781",
+        "name": "APUSULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434105,
+          "longitude": 26.013286
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:04",
+            "0:44",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ],
+          "weekdays": [
+            "0:04",
+            "0:44",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ],
+          "saturday": [
+            "0:04",
+            "0:44",
+            "1:24",
+            "3:49",
+            "4:34",
+            "5:14"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "1341",
+        "name": "BD. PRECIZIEI",
+        "location": "STR. VALEA CASCADELOR",
+        "gpsCoordinates": {
+          "latitude": 44.432943,
+          "longitude": 26.005463
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:06",
+            "0:46",
+            "1:26",
+            "3:51",
+            "4:36",
+            "5:16"
+          ],
+          "weekdays": [
+            "0:06",
+            "0:46",
+            "1:26",
+            "3:51",
+            "4:36",
+            "5:16"
+          ],
+          "saturday": [
+            "0:06",
+            "0:46",
+            "1:26",
+            "3:51",
+            "4:36",
+            "5:16"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "3801",
+        "name": "DEPOUL MILITARI",
+        "location": "BD. PRECIZIEI",
+        "scheduleTable": {
+          "sunday": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:53",
+            "4:38",
+            "5:18"
+          ],
+          "weekdays": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:53",
+            "4:38",
+            "5:18"
+          ],
+          "saturday": [
+            "0:08",
+            "0:48",
+            "1:28",
+            "3:53",
+            "4:38",
+            "5:18"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "2624",
+        "name": "GRUP SCOLAR AUTO",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.435723,
+          "longitude": 25.972492
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:55",
+            "4:40",
+            "5:20"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:55",
+            "4:40",
+            "5:20"
+          ],
+          "saturday": [
+            "0:10",
+            "0:50",
+            "1:30",
+            "3:55",
+            "4:40",
+            "5:20"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "2624",
+        "name": "GRUP SCOLAR AUTO",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.435723,
+          "longitude": 25.972492
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ],
+          "weekdays": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ],
+          "saturday": [
+            "0:10",
+            "1:00",
+            "3:15",
+            "4:00",
+            "4:40",
+            "22:45",
+            "23:25"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "2625",
+        "name": "VICTORIA",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434912,
+          "longitude": 25.981894
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ],
+          "weekdays": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ],
+          "saturday": [
+            "0:12",
+            "1:02",
+            "3:17",
+            "4:02",
+            "4:42",
+            "22:47",
+            "23:27"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "2774",
+        "name": "METRO MILITARI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434319,
+          "longitude": 25.98924
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ],
+          "weekdays": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ],
+          "saturday": [
+            "0:14",
+            "1:04",
+            "3:19",
+            "4:04",
+            "4:44",
+            "22:49",
+            "23:29"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "2626",
+        "name": "NUFARUL",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.433861,
+          "longitude": 25.995328
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ],
+          "saturday": [
+            "0:15",
+            "1:05",
+            "3:20",
+            "4:05",
+            "4:45",
+            "22:50",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "2627",
+        "name": "MASTER",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.433742,
+          "longitude": 26.000056
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "22:52",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "22:52",
+            "23:32"
+          ],
+          "saturday": [
+            "0:17",
+            "1:07",
+            "3:22",
+            "4:07",
+            "4:47",
+            "22:52",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "3536",
+        "name": "IMPRIMERIA NATIONALA",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.433735,
+          "longitude": 26.002859
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ],
+          "weekdays": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ],
+          "saturday": [
+            "0:18",
+            "1:08",
+            "3:23",
+            "4:08",
+            "4:48",
+            "22:53",
+            "23:33"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "2580",
+        "name": "AUTOGARA MILITARI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.433818,
+          "longitude": 26.007395
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ],
+          "saturday": [
+            "0:20",
+            "1:10",
+            "3:25",
+            "4:10",
+            "4:50",
+            "22:55",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "899",
+        "name": "APUSULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434098,
+          "longitude": 26.013271
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "22:56",
+            "23:36"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "22:56",
+            "23:36"
+          ],
+          "saturday": [
+            "0:21",
+            "1:11",
+            "3:26",
+            "4:11",
+            "4:51",
+            "22:56",
+            "23:36"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "681",
+        "name": "VALEA LUNGA",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434098,
+          "longitude": 26.015192
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "1:13",
+            "3:28",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:23",
+            "1:13",
+            "3:28",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ],
+          "saturday": [
+            "0:23",
+            "1:13",
+            "3:28",
+            "4:13",
+            "4:53",
+            "22:58",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "692",
+        "name": "PIATA GORJULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.433869,
+          "longitude": 26.021559
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ],
+          "saturday": [
+            "0:24",
+            "1:14",
+            "3:29",
+            "4:14",
+            "4:54",
+            "22:59",
+            "23:39"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "1285",
+        "name": "RASARITULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.43394,
+          "longitude": 26.025323
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ],
+          "saturday": [
+            "0:26",
+            "1:16",
+            "3:31",
+            "4:16",
+            "4:56",
+            "23:01",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "697",
+        "name": "VETERANILOR",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.43405,
+          "longitude": 26.029764
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ],
+          "saturday": [
+            "0:27",
+            "1:17",
+            "3:32",
+            "4:17",
+            "4:57",
+            "23:02",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "706",
+        "name": "LUJERULUI",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434078,
+          "longitude": 26.03609
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:04",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:29",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:04",
+            "23:44"
+          ],
+          "saturday": [
+            "0:29",
+            "1:19",
+            "3:34",
+            "4:19",
+            "4:59",
+            "23:04",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "708",
+        "name": "LICEUL TUDOR VLADIMIRESCU",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434165,
+          "longitude": 26.04263
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ],
+          "saturday": [
+            "0:30",
+            "1:20",
+            "3:35",
+            "4:20",
+            "5:00",
+            "23:05",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "1273",
+        "name": "U.P.B.",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434215,
+          "longitude": 26.048334
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ],
+          "saturday": [
+            "0:32",
+            "1:22",
+            "3:37",
+            "4:22",
+            "5:02",
+            "23:07",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "715",
+        "name": "FACULTATEA ELECTRONICA",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434374,
+          "longitude": 26.055221
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:23",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:08",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:23",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:08",
+            "23:48"
+          ],
+          "saturday": [
+            "0:33",
+            "1:23",
+            "3:38",
+            "4:23",
+            "5:03",
+            "23:08",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "639",
+        "name": "PIATA LEUL",
+        "location": "BD. IULIU MANIU",
+        "gpsCoordinates": {
+          "latitude": 44.434411,
+          "longitude": 26.058369
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ],
+          "saturday": [
+            "0:35",
+            "1:25",
+            "3:40",
+            "4:25",
+            "5:05",
+            "23:10",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "251",
+        "name": "CAROL DAVILA",
+        "location": "SOS. COTROCENI",
+        "gpsCoordinates": {
+          "latitude": 44.437463,
+          "longitude": 26.068563
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:36",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:36",
+            "1:26",
+            "3:41",
+            "4:26",
+            "5:06",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "1887",
+        "name": "POD COTROCENI",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.437765,
+          "longitude": 26.070578
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:38",
+            "1:28",
+            "3:43",
+            "4:28",
+            "5:08",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "2805",
+        "name": "SPITALUL UNIVERSITAR",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.436526,
+          "longitude": 26.072918
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:39",
+            "1:29",
+            "3:44",
+            "4:29",
+            "5:09",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "477",
+        "name": "POD EROILOR",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.434799,
+          "longitude": 26.076764
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:16",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:16",
+            "23:56"
+          ],
+          "saturday": [
+            "0:41",
+            "1:31",
+            "3:46",
+            "4:31",
+            "5:11",
+            "23:16",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "1041",
+        "name": "FACULTATEA MEDICINA VETERINARA",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.433608,
+          "longitude": 26.080802
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ],
+          "saturday": [
+            "0:42",
+            "1:32",
+            "3:47",
+            "4:32",
+            "5:12",
+            "23:17",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "2242",
+        "name": "POD HASDEU",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.433309,
+          "longitude": 26.085143
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:14",
+            "23:19",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:14",
+            "23:19",
+            "23:59"
+          ],
+          "saturday": [
+            "0:44",
+            "1:34",
+            "3:49",
+            "4:34",
+            "5:14",
+            "23:19",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "1082",
+        "name": "POD IZVOR",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.432952,
+          "longitude": 26.090799
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:45",
+            "1:35",
+            "3:50",
+            "4:35",
+            "5:15",
+            "23:20"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:45",
+            "1:35",
+            "3:50",
+            "4:35",
+            "5:15",
+            "23:20"
+          ],
+          "saturday": [
+            "0:00",
+            "0:45",
+            "1:35",
+            "3:50",
+            "4:35",
+            "5:15",
+            "23:20"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "1083",
+        "name": "PIATA NATIUNILE UNITE",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.4293,
+          "longitude": 26.097112
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:47",
+            "1:37",
+            "3:52",
+            "4:37",
+            "5:17",
+            "23:22"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:47",
+            "1:37",
+            "3:52",
+            "4:37",
+            "5:17",
+            "23:22"
+          ],
+          "saturday": [
+            "0:02",
+            "0:47",
+            "1:37",
+            "3:52",
+            "4:37",
+            "5:17",
+            "23:22"
+          ]
+        }
+      },
+      {
+        "stopId": "25",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:48",
+            "1:38",
+            "3:53",
+            "4:38",
+            "5:18",
+            "23:23"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:48",
+            "1:38",
+            "3:53",
+            "4:38",
+            "5:18",
+            "23:23"
+          ],
+          "saturday": [
+            "0:03",
+            "0:48",
+            "1:38",
+            "3:53",
+            "4:38",
+            "5:18",
+            "23:23"
+          ]
+        }
+      },
+      {
+        "stopId": "26",
+        "stopCode": "1207",
+        "name": "PIATA UNIRII 2",
+        "location": "ALEEA II",
+        "gpsCoordinates": {
+          "latitude": 44.425783,
+          "longitude": 26.102856
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:50",
+            "1:40",
+            "3:55",
+            "4:40",
+            "5:20",
+            "23:25"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:50",
+            "1:40",
+            "3:55",
+            "4:40",
+            "5:20",
+            "23:25"
+          ],
+          "saturday": [
+            "0:05",
+            "0:50",
+            "1:40",
+            "3:55",
+            "4:40",
+            "5:20",
+            "23:25"
+          ]
+        }
+      }
+    ]
+  }
+}

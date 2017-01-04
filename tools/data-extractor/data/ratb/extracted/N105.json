@@ -1,0 +1,1826 @@
+{
+  "type": "night",
+  "lineId": "N105",
+  "lineStops": {
+    "up": [
+      {
+        "stopId": "0",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:10",
+            "0:55",
+            "3:10",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "weekdays": [
+            "0:10",
+            "0:55",
+            "3:10",
+            "4:00",
+            "4:40",
+            "23:30"
+          ],
+          "saturday": [
+            "0:10",
+            "0:55",
+            "3:10",
+            "4:00",
+            "4:40",
+            "23:30"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1086",
+        "name": "PIATA UNIRII 1",
+        "location": "ALEEA III",
+        "gpsCoordinates": {
+          "latitude": 44.427187,
+          "longitude": 26.100811
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:11",
+            "0:56",
+            "3:11",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "weekdays": [
+            "0:11",
+            "0:56",
+            "3:11",
+            "4:01",
+            "4:41",
+            "23:31"
+          ],
+          "saturday": [
+            "0:11",
+            "0:56",
+            "3:11",
+            "4:01",
+            "4:41",
+            "23:31"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "4356",
+        "name": "PIATA UNIRII 3",
+        "location": "ALEEA II",
+        "scheduleTable": {
+          "sunday": [
+            "0:12",
+            "0:57",
+            "3:12",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "weekdays": [
+            "0:12",
+            "0:57",
+            "3:12",
+            "4:02",
+            "4:42",
+            "23:32"
+          ],
+          "saturday": [
+            "0:12",
+            "0:57",
+            "3:12",
+            "4:02",
+            "4:42",
+            "23:32"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "3732",
+        "name": "PASAJ MARASESTI",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.421883,
+          "longitude": 26.109749
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:14",
+            "0:59",
+            "3:14",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "weekdays": [
+            "0:14",
+            "0:59",
+            "3:14",
+            "4:04",
+            "4:44",
+            "23:34"
+          ],
+          "saturday": [
+            "0:14",
+            "0:59",
+            "3:14",
+            "4:04",
+            "4:44",
+            "23:34"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "4520",
+        "name": "COLECTIV",
+        "location": "SPL. INDEPENDENTEI",
+        "gpsCoordinates": {
+          "latitude": 44.419312,
+          "longitude": 26.110782
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:15",
+            "1:00",
+            "3:15",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:15",
+            "1:00",
+            "3:15",
+            "4:05",
+            "4:45",
+            "23:35"
+          ],
+          "saturday": [
+            "0:15",
+            "1:00",
+            "3:15",
+            "4:05",
+            "4:45",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "3772",
+        "name": "UNIV. CRESTINA DIMITRIE CANTEMIR",
+        "location": "BD. GH.SINCAI",
+        "scheduleTable": {
+          "sunday": [
+            "0:17",
+            "1:02",
+            "3:17",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:17",
+            "1:02",
+            "3:17",
+            "4:07",
+            "4:47",
+            "23:37"
+          ],
+          "saturday": [
+            "0:17",
+            "1:02",
+            "3:17",
+            "4:07",
+            "4:47",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "4480",
+        "name": "COLEGIUL NATIONAL GH. SINCAI",
+        "location": "BD. GH.SINCAI",
+        "gpsCoordinates": {
+          "latitude": 44.414826,
+          "longitude": 26.105591
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:18",
+            "1:03",
+            "3:18",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:18",
+            "1:03",
+            "3:18",
+            "4:08",
+            "4:48",
+            "23:38"
+          ],
+          "saturday": [
+            "0:18",
+            "1:03",
+            "3:18",
+            "4:08",
+            "4:48",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "4479",
+        "name": "COLEGIUL NATIONAL GH. SINCAI",
+        "location": "BD. TINERETULUI",
+        "gpsCoordinates": {
+          "latitude": 44.413132,
+          "longitude": 26.10531
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:20",
+            "1:05",
+            "3:20",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:20",
+            "1:05",
+            "3:20",
+            "4:10",
+            "4:50",
+            "23:40"
+          ],
+          "saturday": [
+            "0:20",
+            "1:05",
+            "3:20",
+            "4:10",
+            "4:50",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2013",
+        "name": "PALATUL NATIONAL AL COPIILOR",
+        "location": "BD. TINERETULUI",
+        "gpsCoordinates": {
+          "latitude": 44.408878,
+          "longitude": 26.113401
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:06",
+            "3:21",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:06",
+            "3:21",
+            "4:11",
+            "4:51",
+            "23:41"
+          ],
+          "saturday": [
+            "0:21",
+            "1:06",
+            "3:21",
+            "4:11",
+            "4:51",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "2685",
+        "name": "SOSEAUA MIHAI BRAVU",
+        "location": "CAL. VACARESTI",
+        "gpsCoordinates": {
+          "latitude": 44.407926,
+          "longitude": 26.119969
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:23",
+            "1:08",
+            "3:23",
+            "4:13",
+            "4:53",
+            "23:43"
+          ],
+          "weekdays": [
+            "0:23",
+            "1:08",
+            "3:23",
+            "4:13",
+            "4:53",
+            "23:43"
+          ],
+          "saturday": [
+            "0:23",
+            "1:08",
+            "3:23",
+            "4:13",
+            "4:53",
+            "23:43"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "884",
+        "name": "COSTACHE STAMATE",
+        "location": "CAL. VACARESTI",
+        "gpsCoordinates": {
+          "latitude": 44.40357,
+          "longitude": 26.12089
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:09",
+            "3:24",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:09",
+            "3:24",
+            "4:14",
+            "4:54",
+            "23:44"
+          ],
+          "saturday": [
+            "0:24",
+            "1:09",
+            "3:24",
+            "4:14",
+            "4:54",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "932",
+        "name": "PRIDVORULUI",
+        "location": "CAL. VACARESTI",
+        "gpsCoordinates": {
+          "latitude": 44.400374,
+          "longitude": 26.120885
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:11",
+            "3:26",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:11",
+            "3:26",
+            "4:16",
+            "4:56",
+            "23:46"
+          ],
+          "saturday": [
+            "0:26",
+            "1:11",
+            "3:26",
+            "4:16",
+            "4:56",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "710",
+        "name": "PIATA SUDULUI",
+        "location": "STR. SERG.NITU VASILE",
+        "gpsCoordinates": {
+          "latitude": 44.391143,
+          "longitude": 26.119485
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:27",
+            "1:12",
+            "3:27",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:27",
+            "1:12",
+            "3:27",
+            "4:17",
+            "4:57",
+            "23:47"
+          ],
+          "saturday": [
+            "0:27",
+            "1:12",
+            "3:27",
+            "4:17",
+            "4:57",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "944",
+        "name": "BD. ALEXANDRU OBREGIA",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.388421,
+          "longitude": 26.117592
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:13",
+            "3:28",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:13",
+            "3:28",
+            "4:18",
+            "4:58",
+            "23:48"
+          ],
+          "saturday": [
+            "0:28",
+            "1:13",
+            "3:28",
+            "4:18",
+            "4:58",
+            "23:48"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "945",
+        "name": "DRAGOS MLADINOVICI",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.384741,
+          "longitude": 26.115396
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:15",
+            "3:30",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:15",
+            "3:30",
+            "4:20",
+            "5:00",
+            "23:50"
+          ],
+          "saturday": [
+            "0:30",
+            "1:15",
+            "3:30",
+            "4:20",
+            "5:00",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "946",
+        "name": "STRADUINTEI",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.382295,
+          "longitude": 26.115078
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:16",
+            "3:31",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:16",
+            "3:31",
+            "4:21",
+            "5:01",
+            "23:51"
+          ],
+          "saturday": [
+            "0:31",
+            "1:16",
+            "3:31",
+            "4:21",
+            "5:01",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "2472",
+        "name": "ALIORULUI",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.379547,
+          "longitude": 26.117455
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:18",
+            "3:33",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:18",
+            "3:33",
+            "4:23",
+            "5:03",
+            "23:53"
+          ],
+          "saturday": [
+            "0:33",
+            "1:18",
+            "3:33",
+            "4:23",
+            "5:03",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "1326",
+        "name": "PLATFORMA METALURGIEI",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.376157,
+          "longitude": 26.120493
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:19",
+            "3:34",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:19",
+            "3:34",
+            "4:24",
+            "5:04",
+            "23:54"
+          ],
+          "saturday": [
+            "0:34",
+            "1:19",
+            "3:34",
+            "4:24",
+            "5:04",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "3507",
+        "name": "EDITURA ARAMIS",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.373146,
+          "longitude": 26.12188
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:36",
+            "1:21",
+            "3:36",
+            "4:26",
+            "5:06",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:36",
+            "1:21",
+            "3:36",
+            "4:26",
+            "5:06",
+            "23:56"
+          ],
+          "saturday": [
+            "0:36",
+            "1:21",
+            "3:36",
+            "4:26",
+            "5:06",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "1327",
+        "name": "SERE",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.370199,
+          "longitude": 26.123355
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:22",
+            "3:37",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:22",
+            "3:37",
+            "4:27",
+            "5:07",
+            "23:57"
+          ],
+          "saturday": [
+            "0:37",
+            "1:22",
+            "3:37",
+            "4:27",
+            "5:07",
+            "23:57"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "3527",
+        "name": "METRO BERCENI",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.36516,
+          "longitude": 26.125887
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:24",
+            "3:39",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:24",
+            "3:39",
+            "4:29",
+            "5:09",
+            "23:59"
+          ],
+          "saturday": [
+            "0:39",
+            "1:24",
+            "3:39",
+            "4:29",
+            "5:09",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "4330",
+        "name": "BD. METALURGIEI 136",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.365904,
+          "longitude": 26.1297341
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:40",
+            "1:25",
+            "3:40",
+            "4:30",
+            "5:10"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:40",
+            "1:25",
+            "3:40",
+            "4:30",
+            "5:10"
+          ],
+          "saturday": [
+            "0:00",
+            "0:40",
+            "1:25",
+            "3:40",
+            "4:30",
+            "5:10"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "3381",
+        "name": "DUMITRU BRUMARESCU",
+        "location": "STR. BRUMARESCU",
+        "gpsCoordinates": {
+          "latitude": 44.366772,
+          "longitude": 26.133104
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:42",
+            "1:27",
+            "3:42",
+            "4:32",
+            "5:12"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:42",
+            "1:27",
+            "3:42",
+            "4:32",
+            "5:12"
+          ],
+          "saturday": [
+            "0:02",
+            "0:42",
+            "1:27",
+            "3:42",
+            "4:32",
+            "5:12"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "1592",
+        "name": "I.M.G.B. POARTA 3",
+        "location": "STR. BRUMARESCU",
+        "gpsCoordinates": {
+          "latitude": 44.362513,
+          "longitude": 26.136233
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:43",
+            "1:28",
+            "3:43",
+            "4:33",
+            "5:13"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:43",
+            "1:28",
+            "3:43",
+            "4:33",
+            "5:13"
+          ],
+          "saturday": [
+            "0:03",
+            "0:43",
+            "1:28",
+            "3:43",
+            "4:33",
+            "5:13"
+          ]
+        }
+      },
+      {
+        "stopId": "24",
+        "stopCode": "1593",
+        "name": "VULCAN BERCENI",
+        "location": "STR. BRUMARESCU",
+        "gpsCoordinates": {
+          "latitude": 44.359131,
+          "longitude": 26.139122
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:05",
+            "0:45",
+            "1:30",
+            "3:45",
+            "4:35",
+            "5:15"
+          ],
+          "weekdays": [
+            "0:05",
+            "0:45",
+            "1:30",
+            "3:45",
+            "4:35",
+            "5:15"
+          ],
+          "saturday": [
+            "0:05",
+            "0:45",
+            "1:30",
+            "3:45",
+            "4:35",
+            "5:15"
+          ]
+        }
+      }
+    ],
+    "down": [
+      {
+        "stopId": "0",
+        "stopCode": "1593",
+        "name": "VULCAN BERCENI",
+        "location": "STR. BRUMARESCU",
+        "gpsCoordinates": {
+          "latitude": 44.359131,
+          "longitude": 26.139122
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:19",
+            "1:10",
+            "3:10",
+            "4:00",
+            "4:40",
+            "22:55",
+            "23:35"
+          ],
+          "weekdays": [
+            "0:19",
+            "1:10",
+            "3:10",
+            "4:00",
+            "4:40",
+            "22:55",
+            "23:35"
+          ],
+          "saturday": [
+            "0:19",
+            "1:10",
+            "3:10",
+            "4:00",
+            "4:40",
+            "22:55",
+            "23:35"
+          ]
+        }
+      },
+      {
+        "stopId": "1",
+        "stopCode": "1594",
+        "name": "I.M.G.B. POARTA 3",
+        "location": "STR. BRUMARESCU",
+        "gpsCoordinates": {
+          "latitude": 44.362907,
+          "longitude": 26.13606
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:21",
+            "1:12",
+            "3:12",
+            "4:02",
+            "4:42",
+            "22:57",
+            "23:37"
+          ],
+          "weekdays": [
+            "0:21",
+            "1:12",
+            "3:12",
+            "4:02",
+            "4:42",
+            "22:57",
+            "23:37"
+          ],
+          "saturday": [
+            "0:21",
+            "1:12",
+            "3:12",
+            "4:02",
+            "4:42",
+            "22:57",
+            "23:37"
+          ]
+        }
+      },
+      {
+        "stopId": "2",
+        "stopCode": "3382",
+        "name": "DUMITRU BRUMARESCU",
+        "location": "STR. BRUMARESCU",
+        "gpsCoordinates": {
+          "latitude": 44.366991,
+          "longitude": 26.132149
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:22",
+            "1:13",
+            "3:13",
+            "4:03",
+            "4:43",
+            "22:58",
+            "23:38"
+          ],
+          "weekdays": [
+            "0:22",
+            "1:13",
+            "3:13",
+            "4:03",
+            "4:43",
+            "22:58",
+            "23:38"
+          ],
+          "saturday": [
+            "0:22",
+            "1:13",
+            "3:13",
+            "4:03",
+            "4:43",
+            "22:58",
+            "23:38"
+          ]
+        }
+      },
+      {
+        "stopId": "3",
+        "stopCode": "4329",
+        "name": "BD. METALURGIEI 136",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.365904,
+          "longitude": 26.1297341
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:24",
+            "1:15",
+            "3:15",
+            "4:05",
+            "4:45",
+            "23:00",
+            "23:40"
+          ],
+          "weekdays": [
+            "0:24",
+            "1:15",
+            "3:15",
+            "4:05",
+            "4:45",
+            "23:00",
+            "23:40"
+          ],
+          "saturday": [
+            "0:24",
+            "1:15",
+            "3:15",
+            "4:05",
+            "4:45",
+            "23:00",
+            "23:40"
+          ]
+        }
+      },
+      {
+        "stopId": "4",
+        "stopCode": "3528",
+        "name": "METRO BERCENI",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.365546,
+          "longitude": 26.125901
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:25",
+            "1:16",
+            "3:16",
+            "4:06",
+            "4:46",
+            "23:01",
+            "23:41"
+          ],
+          "weekdays": [
+            "0:25",
+            "1:16",
+            "3:16",
+            "4:06",
+            "4:46",
+            "23:01",
+            "23:41"
+          ],
+          "saturday": [
+            "0:25",
+            "1:16",
+            "3:16",
+            "4:06",
+            "4:46",
+            "23:01",
+            "23:41"
+          ]
+        }
+      },
+      {
+        "stopId": "5",
+        "stopCode": "1336",
+        "name": "SERE",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.371335,
+          "longitude": 26.123046
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:26",
+            "1:17",
+            "3:17",
+            "4:07",
+            "4:47",
+            "23:02",
+            "23:42"
+          ],
+          "weekdays": [
+            "0:26",
+            "1:17",
+            "3:17",
+            "4:07",
+            "4:47",
+            "23:02",
+            "23:42"
+          ],
+          "saturday": [
+            "0:26",
+            "1:17",
+            "3:17",
+            "4:07",
+            "4:47",
+            "23:02",
+            "23:42"
+          ]
+        }
+      },
+      {
+        "stopId": "6",
+        "stopCode": "3508",
+        "name": "EDITURA ARAMIS",
+        "location": "BD. METALURGIEI",
+        "gpsCoordinates": {
+          "latitude": 44.373544,
+          "longitude": 26.121975
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:28",
+            "1:19",
+            "3:19",
+            "4:09",
+            "4:49",
+            "23:04",
+            "23:44"
+          ],
+          "weekdays": [
+            "0:28",
+            "1:19",
+            "3:19",
+            "4:09",
+            "4:49",
+            "23:04",
+            "23:44"
+          ],
+          "saturday": [
+            "0:28",
+            "1:19",
+            "3:19",
+            "4:09",
+            "4:49",
+            "23:04",
+            "23:44"
+          ]
+        }
+      },
+      {
+        "stopId": "7",
+        "stopCode": "92",
+        "name": "TURNU MAGURELE",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.377608,
+          "longitude": 26.119722
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:29",
+            "1:20",
+            "3:20",
+            "4:10",
+            "4:50",
+            "23:05",
+            "23:45"
+          ],
+          "weekdays": [
+            "0:29",
+            "1:20",
+            "3:20",
+            "4:10",
+            "4:50",
+            "23:05",
+            "23:45"
+          ],
+          "saturday": [
+            "0:29",
+            "1:20",
+            "3:20",
+            "4:10",
+            "4:50",
+            "23:05",
+            "23:45"
+          ]
+        }
+      },
+      {
+        "stopId": "8",
+        "stopCode": "2294",
+        "name": "ALIORULUI",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.379212,
+          "longitude": 26.118236
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:30",
+            "1:21",
+            "3:21",
+            "4:11",
+            "4:51",
+            "23:06",
+            "23:46"
+          ],
+          "weekdays": [
+            "0:30",
+            "1:21",
+            "3:21",
+            "4:11",
+            "4:51",
+            "23:06",
+            "23:46"
+          ],
+          "saturday": [
+            "0:30",
+            "1:21",
+            "3:21",
+            "4:11",
+            "4:51",
+            "23:06",
+            "23:46"
+          ]
+        }
+      },
+      {
+        "stopId": "9",
+        "stopCode": "93",
+        "name": "STRADUINTEI",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.382124,
+          "longitude": 26.115552
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:31",
+            "1:22",
+            "3:22",
+            "4:12",
+            "4:52",
+            "23:07",
+            "23:47"
+          ],
+          "weekdays": [
+            "0:31",
+            "1:22",
+            "3:22",
+            "4:12",
+            "4:52",
+            "23:07",
+            "23:47"
+          ],
+          "saturday": [
+            "0:31",
+            "1:22",
+            "3:22",
+            "4:12",
+            "4:52",
+            "23:07",
+            "23:47"
+          ]
+        }
+      },
+      {
+        "stopId": "10",
+        "stopCode": "94",
+        "name": "DRAGOS MLADINOVICI",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.384726,
+          "longitude": 26.115773
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:33",
+            "1:24",
+            "3:24",
+            "4:14",
+            "4:54",
+            "23:09",
+            "23:49"
+          ],
+          "weekdays": [
+            "0:33",
+            "1:24",
+            "3:24",
+            "4:14",
+            "4:54",
+            "23:09",
+            "23:49"
+          ],
+          "saturday": [
+            "0:33",
+            "1:24",
+            "3:24",
+            "4:14",
+            "4:54",
+            "23:09",
+            "23:49"
+          ]
+        }
+      },
+      {
+        "stopId": "11",
+        "stopCode": "95",
+        "name": "EMIL RACOVITA",
+        "location": "BD. ALEX. OBREGIA",
+        "gpsCoordinates": {
+          "latitude": 44.388616,
+          "longitude": 26.117945
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:34",
+            "1:25",
+            "3:25",
+            "4:15",
+            "4:55",
+            "23:10",
+            "23:50"
+          ],
+          "weekdays": [
+            "0:34",
+            "1:25",
+            "3:25",
+            "4:15",
+            "4:55",
+            "23:10",
+            "23:50"
+          ],
+          "saturday": [
+            "0:34",
+            "1:25",
+            "3:25",
+            "4:15",
+            "4:55",
+            "23:10",
+            "23:50"
+          ]
+        }
+      },
+      {
+        "stopId": "12",
+        "stopCode": "693",
+        "name": "PIATA SUDULUI",
+        "location": "STR. SERG.NITU VASILE",
+        "gpsCoordinates": {
+          "latitude": 44.391296,
+          "longitude": 26.119897
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:35",
+            "1:26",
+            "3:26",
+            "4:16",
+            "4:56",
+            "23:11",
+            "23:51"
+          ],
+          "weekdays": [
+            "0:35",
+            "1:26",
+            "3:26",
+            "4:16",
+            "4:56",
+            "23:11",
+            "23:51"
+          ],
+          "saturday": [
+            "0:35",
+            "1:26",
+            "3:26",
+            "4:16",
+            "4:56",
+            "23:11",
+            "23:51"
+          ]
+        }
+      },
+      {
+        "stopId": "13",
+        "stopCode": "930",
+        "name": "PRIDVORULUI",
+        "location": "CAL. VACARESTI",
+        "gpsCoordinates": {
+          "latitude": 44.400336,
+          "longitude": 26.120847
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:37",
+            "1:28",
+            "3:28",
+            "4:18",
+            "4:58",
+            "23:13",
+            "23:53"
+          ],
+          "weekdays": [
+            "0:37",
+            "1:28",
+            "3:28",
+            "4:18",
+            "4:58",
+            "23:13",
+            "23:53"
+          ],
+          "saturday": [
+            "0:37",
+            "1:28",
+            "3:28",
+            "4:18",
+            "4:58",
+            "23:13",
+            "23:53"
+          ]
+        }
+      },
+      {
+        "stopId": "14",
+        "stopCode": "999",
+        "name": "COSTACHE STAMATE",
+        "location": "CAL. VACARESTI",
+        "gpsCoordinates": {
+          "latitude": 44.403853,
+          "longitude": 26.121259
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:38",
+            "1:29",
+            "3:29",
+            "4:19",
+            "4:59",
+            "23:14",
+            "23:54"
+          ],
+          "weekdays": [
+            "0:38",
+            "1:29",
+            "3:29",
+            "4:19",
+            "4:59",
+            "23:14",
+            "23:54"
+          ],
+          "saturday": [
+            "0:38",
+            "1:29",
+            "3:29",
+            "4:19",
+            "4:59",
+            "23:14",
+            "23:54"
+          ]
+        }
+      },
+      {
+        "stopId": "15",
+        "stopCode": "1012",
+        "name": "BD.TINERETULUI",
+        "location": "CAL. VACARESTI",
+        "gpsCoordinates": {
+          "latitude": 44.408075,
+          "longitude": 26.120102
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:39",
+            "1:30",
+            "3:30",
+            "4:20",
+            "5:00",
+            "23:15",
+            "23:55"
+          ],
+          "weekdays": [
+            "0:39",
+            "1:30",
+            "3:30",
+            "4:20",
+            "5:00",
+            "23:15",
+            "23:55"
+          ],
+          "saturday": [
+            "0:39",
+            "1:30",
+            "3:30",
+            "4:20",
+            "5:00",
+            "23:15",
+            "23:55"
+          ]
+        }
+      },
+      {
+        "stopId": "16",
+        "stopCode": "2786",
+        "name": "PALATUL NATIONAL AL COPIILOR",
+        "location": "BD. TINERETULUI",
+        "gpsCoordinates": {
+          "latitude": 44.408597,
+          "longitude": 26.115531
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:40",
+            "1:31",
+            "3:31",
+            "4:21",
+            "5:01",
+            "23:16",
+            "23:56"
+          ],
+          "weekdays": [
+            "0:40",
+            "1:31",
+            "3:31",
+            "4:21",
+            "5:01",
+            "23:16",
+            "23:56"
+          ],
+          "saturday": [
+            "0:40",
+            "1:31",
+            "3:31",
+            "4:21",
+            "5:01",
+            "23:16",
+            "23:56"
+          ]
+        }
+      },
+      {
+        "stopId": "17",
+        "stopCode": "2019",
+        "name": "PARCUL TINERETULUI",
+        "location": "BD. TINERETULUI",
+        "gpsCoordinates": {
+          "latitude": 44.409788,
+          "longitude": 26.11215
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:42",
+            "1:33",
+            "3:33",
+            "4:23",
+            "5:03",
+            "23:18",
+            "23:58"
+          ],
+          "weekdays": [
+            "0:42",
+            "1:33",
+            "3:33",
+            "4:23",
+            "5:03",
+            "23:18",
+            "23:58"
+          ],
+          "saturday": [
+            "0:42",
+            "1:33",
+            "3:33",
+            "4:23",
+            "5:03",
+            "23:18",
+            "23:58"
+          ]
+        }
+      },
+      {
+        "stopId": "18",
+        "stopCode": "821",
+        "name": "VISANA",
+        "location": "BD. TINERETULUI",
+        "gpsCoordinates": {
+          "latitude": 44.410672,
+          "longitude": 26.110224
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:43",
+            "1:34",
+            "3:34",
+            "4:24",
+            "5:04",
+            "23:19",
+            "23:59"
+          ],
+          "weekdays": [
+            "0:43",
+            "1:34",
+            "3:34",
+            "4:24",
+            "5:04",
+            "23:19",
+            "23:59"
+          ],
+          "saturday": [
+            "0:43",
+            "1:34",
+            "3:34",
+            "4:24",
+            "5:04",
+            "23:19",
+            "23:59"
+          ]
+        }
+      },
+      {
+        "stopId": "19",
+        "stopCode": "4481",
+        "name": "COLEGIUL NATIONAL GH. SINCAI",
+        "location": "BD. GH.SINCAI",
+        "gpsCoordinates": {
+          "latitude": 44.414453,
+          "longitude": 26.105451
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:00",
+            "0:44",
+            "1:35",
+            "3:35",
+            "4:25",
+            "5:05",
+            "23:20"
+          ],
+          "weekdays": [
+            "0:00",
+            "0:44",
+            "1:35",
+            "3:35",
+            "4:25",
+            "5:05",
+            "23:20"
+          ],
+          "saturday": [
+            "0:00",
+            "0:44",
+            "1:35",
+            "3:35",
+            "4:25",
+            "5:05",
+            "23:20"
+          ]
+        }
+      },
+      {
+        "stopId": "20",
+        "stopCode": "3773",
+        "name": "UNIV. CRESTINA DIMITRIE CANTEMIR",
+        "location": "BD. GH.SINCAI",
+        "scheduleTable": {
+          "sunday": [
+            "0:02",
+            "0:46",
+            "1:37",
+            "3:37",
+            "4:27",
+            "5:07",
+            "23:22"
+          ],
+          "weekdays": [
+            "0:02",
+            "0:46",
+            "1:37",
+            "3:37",
+            "4:27",
+            "5:07",
+            "23:22"
+          ],
+          "saturday": [
+            "0:02",
+            "0:46",
+            "1:37",
+            "3:37",
+            "4:27",
+            "5:07",
+            "23:22"
+          ]
+        }
+      },
+      {
+        "stopId": "21",
+        "stopCode": "4538",
+        "name": "PASAJ MARASESTI",
+        "location": "BD. MARASESTI",
+        "scheduleTable": {
+          "sunday": [
+            "0:03",
+            "0:47",
+            "1:38",
+            "3:38",
+            "4:28",
+            "5:08",
+            "23:23"
+          ],
+          "weekdays": [
+            "0:03",
+            "0:47",
+            "1:38",
+            "3:38",
+            "4:28",
+            "5:08",
+            "23:23"
+          ],
+          "saturday": [
+            "0:03",
+            "0:47",
+            "1:38",
+            "3:38",
+            "4:28",
+            "5:08",
+            "23:23"
+          ]
+        }
+      },
+      {
+        "stopId": "22",
+        "stopCode": "3825",
+        "name": "BD. DIMITRIE CANTEMIR",
+        "location": "BD. DIMITRIE CANTEMIR",
+        "scheduleTable": {
+          "sunday": [
+            "0:04",
+            "0:48",
+            "1:39",
+            "3:39",
+            "4:29",
+            "5:09",
+            "23:24"
+          ],
+          "weekdays": [
+            "0:04",
+            "0:48",
+            "1:39",
+            "3:39",
+            "4:29",
+            "5:09",
+            "23:24"
+          ],
+          "saturday": [
+            "0:04",
+            "0:48",
+            "1:39",
+            "3:39",
+            "4:29",
+            "5:09",
+            "23:24"
+          ]
+        }
+      },
+      {
+        "stopId": "23",
+        "stopCode": "4357",
+        "name": "PIATA UNIRII 4",
+        "location": "BD. I.C.BRATIANU",
+        "gpsCoordinates": {
+          "latitude": 44.4279904,
+          "longitude": 26.1039815
+        },
+        "scheduleTable": {
+          "sunday": [
+            "0:06",
+            "0:50",
+            "1:41",
+            "3:41",
+            "4:31",
+            "5:11",
+            "23:26"
+          ],
+          "weekdays": [
+            "0:06",
+            "0:50",
+            "1:41",
+            "3:41",
+            "4:31",
+            "5:11",
+            "23:26"
+          ],
+          "saturday": [
+            "0:06",
+            "0:50",
+            "1:41",
+            "3:41",
+            "4:31",
+            "5:11",
+            "23:26"
+          ]
+        }
+      }
+    ]
+  }
+}

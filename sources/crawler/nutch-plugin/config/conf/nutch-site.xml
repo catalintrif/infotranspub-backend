@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+    <property>
+        <name>http.agent.name</name>
+        <value>GovITHub Crawler</value>
+    </property>
+
+    <property>
+        <name>db.fetch.interval.default</name>
+        <value>1</value>
+        <description>The number of seconds between re-fetches of a page</description>
+    </property>
+
+    <property>
+        <name>plugin.includes</name>
+        <value>indexer-db|nutch-extensionpoints|protocol-(http|file)|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+        <description> indexer-dummy|
+            Regular expression naming plugin directory names to
+            include.  Any plugin not matching this expression is excluded.
+            In any case you need at least include the nutch-extensionpoints plugin. By
+            default Nutch includes crawling just HTML and plain text via HTTP,
+            and basic indexing and search plugins. In order to use HTTPS please enable
+            protocol-httpclient, but be aware of possible intermittent problems with the
+            underlying commons-httpclient library. Set parsefilter-naivebayes for classification based focused crawler.
+        </description>
+    </property>
+
+</configuration>

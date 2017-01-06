@@ -1,0 +1,21 @@
+<plugin id="indexer-db" name="DB Indexer" version="1.0.0" provider-name="govithub">
+
+    <runtime>
+        <library name="indexer-db-1.0.jar">
+            <export name="*" />
+        </library>
+        <library name="postgresql.jar"/>
+    </runtime>
+
+    <requires>
+        <import plugin="nutch-extensionpoints" />
+    </requires>
+
+    <extension id="ro.gov.ithub.infotranspub.nutch.DBIndexer"
+               name="DB Indexer"
+               point="org.apache.nutch.indexer.IndexWriter">
+        <implementation id="indexer-db" class="ro.gov.ithub.infotranspub.nutch.DBIndexer">
+        </implementation>
+    </extension>
+
+</plugin>

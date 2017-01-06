@@ -26,6 +26,11 @@
 		<commons-lang3.version>3.5</commons-lang3.version>
 		<springfox-swagger2.version>2.0.2</springfox-swagger2.version>
 		<junit.version>4.12</junit.version>
+		<nutch.version>1.12</nutch.version>
+		<postgresql.version>9.4.1212</postgresql.version>
+
+		<maven-jar-plugin.version>2.3.2</maven-jar-plugin.version>
+		<maven-resources-plugin.version>3.0.2</maven-resources-plugin.version>
 	</properties>
 
 	<modules>
@@ -104,7 +109,33 @@
 				<artifactId>junit</artifactId>
 				<version>${junit.version}</version>
 			</dependency>
+			<dependency>
+				<groupId>org.apache.nutch</groupId>
+				<artifactId>nutch</artifactId>
+				<version>${nutch.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.postgresql</groupId>
+				<artifactId>postgresql</artifactId>
+				<version>${postgresql.version}</version>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	
+
+	<build>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-jar-plugin</artifactId>
+					<version>${maven-jar-plugin.version}</version>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-resources-plugin</artifactId>
+					<version>${maven-resources-plugin.version}</version>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
 </project>

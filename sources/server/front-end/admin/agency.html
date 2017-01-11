@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+</head>
+
+<body>
+
+<div class="jumbotron text-center">
+    <h1>Transport public</h1>
+    <p>Administrarea liniilor de transport, orarelor și stațiilor</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <h3>Date agenție</h3>
+            <div class="form-group">
+                <label for="agencyName">Nume:</label>
+                <input id="agencyName" class="form-control" value="Loctrans SA"/>
+                <label for="agencyCity">Locație:</label>
+                <input id="agencyCity" class="form-control" value="Slatina, România"/>
+                <input id="agencyAreaLat" value="44.4279805" hidden="true"/>
+                <input id="agencyAreaLng" value="24.3733833" hidden="true"/>
+            </div>
+
+            <h3>Definire rute</h3>
+            <label>Alege linia:</label>
+            <div class="input-group">
+                <select class="form-control" id="lineIdInput" onchange="onLineChange()">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                </select>
+                <span class="input-group-btn">
+                    <button type="button" class="btn btn-primary">Adaugă...</button>
+                </span>
+            </div>
+        </div>
+
+        <div class="col-sm-8">
+            <div id="map" style="width:100%;height:500px"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Station details modal -->
+<div id="lineInfoDialog" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 id="myModalLabel" class="modal-title">Definire stație</h4>
+            </div>
+            <div class="modal-body">
+                <label for="stationName"><p>Linia <span id="lineIdLabel"></span></p></label>
+                <div class="input-group">
+                    <span class="input-group-addon" id="basic-addon1">Stația</span>
+                    <input id="stationName" type="text" class="form-control" placeholder="Numele stației" aria-describedby="basic-addon1">
+                </div>
+                <p></p>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon2">Lat</span>
+                            <input id="stationLat" type="text" class="form-control" aria-describedby="basic-addon2">
+                            <span class="input-group-addon" id="basic-addon3">Long</span>
+                            <input id="stationLng" type="text" class="form-control" aria-describedby="basic-addon3">
+                        </div><!-- /input-group -->
+                    </div><!-- /.col-lg-6 -->
+                </div><!-- /.row -->
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Închide</button>
+                <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="saveLineButtonClicked()">Salvează</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="agency.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?callback=loadMap&key=AIzaSyAjZCTLvKEwzeBRu95JqU302-MyHHwsfac"></script>
+
+</body>
+</html>

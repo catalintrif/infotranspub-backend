@@ -33,7 +33,7 @@
             <h3>Definire rute</h3>
             <label>Alege linia:</label>
             <div class="input-group">
-                <select class="form-control" id="lineIdInput" onchange="onLineChange()">
+                <select class="form-control" id="lineIdInput" onchange="onLineChange(this)">
                     <option>1</option>
                     <option>2</option>
                     <option>3</option>
@@ -42,8 +42,24 @@
                     <button type="button" class="btn btn-primary">Adaugă...</button>
                 </span>
             </div>
+            <p></p>
+            <ul class="nav nav-tabs nav-justified" role="tablist">
+                <li role="presentation" class="active">
+                    <a id="tur" href="#tabTur" aria-controls="retur" role="tab" data-toggle="tab">Tur</a>
+                </li>
+                <li role="presentation">
+                    <a id="retur" href="#tabRetur" aria-controls="retur" role="tab" data-toggle="tab">Retur</a>
+                </li>
+            </ul>
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="tabTur">
+                    <div id="stationList" class="list-group">
+                    </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="tabRetur">...</div>
+            </div>
         </div>
-
         <div class="col-sm-8">
             <div id="map" style="width:100%;height:500px"></div>
         </div>
@@ -58,29 +74,27 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                 <h4 id="myModalLabel" class="modal-title">Definire stație</h4>
             </div>
-            <div class="modal-body">
-                <label for="stationName"><p>Linia <span id="lineIdLabel"></span></p></label>
-                <div class="input-group">
-                    <span class="input-group-addon" id="basic-addon1">Stația</span>
-                    <input id="stationName" type="text" class="form-control" placeholder="Numele stației" aria-describedby="basic-addon1">
+            <form id="stationForm">
+                <div class="modal-body">
+                    <p class="text-info">Linia <span id="lineIdLabel" class="label label-info"></span></p>
+                    <p></p>
+                    <div class="input-group">
+                        <span class="input-group-addon" id="basic-addon1">Stația</span>
+                        <input id="stationName" type="text" class="form-control" placeholder="Numele stației" aria-describedby="basic-addon1">
+                    </div>
+                    <p></p>
+                    <div class="input-group">
+                        <span class="input-group-addon" id="basic-addon2">Lat</span>
+                        <input id="stationLat" type="text" class="form-control" aria-describedby="basic-addon2">
+                        <span class="input-group-addon" id="basic-addon3">Long</span>
+                        <input id="stationLng" type="text" class="form-control" aria-describedby="basic-addon3">
+                    </div><!-- /input-group -->
                 </div>
-                <p></p>
-
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="input-group">
-                            <span class="input-group-addon" id="basic-addon2">Lat</span>
-                            <input id="stationLat" type="text" class="form-control" aria-describedby="basic-addon2">
-                            <span class="input-group-addon" id="basic-addon3">Long</span>
-                            <input id="stationLng" type="text" class="form-control" aria-describedby="basic-addon3">
-                        </div><!-- /input-group -->
-                    </div><!-- /.col-lg-6 -->
-                </div><!-- /.row -->
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Închide</button>
-                <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="saveLineButtonClicked()">Salvează</button>
-            </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Închide</button>
+                    <button type="submit" class="btn btn-primary">Salvează</button>
+                </div>
+            </form>
         </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->

@@ -1,0 +1,45 @@
+[
+  {
+    "stopId": 1,
+    "stopCode": 1,
+    "stopName": "Aurel Vlaicu",
+    "stopDesc": "Aurel Vlaicu",
+    "gpsCoordinates": {},
+    "zoneId": null,
+    "stopUrl": "https",
+    "locationType": null,
+    "parentStation": null,
+    "childStations": [],
+    "transferStops": [],
+    "wheelchairBoarding": null
+  },
+  {
+    "stopId": 2,
+    "stopCode": 2,
+    "stopName": "Aviatorilor",
+    "stopDesc": "Stația Aviatorilor",
+    "gpsCoordinates": {},
+    "zoneId": null,
+    "stopUrl": "https",
+    "locationType": null,
+    "parentStation": null,
+    "childStations": [],
+    "transferStops": [],
+    "wheelchairBoarding": null
+  },
+  {
+    "stopId": 3,
+    "stopCode": 3,
+    "stopName": "Apărătorii Patriei",
+    "stopDesc": "Stația AP",
+    "gpsCoordinates": {},
+    "zoneId": null,
+    "stopUrl": "https",
+    "locationType": null,
+    "parentStation": null,
+    "childStations": [],
+    "transferStops": [],
+    "wheelchairBoarding": null
+  }
+
+]

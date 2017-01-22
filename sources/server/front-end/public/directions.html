@@ -4,18 +4,20 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Transport public</title>
     <link rel="icon" href="img/brand.png">
     <!-- jQuery UI CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.css"/>
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
     <link rel="stylesheet" href="directions.css"/>
     <!--<link rel="stylesheet" href="css/main.css">-->
     <!--<link rel="stylesheet" href="css/gov.css">-->
+    <title data-i18n="title">Transport public</title>
 </head>
 <body>
 
@@ -32,69 +34,105 @@
             <a class="navbar-brand" href="#">
                 <img src="img/brand.png" width="25">
             </a>
-            <h3 class="navbar-text">Transport public</h3>
+            <h3 class="navbar-text" data-i18n="directions">Indicații</h3>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        English
-                    </a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                       aria-expanded="false" onclick="onChangeLanguage(this.innerHTML)"
+                       data-i18n="lang_button">English</a>
                 </li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
 
-
 <div class="container">
-<div class="row">
-    <div class="col-sm-3">
-        <img class="pull-right" src="img/directions.png"/>
-    </div>
-    <div class="col-sm-6">
-        <div class="row">
-            <div class="col-xs-12">
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">Din</span>
-                    <input type="text" class="form-control autocomplete" id="stationFrom" placeholder="Plecare" aria-label="Plecare"/>
-                    <span class="input-group-btn">
-                        <button class="btn btn-default" type="button" onclick="onSwitchStations()" >
+    <div class="row">
+        <div class="col-sm-6 col-sm-offset-3">
+            <div class="row">
+                <div class="col-sm-1 hidden-xs">
+                    <img src="img/directions.png" height="90"/>
+                </div>
+                <div class="col-sm-11">
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon" data-i18n="from">Din</span>
+                        <input type="text" class="form-control autocomplete" id="stationFrom" placeholder="Plecare"
+                               aria-label="Plecare"/>
+                        <span class="input-group-btn">
+                        <button class="btn btn-default" type="button" onclick="onSwitchStations()">
                             <span class="glyphicon glyphicon-sort" aria-hidden="true"></span>
                         </button>
                     </span>
-                </div>
-                <p></p>
-                <div class="input-group input-group-lg">
-                    <span class="input-group-addon">Spre</span>
-                    <input type="text" class="form-control autocomplete" id="stationTo" placeholder="Destinație" aria-label="Destination"/>
+                    </div>
+                    <p></p>
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon" data-i18n="to">Spre</span>
+                        <input type="text" class="form-control autocomplete" id="stationTo" placeholder="Destinație"
+                               aria-label="Destination"/>
+                    </div>
                 </div>
             </div>
-        </div>
-        <p></p>
-        <div class="row">
-            <div class="col-xs-8">
-                <div class="dropdown">
-                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <span class="glyphicon glyphicon-time"></span>
-                        Pleacă acum
-                        <span class="caret"></span>
+            <div class="row">
+                <div class="col-xs-12">
+                    <p></p>
+                    <div id="errorMessage" hidden class="alert alert-danger" role="alert">
+                        <span data-i18n="same_station_warning">Ați ales aceeași stație.</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-8">
+                    <div class="dropdown">
+                        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1"
+                                data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                            <span class="glyphicon glyphicon-time"></span>
+                            <span id="leaveTimeButton" data-i18n="leave_now">Pleacă acum</span>
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                            <li><a href="#" onclick="onChangeLeaveTime(10, this)" data-i18n="in_10_min">În 10 minute</a>
+                            </li>
+                            <li><a href="#" onclick="onChangeLeaveTime(20, this)" data-i18n="in_20_min">În 20 minute</a>
+                            </li>
+                            <li><a href="#" onclick="onChangeLeaveTime(30, this)" data-i18n="in_30_min">În 30 minute</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <button type="button" class="btn btn-default pull-right" data-i18n="options" data-toggle="collapse"
+                            data-target="#collapseOptions" aria-controls="collapseOptions">Opțiuni
                     </button>
-                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                        <li><a href="#">În 10 minute</a></li>
-                        <li><a href="#">În 20 minute</a></li>
-                        <li><a href="#">În 30 minute</a></li>
-                    </ul>
                 </div>
             </div>
-            <div class="col-xs-4">
-                <button type="button" class="btn btn-default pull-right">Opțiuni</button>
+            <div class="row">
+                <div class="col-xs-8 col-xs-offset-4 col-sm-7 col-sm-offset-5">
+                    <div class="collapse" id="collapseOptions">
+                        <div class="well">
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" aria-label="Bus" value="bus" checked>
+                                    <span data-i18n="bus">Autobuz</span>
+                                </label>
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" aria-label="Metro" value="metro" data-i18n="metro" checked>
+                                    <span data-i18n="metro">Metrou</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-</div>
 </div>
 
 <!-- Bootstrap core JavaScript
@@ -102,9 +140,10 @@
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.js"></script>
-<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
 <!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
 <script src="directions.js"></script>
 
 </body>

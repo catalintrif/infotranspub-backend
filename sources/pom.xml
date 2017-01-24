@@ -73,6 +73,12 @@
 				<groupId>org.postgis</groupId>
 				<artifactId>postgis-jdbc</artifactId>
 				<version>${postgis.version}</version>
+				<exclusions>
+					<exclusion>
+						<groupId>org.postgis</groupId>
+						<artifactId>postgis-stubs</artifactId>
+					</exclusion>
+				</exclusions>
 			</dependency>
 			<dependency>
 				<groupId>com.strategicgains</groupId>

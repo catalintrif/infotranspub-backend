@@ -1,10 +1,7 @@
 package ro.gov.ithub.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import ro.gov.ithub.base.BaseController;
 import ro.gov.ithub.entity.Stop;
 import ro.gov.ithub.service.StopService;
@@ -14,6 +11,7 @@ import java.util.Collection;
 import static org.springframework.web.bind.annotation.RequestMethod.*;
 
 @RestController
+@CrossOrigin(origins = {"http://localhost:63342", "http://localhost:8080", "http://localhost", "null"})
 public class StopController extends BaseController<Stop> {
 
 	private static final String STOPS_EN = "/stops";

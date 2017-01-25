@@ -45,7 +45,7 @@ public class Agency implements BaseEntity {
     @Column
     private String agencyPhone;
 
-    @OneToMany(fetch = FetchType.EAGER)
+    @OneToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
     private Set<Route> routes;
 
     @Override

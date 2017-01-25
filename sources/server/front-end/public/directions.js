@@ -1,6 +1,6 @@
 // TODO change after integration with back-end
-//STOPS_URL = "/stops";
-STOPS_URL = "stops.json";
+STOPS_URL = "http://localhost:9000/stops";
+//STOPS_URL = "stops.json";
 // List of stations initially loaded, as list of pairs {value: stationId, label: stationName}
 var stations = [];
 // station IDs of the currently selected stations

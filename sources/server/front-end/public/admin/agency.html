@@ -4,18 +4,26 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="../img/brand.png">
+
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <title data-i18n="title">Transport public</title>
 </head>
 
 <body>
 
-<div class="jumbotron text-center">
-    <h1>Transport public</h1>
-    <p>Administrarea liniilor de transport, orarelor și stațiilor</p>
-</div>
+<nav class="navbar navbar-default">
+        <div class="text-center">
+            <h1>Transport public</h1>
+            <h4>Administrarea liniilor de transport, orarelor și stațiilor</h4>
+        </div>
+</nav>
+
 
 <div class="container">
     <div class="row">
@@ -26,20 +34,18 @@
                 <input id="agencyName" class="form-control" value="Loctrans SA"/>
                 <label for="agencyCity">Locație:</label>
                 <input id="agencyCity" class="form-control" value="Slatina, România"/>
-                <input id="agencyAreaLat" value="44.4279805" hidden="true"/>
-                <input id="agencyAreaLng" value="24.3733833" hidden="true"/>
+                <label for="agencyId">ID:</label>
+                <input id="agencyId" class="form-control" value="60" readonly/>
+                <input id="agencyAreaLat" value="44.4279805" hidden/>
+                <input id="agencyAreaLng" value="24.3733833" hidden/>
             </div>
 
             <h3>Definire rute</h3>
             <label>Alege linia:</label>
             <div class="input-group">
-                <select class="form-control" id="lineIdInput" onchange="onLineChange(this)">
-                    <option>1</option>
-                    <option>2</option>
-                    <option>3</option>
-                </select>
+                <select class="form-control" id="lineIdSelect" onchange="onLineChange(this)"></select>
                 <span class="input-group-btn">
-                    <button type="button" class="btn btn-primary">Adaugă...</button>
+                    <button type="button" class="btn btn-primary" onclick="onAddNewLine()">Adaugă...</button>
                 </span>
             </div>
             <p></p>
@@ -66,12 +72,50 @@
     </div>
 </div>
 
-<!-- Station details modal -->
-<div id="lineInfoDialog" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<!-- Line details modal dialog -->
+<div id="lineInfoDialog" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="lineModalLabel">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h4 id="lineModalLabel" class="modal-title">Definire linie</h4>
+            </div>
+            <form id="lineInfoForm">
+                <div class="modal-body">
+                    <div class="input-group">
+                        <span class="input-group-addon" id="lineIdAddon">Linia</span>
+                        <input id="lineId" type="text" class="form-control" placeholder="Numărul liniei"
+                               aria-describedby="lineIdAddon">
+                    </div>
+                    <p></p>
+                    <div class="input-group">
+                        <span class="input-group-addon" id="lineTypeAddon">Tip</span>
+                        <select id="lineTypeSelect" class="form-control" aria-describedby="lineTypeAddon">
+                            <option value="BUS">Autobuz</option>
+                            <option value="TRAM_STREETCAR_LIGHTRAIL">Tramvai / Troleibuz</option>
+                            <option value="SUBWAY_METRO">Metrou</option>
+                            <option value="RAIL">Tren</option>
+                            <option value="FERRY">Feribot</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Închide</button>
+                    <button type="submit" class="btn btn-primary">Salvează</button>
+                </div>
+            </form>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Station details modal dialog -->
+<div id="stationInfoDialog" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
                 <h4 id="myModalLabel" class="modal-title">Definire stație</h4>
             </div>
             <form id="stationForm">
@@ -80,14 +124,17 @@
                     <p></p>
                     <div class="input-group">
                         <span class="input-group-addon" id="basic-addon1">Stația</span>
-                        <input id="stationName" type="text" class="form-control" placeholder="Numele stației" aria-describedby="basic-addon1">
+                        <input id="stationName" type="text" class="form-control" placeholder="Numele stației"
+                               aria-describedby="basic-addon1">
                     </div>
                     <p></p>
                     <div class="input-group">
                         <span class="input-group-addon" id="basic-addon2">Lat</span>
-                        <input id="stationLat" type="text" class="form-control" aria-describedby="basic-addon2">
+                        <input id="stationLat" type="text" class="form-control" aria-describedby="basic-addon2"
+                               readonly>
                         <span class="input-group-addon" id="basic-addon3">Long</span>
-                        <input id="stationLng" type="text" class="form-control" aria-describedby="basic-addon3">
+                        <input id="stationLng" type="text" class="form-control" aria-describedby="basic-addon3"
+                               readonly>
                     </div><!-- /input-group -->
                 </div>
                 <div class="modal-footer">
@@ -103,11 +150,12 @@
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
 <!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+<!-- Main script of this page -->
 <script src="agency.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?callback=loadMap&key=AIzaSyAjZCTLvKEwzeBRu95JqU302-MyHHwsfac"></script>
-
 </body>
 </html>

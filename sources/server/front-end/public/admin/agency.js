@@ -1,25 +1,45 @@
+GET_AGENCY_URL = "http://localhost:9000/agency";
 // maps line IDs to arrays of stations
 var lines = new Map();
 // maps markers to stations for easy finding
 var markers = new Map();
 var routePolyline;
 
-// elements
-lineIdInput = document.getElementById('lineIdInput');
-lineIdLabel = document.getElementById('lineIdLabel');
+//// HTML controls
+agencyNameInput = document.getElementById('agencyName');
+agencyCityInput = document.getElementById('agencyCity');
+lineIdSelect = document.getElementById('lineIdSelect');
+// Line dialog
+lineIdInput = document.getElementById('lineId');
+lineTypeSelect = document.getElementById('lineTypeSelect');
+// Station dialog
+stationLineIdLabel = document.getElementById('lineIdLabel');
 stationNameInput = document.getElementById('stationName');
 stationLatInput = document.getElementById('stationLat');
 stationLngInput = document.getElementById('stationLng');
 
+// UI setup
 $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
-  refreshScreen(lineIdInput.value, e.target.id);
+  refreshScreen(lineIdSelect.value, e.target.id);
 })
-$('#lineInfoDialog').on('shown.bs.modal', function() {
+$('#stationInfoDialog').on('shown.bs.modal', function() {
   $('#stationName').focus();
 })
 
-// Event handlers
+//// Initialization
 
+$(document).ready(function() {
+    $.getJSON(GET_AGENCY_URL + "/60",
+        function(agency){
+            agencyNameInput.value = agency.agencyName;
+            for (route of agency.routes) {
+                addRouteToList(route.routeShortName, route.routeType);
+            }
+        }
+    );
+});
+
+// Called by Google Maps API on initialization
 function loadMap() {
     var mapCanvas = document.getElementById("map");
     var mapOptions = {
@@ -35,17 +55,57 @@ function loadMap() {
     routePolyline.setMap(map);
 }
 
+//// Event handlers
+
+function onAddNewLine() {
+    $('#lineInfoDialog').modal('show');
+    $('#lineInfoForm').unbind('submit').bind('submit', function(event){
+        // prevent default browser behaviour
+        event.preventDefault();
+        onSaveLine();
+    });
+}
+
+function onSaveLine(lineId) {
+    newLineId = lineIdInput.value;
+    if (newLineId == "") {
+        $(lineIdInput).closest('.input-group').addClass('has-error');
+        return;
+    }
+    if (!lineId) { // new line
+        addRouteToList(newLineId, lineTypeSelect.value);
+    } else {
+        // edit
+    }
+    // close
+    $('#lineInfoDialog').modal('hide');
+    postLinesData();
+}
+
+function addRouteToList(routeShortName, routeType) {
+    var option = document.createElement("option");
+    option.value = routeShortName;
+    option.text = routeShortName + "(" + routeType + ")";
+    lineIdSelect.add(option);
+    lines.set(routeShortName, []);
+}
+
+// Handler for the line select box
 function onLineChange(selected) {
     refreshScreen(selected.value);
 }
 
 function onMapClick(map, position) {
+    lineId = lineIdSelect.value;
+    if (!lineId) {
+        onAddNewLine();
+        return;
+    }
     marker = new google.maps.Marker({
         position: position,
         draggable: true,
         map: map,
     });
-    lineId = lineIdInput.value;
     showStationDialog(lineId, null, marker);
 }
 
@@ -56,17 +116,17 @@ function onMarkerClick(map, marker, lineId) {
 }
 
 function showStationDialog(lineId, stationId, marker) {
-    $('#lineInfoDialog').modal('show');
+    $('#stationInfoDialog').modal('show');
     $('#stationForm').unbind('submit').bind('submit', function(event, lineId){
         // prevent default browser behaviour
         event.preventDefault();
-        saveLineButtonClicked(lineId, stationId, marker);
+        onSaveStation(lineId, stationId, marker);
     });
-    $('#lineInfoDialog').on('hidden.bs.modal', function () {
+    $('#stationInfoDialog').on('hidden.bs.modal', function () {
         cancelDialog(marker);
     });
 
-    lineIdLabel.innerHTML = lineIdInput.value;
+    stationLineIdLabel.innerHTML = lineIdSelect.value;
     if (!marker) {
         station = getStationById(stationName);
         marker = station.marker;
@@ -75,10 +135,10 @@ function showStationDialog(lineId, stationId, marker) {
     stationLngInput.value = marker.getPosition().lng();
 }
 
-function saveLineButtonClicked(lineId, stationId, marker) {
+function onSaveStation(lineId, stationId, marker) {
     // TODO check why this is passed undefined
     if (!lineId) {
-        lineId = lineIdInput.value;
+        lineId = lineIdSelect.value;
     }
     stationName = stationNameInput.value;
     if (!stationId) { // this is a new station
@@ -121,7 +181,7 @@ function saveLineButtonClicked(lineId, stationId, marker) {
         setStationDescription(station);
     }
     // close
-    $('#lineInfoDialog').modal('hide');
+    $('#stationInfoDialog').modal('hide');
     showInfoWindow(map, marker);
     refreshScreen(lineId);
 }
@@ -175,7 +235,7 @@ function showInfoWindow(map, marker) {
     info.open(map, marker);
 }
 
-// Data related
+// Helpers
 
 function setStationDescription(station) {
     var lineString = '';
@@ -191,4 +251,40 @@ function getStationById(id) {
             return station;
         }
     }
+}
+
+//// REST API
+
+function postLinesData() {
+    
+    agency =
+    {
+        "agencyId": document.getElementById("agencyId"),
+        "agencyLang": "RO",
+        "agencyName": document.getElementById("agencyName"),
+        "agencyPhone": "string",
+        "agencyTimezone": "string",
+        "agencyUrl": "string",
+        "fareUrl": "string",
+        "routes": [
+        ],
+        "trips": [
+        {
+            "bikesAllowed": "NO_INFO"
+        }
+        ]
+    }
+    for (line of lines.keys()) {
+        agency.routes.push({
+            "routeColor": "blue",
+            "routeDesc": "string123",
+            "routeLongName": "Linia " + line,
+            "routeShortName": line,
+            "routeTextColor": "black",
+            "routeType": "BUS",
+            "routeUrl": "string"
+        });
+    }
+
+//    alert(agency)
 }

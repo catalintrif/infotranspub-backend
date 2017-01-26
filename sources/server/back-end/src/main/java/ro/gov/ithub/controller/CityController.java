@@ -11,7 +11,7 @@ import java.util.Collection;
 import static org.springframework.web.bind.annotation.RequestMethod.*;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:63342", "http://localhost:8080", "http://localhost"})
+@CrossOrigin
 public class CityController extends BaseController<City> {
 
     private static final String CITIES_EN = "/citylist";

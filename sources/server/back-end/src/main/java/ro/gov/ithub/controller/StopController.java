@@ -11,7 +11,7 @@ import java.util.Collection;
 import static org.springframework.web.bind.annotation.RequestMethod.*;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:63342", "http://localhost:8080", "http://localhost", "null"})
+@CrossOrigin
 public class StopController extends BaseController<Stop> {
 
 	private static final String STOPS_EN = "/stops";

@@ -11,7 +11,9 @@ import java.util.Collection;
 import static org.springframework.web.bind.annotation.RequestMethod.*;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:63342", "http://localhost:8080", "http://localhost"})
+//TODO refine security for all REST services like this:
+// @CrossOrigin(origins = {"http://localhost:63342", "http://localhost:8080", "http://localhost"})
+@CrossOrigin
 public class AgencyController extends BaseController<Agency> {
 
 	private static final String AGENCIES_EN = "/agencies";

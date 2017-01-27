@@ -18,26 +18,30 @@
 <body>
 
 <nav class="navbar navbar-default">
-        <div class="text-center">
-            <h1>Transport public</h1>
-            <h4>Administrarea liniilor de transport, orarelor și stațiilor</h4>
-        </div>
+    <a class="navbar-brand">
+        <img src="../img/brand.png" width="35">
+    </a>
+    <h2>Transport public <small>Administrarea liniilor de transport, orarelor și stațiilor</small></h2>
 </nav>
 
 
-<div class="container">
+<div class="container-fluid">
     <div class="row">
         <div class="col-sm-4">
             <h3>Date agenție</h3>
             <div class="form-group">
                 <label for="agencyName">Nume:</label>
-                <input id="agencyName" class="form-control" value="Loctrans SA"/>
-                <label for="agencyCity">Locație:</label>
-                <input id="agencyCity" class="form-control" value="Slatina, România"/>
+                <input id="agencyName" class="form-control agencyData" />
+                <label for="agencyPhone">Telefon:</label>
+                <input id="agencyPhone" class="form-control agencyData" />
+                <label for="agencyUrl">URL:</label>
+                <input id="agencyUrl" class="form-control agencyData" />
+                <label for="fareUrl">Fare URL:</label>
+                <input id="fareUrl" class="form-control agencyData" />
                 <label for="agencyId">ID:</label>
-                <input id="agencyId" class="form-control" value="60" readonly/>
-                <input id="agencyAreaLat" value="44.4279805" hidden/>
-                <input id="agencyAreaLng" value="24.3733833" hidden/>
+                <input id="agencyId" class="form-control agencyData" value="60" />
+                <input id="agencyAreaLat" value="44.4279805" hidden />
+                <input id="agencyAreaLng" value="24.3733833" hidden />
             </div>
 
             <h3>Definire rute</h3>

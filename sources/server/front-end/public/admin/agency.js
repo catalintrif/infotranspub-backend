@@ -1,6 +1,6 @@
 GET_AGENCY_URL = "http://localhost:9000/agency";
-// maps line IDs to arrays of stations
-var lines = new Map();
+// maps routeShortName to array of stations
+var routes = new Map();
 // maps markers to stations for easy finding
 var markers = new Map();
 var routePolyline;
@@ -21,10 +21,16 @@ stationLngInput = document.getElementById('stationLng');
 // UI setup
 $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
   refreshScreen(lineIdSelect.value, e.target.id);
-})
+});
 $('#stationInfoDialog').on('shown.bs.modal', function() {
   $('#stationName').focus();
-})
+});
+$.ajaxSetup({
+  contentType: "application/json; charset=utf-8"
+});
+$('input.agencyData').change(function () {
+   postLinesData();
+});
 
 //// Initialization
 
@@ -33,11 +39,27 @@ $(document).ready(function() {
         function(agency){
             agencyNameInput.value = agency.agencyName;
             for (route of agency.routes) {
-                addRouteToList(route.routeShortName, route.routeType);
+                routes.set(route.routeShortName, route);
             }
+            refreshRouteList(routes);
         }
     );
 });
+
+function refreshRouteList(routes) {
+    lineIdSelect.innerHTML = "";
+    for (key of getSortedArray(routes.keys())) {
+        addRouteToList(routes.get(key).routeShortName, routes.get(key).routeType);
+    }
+}
+
+function getSortedArray(iterator) {
+    var a = [];
+    for (e of iterator) {
+        a.push(e);
+    }
+    return a.sort(cmpStringsWithNumbers);
+}
 
 // Called by Google Maps API on initialization
 function loadMap() {
@@ -64,16 +86,29 @@ function onAddNewLine() {
         event.preventDefault();
         onSaveLine();
     });
+    lineIdInput.value = "";
+    lineTypeSelect.selectedIndex = 0;
 }
 
 function onSaveLine(lineId) {
-    newLineId = lineIdInput.value;
-    if (newLineId == "") {
+    routeShortName = lineIdInput.value;
+    routeType = lineTypeSelect.value;
+    if (routeShortName == "") {
         $(lineIdInput).closest('.input-group').addClass('has-error');
         return;
     }
     if (!lineId) { // new line
-        addRouteToList(newLineId, lineTypeSelect.value);
+        routes.set(routeShortName, {
+            routeShortName: routeShortName,
+            routeLongName: "Linia " + routeShortName,
+            routeColor: "blue",
+            routeDesc: "string123",
+            routeTextColor: "black",
+            routeType: routeType,
+            routeUrl: "string"
+        });
+        refreshRouteList(routes);
+        lineIdSelect.value = routeShortName;
     } else {
         // edit
     }
@@ -82,12 +117,12 @@ function onSaveLine(lineId) {
     postLinesData();
 }
 
+// Adds (and formats) a single option to the list of routes
 function addRouteToList(routeShortName, routeType) {
     var option = document.createElement("option");
     option.value = routeShortName;
     option.text = routeShortName + "(" + routeType + ")";
     lineIdSelect.add(option);
-    lines.set(routeShortName, []);
 }
 
 // Handler for the line select box
@@ -97,10 +132,6 @@ function onLineChange(selected) {
 
 function onMapClick(map, position) {
     lineId = lineIdSelect.value;
-    if (!lineId) {
-        onAddNewLine();
-        return;
-    }
     marker = new google.maps.Marker({
         position: position,
         draggable: true,
@@ -109,15 +140,16 @@ function onMapClick(map, position) {
     showStationDialog(lineId, null, marker);
 }
 
-function onMarkerClick(map, marker, lineId) {
+function onMarkerClick(map, marker) {
     var station = markers.get(marker);
+    var lineId = lineIdSelect.value;
     showStationDialog(lineId, station.id, marker);
 //    currentMarker = marker;
 }
 
 function showStationDialog(lineId, stationId, marker) {
     $('#stationInfoDialog').modal('show');
-    $('#stationForm').unbind('submit').bind('submit', function(event, lineId){
+    $('#stationForm').unbind('submit').bind('submit', function(event){
         // prevent default browser behaviour
         event.preventDefault();
         onSaveStation(lineId, stationId, marker);
@@ -127,8 +159,9 @@ function showStationDialog(lineId, stationId, marker) {
     });
 
     stationLineIdLabel.innerHTML = lineIdSelect.value;
+    station = getStationById(stationName);
+    stationNameInput.value = station.name;
     if (!marker) {
-        station = getStationById(stationName);
         marker = station.marker;
     }
     stationLatInput.value = marker.getPosition().lat();
@@ -136,10 +169,6 @@ function showStationDialog(lineId, stationId, marker) {
 }
 
 function onSaveStation(lineId, stationId, marker) {
-    // TODO check why this is passed undefined
-    if (!lineId) {
-        lineId = lineIdSelect.value;
-    }
     stationName = stationNameInput.value;
     if (!stationId) { // this is a new station
         marker.setTitle(stationName);
@@ -147,36 +176,39 @@ function onSaveStation(lineId, stationId, marker) {
 //        position = new google.maps.LatLng(Number(stationLatInput.value), Number(stationLngInput.value));
 //        marker.setPosition();
         google.maps.event.addListener(marker, 'click', function() {
-            onMarkerClick(map, marker, lineId);
+            onMarkerClick(map, marker);
         });
         google.maps.event.addListener(marker, 'dragend', function() {
             drawRoute(lineId);
         });
         stationId = "S" + markers.size;
 
-    // TODO only for development
-    if (!stationName) {
-        stationName = stationId;
-    }
+// TODO only for development
+if (!stationName) { stationName = stationId;}
 
         var station = {
             id: stationId,
             name: stationName,
             marker: marker,
-            lines: [lineId]
+            routes: []
         };
         setStationDescription(station);
         markers.set(marker, station);
-        if (lines.get(lineId)) { // add station to line
-            lines.get(lineId).push(station);
-        } else { // first station on this line
-            lines.set(lineId, [station]);
+        if (lineId) {
+            station.routes.push(lineId);
+            if (routes.get(lineId).stations) { // add station to line
+                routes.get(lineId).stations.push(station);
+            } else { // first station on this line
+                routes.set(lineId, [station]);
+            }
+        } else { // free station
+
         }
     } else { // modify existing station
         station = markers.get(marker);
         station.name = stationName;
-        if (!station.lines.includes(lineId)) {
-            station.lines.push(lineId);
+        if (!station.routes.includes(lineId)) {
+            station.routes.push(lineId);
         }
         setStationDescription(station);
     }
@@ -195,14 +227,17 @@ function cancelDialog(marker) {
 // UI related
 
 function refreshScreen(lineId) {
-    drawRoute(lineId);
-    displayStations(lineId);
+    stations = routes.get(lineId).stations;
+    if (lineId && stations) {
+        drawRoute(lineId);
+        displayStations(lineId);
+    }
 }
 
 function displayStations(lineId) {
     stationListDiv = document.getElementById('stationList');
-    var optionsHtml = '';
-    for (var station of lines.get(lineId)) {
+    var optionsHtml = "";
+    for (var station of routes.get(lineId)) {
         optionsHtml +=
             '<button type="button" class="list-group-item"' +
             '   onclick="showStationDialog(' +
@@ -216,7 +251,7 @@ function displayStations(lineId) {
 
 function drawRoute(lineId) {
     var path = [];
-    for (var station of lines.get(lineId)) {
+    for (var station of stations) {
         path.push(station.marker.getPosition());
     }
     routePolyline.setOptions({
@@ -235,11 +270,27 @@ function showInfoWindow(map, marker) {
     info.open(map, marker);
 }
 
+//// REST API
+
+function postLinesData() {
+    agency = {
+        agencyId: document.getElementById("agencyId").value,
+        agencyLang: "RO",
+        agencyName: document.getElementById("agencyName").value,
+        agencyPhone: "string",
+        agencyTimezone: "GMT+2",
+        agencyUrl: "string",
+        fareUrl: "string",
+        routes: Array.from(routes.values())
+    }
+    $.post(GET_AGENCY_URL, JSON.stringify(agency));
+}
+
 // Helpers
 
 function setStationDescription(station) {
     var lineString = '';
-    for (var lineId of station.lines) {
+    for (var lineId of station.routes) {
         lineString += lineId + ' ';
     }
     station.description = 'Stația ' + station.name + '<br>Linia ' + lineString;
@@ -253,38 +304,55 @@ function getStationById(id) {
     }
 }
 
-//// REST API
+(function() {
+  // Regular expression to separate the digit string from the non-digit strings.
+  var reParts = /\d+|\D+/g;
 
-function postLinesData() {
-    
-    agency =
-    {
-        "agencyId": document.getElementById("agencyId"),
-        "agencyLang": "RO",
-        "agencyName": document.getElementById("agencyName"),
-        "agencyPhone": "string",
-        "agencyTimezone": "string",
-        "agencyUrl": "string",
-        "fareUrl": "string",
-        "routes": [
-        ],
-        "trips": [
-        {
-            "bikesAllowed": "NO_INFO"
+  // Regular expression to test if the string has a digit.
+  var reDigit = /\d/;
+
+  // Add cmpStringsWithNumbers to the global namespace.  This function takes to
+  // strings and compares them, returning -1 if `a` comes before `b`, 0 if `a`
+  // and `b` are equal, and 1 if `a` comes after `b`.
+  cmpStringsWithNumbers = function(a, b) {
+    // Get rid of casing issues.
+    a = a.toUpperCase();
+    b = b.toUpperCase();
+
+    // Separates the strings into substrings that have only digits and those
+    // that have no digits.
+    var aParts = a.match(reParts);
+    var bParts = b.match(reParts);
+
+    // Used to determine if aPart and bPart are digits.
+    var isDigitPart;
+
+    // If `a` and `b` are strings with substring parts that match...
+    if(aParts && bParts &&
+        (isDigitPart = reDigit.test(aParts[0])) == reDigit.test(bParts[0])) {
+      // Loop through each substring part to compare the overall strings.
+      var len = Math.min(aParts.length, bParts.length);
+      for(var i = 0; i < len; i++) {
+        var aPart = aParts[i];
+        var bPart = bParts[i];
+
+        // If comparing digits, convert them to numbers (assuming base 10).
+        if(isDigitPart) {
+          aPart = parseInt(aPart, 10);
+          bPart = parseInt(bPart, 10);
         }
-        ]
-    }
-    for (line of lines.keys()) {
-        agency.routes.push({
-            "routeColor": "blue",
-            "routeDesc": "string123",
-            "routeLongName": "Linia " + line,
-            "routeShortName": line,
-            "routeTextColor": "black",
-            "routeType": "BUS",
-            "routeUrl": "string"
-        });
+
+        // If the substrings aren't equal, return either -1 or 1.
+        if(aPart != bPart) {
+          return aPart < bPart ? -1 : 1;
+        }
+
+        // Toggle the value of isDigitPart since the parts will alternate.
+        isDigitPart = !isDigitPart;
+      }
     }
 
-//    alert(agency)
-}
+    // Use normal comparison.
+    return (a >= b) - (a <= b);
+  };
+})();

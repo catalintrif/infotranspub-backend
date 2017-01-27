@@ -2,7 +2,7 @@ Flux de lucru pentru o agentie:
 * Modificare date agentie (cele din GTFS + coordonate pentru centrare harta) 
 * Adaugare linie noua
     * Apare un popup ce permite definirea datelor pentru o linie (minimal: nume, tip; optional: descriere...)
-    * Se saleaza linia si este adaugata in lista de selectie
+    * Se salveaza linia si este adaugata in lista de selectie
     * Sensul este implicit Tur (tab-ul de sub selectorul de linie)
     * Pentru linia si sensul curente, se incepe definirea statiilor, prin clic pe harta:
         * Clic pe harta -> Apare popup pentru definirea unei statii noi (date minimale: nume). Este evidentiata linia pentru care se defineste statia.
@@ -20,7 +20,7 @@ Flux de lucru pentru o agentie:
         * Implicit sunt create 2 calendare: Zile lucratoare si Zile nelucratoare 
         * Se deschide calendarul Zile lucratoare
             * Se poate modifica lista de zile ale saptamanii (ex: adaugare Sambata) prin grup checkbox
-            * Se selecteaza tab Tur tur sau Retur 
+            * Se selecteaza tab Tur sau Retur 
             * Apare un tabel unde capul de tabel contine statiile in ordine
             * Fiecare rand reprezinta o cursa (numar generat secvential)
             * Fiecare celula poate contine timpul de trecere
@@ -49,9 +49,9 @@ Flux de lucru pentru o agentie:
                   ----- | -------- | -------- | -------- | --------
                   3     |   14:05  |     >    |    >     |    >
                          
-        * Se deschide calendarul Zile nelucratoare
+        * Se deschide calendarul Zile nelucratoare (Sambata, Duminica si Sarbatori legale)
+            * Daca una din zile (ex: Sambata) a fost adaugata la alt calendar ea nu mai e disponibila pentru selectie 
             * Se pot face aceleasi operatii pe calendar
-            * Daca una din zile (Sambata) a fost adaugata la alt calendar ea nu mai e selectata 
         * Se creaza un nou calendar
             * Pot fi selectate doar zilele saptamanii care nu au fost incluse in alt calendar
         
